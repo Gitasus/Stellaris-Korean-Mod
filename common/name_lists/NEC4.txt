@@ -1,0 +1,228 @@
+﻿### Necroid 4
+# Created by Gemma Thomson
+
+NECROID4 = {
+	category = "Necroid"
+	ship_names = {
+		generic = {
+			"배이티드 스위치" "비터 너브스" "블레이디드 몬스터" "브로큰 코어" "버닝 시즌" "채인드 던" "클래식 디나이얼" "콘스탄트 레퀴엠" "크랙드 미스포춘" "다크 앤 트위스티 로드" "다큰드 코어" "디피스트 머크" "디퍼런트 패이스" "디스코던트 소울" "디지즈드 앰비션" "돈 폴" "다운트로든" "둘드 시즌" "엔들리스 쏜" "폴스 프로퍼시" "피어 오브 체인지" "피어 오브 스태이시스" "플레시 포 라이프" "퓨너리얼 톨" "고스트 위딘 고스트" "글루미 덴" "곤, 곤, 곤" "그랜드 디스포리아" "그래이브-스트레처" "하쉬 저지먼트" "할로우 에코" "아이시 엠브레이스" "킬링 저" "라이프 인 그래이" "라이프리스 스파크" "리틀 새크리파이스" "메새지 인 윈드" "모비드 솔루션" "미스-패이커" "노이지 시크릿" "낫싱 리스 댄 바일런스" "엔스 스킨" "아더 사이드" "패일 리프 에코" "퍼패추얼 토일" "피어싱 윙" "프로디걸 데스" "레저렉션 오브 워우" "루티드 서퍼링" "새이크릿 보이드" "스칼렛 씽" "슈라우디드 호프" "사일런스드 호프" "사일런트 메모리" "싱킹 필링" "슬로우 패이드" "슬로우 파이어" "스트래인지 새이피언스" "서브미션 오브 퍼포스" "스위치블레이드" "댓 커로션" "트와이스 미저리" "트와이스드 리플렉션" "언엔딩 슬립" "언해피 하우스" "언인바이티드" "언터처블 드림" "벨리 오브 디스패어" "배이피드 롱잉" "벤전스 인 엑시스턴스" "바일 퍼포스" "바일 세덕션" "보이스 오브 다크니스"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+    ship_class_names = {
+        generic = {
+            "아배이스먼트" "앵자이어티" "아바리스" "배인" "컴플래슨시" "컨시트" "컨큐피슨시" "컨태이전" "컨빅션" "커버턴스" "크리드" "디프래비티" "데스티튜트" "독트린" "도그마" "디스포리아" "엔데믹" "파민" "길트" "멜랑콜리아" "미스포춘" "페널티" "페스틸런스" "시즘" "스커지" "쉐임" "배인글로리" "워우"
+        }
+    }
+
+	fleet_names = {
+		random_names = {
+			"아픔의 함대" "괴로움의 함대" "고뇌의 함대" "번민의 함대" "암울한 함대" "적막의 함대" "곤궁의 함대" "재난의 함대" "침울한 함대" "통증의 함대" "비통함의 함대" "우울한 함대" "허망의 함대" "모멸의 함대" "박해의 함대" "역병의 함대" "수치의 함대" "암울한 함대" "고통의 함대" "문제의 함대" "가련한 함대"
+		}
+		sequential_name = "%CC%번 함대"
+	}
+		
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "%CC% 잔류 군대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "%CC% 파멸의 군대"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "%CC% 파멸의 군대"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "%CC% 파멸의 군대"
+		}
+
+		defense_army = {
+			sequential_name = "%CC% 잔류 군대"
+		}
+			
+		assault_army = {
+			sequential_name = "%CC% 파멸의 군대"
+		}
+		
+		slave_army = {
+			sequential_name = "%CC% 묶여 있는 군대"
+		}
+		
+		clone_army = { 
+			sequential_name = "%CC% 복제 군대"
+		}
+		
+		undead_army = {
+			sequential_name = "%CC% 공포의 군대"
+		}
+
+		robotic_army = {
+			sequential_name = "%CC% 단단한 군대"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%CC% 단단한-방어 군대"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%CC% 예민한 군대"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%CC% 혐오체 군대"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%CC% 덧붙여진 군대"
+		}
+
+		occupation_army = {
+			sequential_name = "%CC% 점거 군대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%CC% 단단한-점거 군대"
+		}
+
+		primitive_army = {
+			sequential_name = "%CC% 순수한 군대"
+		}
+		industrial_army = {
+			sequential_name = "%CC% 노동자 군대"
+		}
+		postatomic_army = {
+			sequential_name = "%CC% 투쟁자 군대"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"아르카나" "블랙데이" "블러트랏" "채리엇" "클리어스토리" "커로전" "다크 프리스트니스" "도미니온" "더스크래이저" "디비아" "폴른 엔젤" "피버" "파이어휠" "플랫라인" "풀즈 엔드" "파울 매지칸" "행거" "헤르츠래그" "하이로판트" "일 탬퍼런스" "저지먼트" "크리스틴" "킬커널" "라스트 엑시트" "러'라" "루크리샤" "매곳트" "마를린" "네멘로스" "오비튜어" "쉐도우리" "사일런트 엣지" "스펠바운드" "스티그마티어" "테라커플" "타워" "터멀리드" "비올레딩" "나이트쉬프트" "패드셀" "디스인디저"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+                "블랙 스톤" "더 테맨트" "엑세보토" "엔터바트"
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+                "코퍼스티" "플라워멜트" "트루마" "파머슨"
+			}
+		}
+		
+		pc_arid = {
+			names = {
+                "불칸" "오퍼해자" "파이어텅" "이보우"
+			}
+		}
+		
+		pc_continental = {
+			names = {
+                "패어스톤" "미스트스톤" "백링스" "식스던"
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+                "다이어 스트래이츠" "렐리쉘" "사이말래이스" "웨이크"
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+                "지버리아" "마스크" "에티어" "하우버"
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+                "엔들리스 윈터" "화이터" "노스퍼" "아우로라긴"
+			}
+		}
+
+		pc_savannah = {
+			names = {
+                "누멘가르" "스파이테브리드" "비스트리스" "레사타트"
+			}
+		}
+
+		pc_alpine = {
+			names = {
+                "팽스랩" "라이샤" "재메세이" "강과"
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+                "아르클론" "벨라클론" "보론" "프레신" "버스텐" "칸디아" "차르딘" "코르넨" "단펜" "단스플룬" "데욘" "디오센" "돈텐" "엘모네" "파에론" "곤" "호웬" "자르신" "커데니온" "란드멘" "릴훈" "로커" "마르텐" "멜핀" "머센" "미콘" "몬넨" "오드허" "오스터" "퍼린" "로센" "로곤" "로렌" "사브렌" "사몬" "사운덴" "스콰프" "톤넨" "블람몬" "웰론" "화이톤"
+			}
+			
+			# Always combined with a second name
+			first_names_male = {
+			}
+			first_names_female = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				"아마틴" "보흘브" "에피" "만젠" "메그파" "몬난" "시먼" "스테'크" "톤" "야테스" "이그"
+			}
+			
+			regnal_second_names = {
+				"아레이" "퍼러" "러브데이" "페티" "리치" "립폰" "빈"
+			}
+		}
+	}
+}

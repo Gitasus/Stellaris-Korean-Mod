@@ -1,0 +1,220 @@
+﻿### Humanoid 3
+### Created by Henrik Thyrwall
+### 번역: Holy_Mackerel
+HUM3 = {
+	category = "Humanoid"
+	ship_names = {
+
+		generic = {
+			레플라르 임플라르 수플라르 비플라르 로플라르 데플라르 디르플라르 일리플라르 랜플라르 론플라르 풀플라르 타플라르 피플라르 에레플라르 시스플라르 놈플라르 준플라르 틸플라르 다브플라르 콘플라르 카브플라르 킨플라르 도플라르 팔플라르 유리플라르 운플라르 몰플라르 나르플라르 니트플라르 사르플라르 반플라르 빈플라르 보스플라르 파르플라르 리스플라르 란플라르 룬플라르 리르플라르 라크플라르 라이크플라르 인플라르 임플라르 이타플라르 이리플라르 이스플라르 로카플라르 프레플라르 우타플라르 펠를라르 폰플라르 마플라르 미플라르 에브플라르 에리플라르 엔플라르 에카플라르 에타니플라르 에스플라르 라트렉스 본트렉스 에르트렉스 시르트렉스 에브트렉스 키르트렉스 손트렉스 세크트레긋 비르트레긋 코르트렉스 루트렉스 레트렉스 롬트렉스 리트렉스 니트렉스 넬트렉스 나크트렉스 인트렉스 일트렉스 이리트렉스 랄트렉스 마트렉스 미트렉스 티트렉스 타르트렉스 티벨트렉스 툰트렉스 디트렉스 단트렉스 돈트렉스 둔트렉스 디프트렉스 울트렉스 운트렉스 우리트렉스 온트렉스 오라트렉스 오비트렉스 오키트렉스 이바트렉스 바트렉스 아케트렉스 아보트렉스
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+		}
+		sequential_name = "제 %CC% 원정 함대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 지상 보호대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 전쟁 조합"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 전쟁 조합"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 전쟁 조합"
+		}
+
+		defense_army = {
+			sequential_name = "제 %CC% 지상 보호대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 전쟁 조합"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 전장 노역자"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 전투 클론"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 노역자"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 로봇 창병"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 로봇 보호자"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 마술사 중대"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 죽음의 무리"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 별의 기사단"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 보안대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 점령지 드론"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				발두스 코르나스 이리바스 사라트 셀디스 파콘 에렐 울타르 보나스 콜다르 에코니르 펜디르 릴리르 라티르 릴리스 피샤르 케손 베리반 파타르 자루스 나트카 로셀 마코르 니스 오라마스 시트란 테리블 탄나그 시리본 코나다 진니르 사리쉬 카톤 이나톤 에라톤
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = { 
+			}
+			
+			# Always combined with a second name
+			first_names_male = {
+				로쉬 바쉬 사쉬 베쉬 파쉬 니쉬 켈쉬 일쉬 오르쉬 어쉬 파쉬 토쉬 이르쉬 데쉬 자쉬 리쉬 아오쉬
+			}
+
+			first_names_female = {
+				아비아 토나 수나 로아 펠라 비카 베라 오티아 피라 이르바 위타 나라 이리아 토바 다카 디카 포바
+			}
+
+			# Always combined with a first name
+			second_names = {
+				나-폴켄 나-시벤 나-세터 나-키터 나-일벤 나-오터 나-필반 나-페보르 나-펠젠 나-폴단 나-수타르 나-레디르 나-일퍼 나-카란 나-라단 나-포르칸 나-틸펜 나-투코르 나-포본 나-키르퍼 나-입반 나-웨간 나-솔판 나-엘드간 나-게드간 나-텔칸
+			}
+			
+			regnal_first_names_female = {
+				아비아 토나 수나 로아 펠라 비카 베라
+			}
+
+			regnal_first_names_male = {
+				로쉬 바쉬 사쉬 베쉬 파쉬 니쉬 켈쉬
+			}
+			
+			regnal_second_names = {
+				나-투칸
+			}
+		}
+	}
+}

@@ -1,0 +1,473 @@
+## Supremacists
+pop_faction_name_parts_list = {
+	key = "supremacist_names_1"
+	parts = {
+		"지상주의" = 1
+		"통합" = 1
+		"우선주의" = 1
+		"우월주의" = 1
+		"미래 개척" = 1
+		"강화주의" = 1
+		"우선" = 1
+		"보전주의" = 1
+		"순수주의" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "supremacist_names_2"
+	parts = {
+		"선봉대" = 1
+		"전선" = 1
+		"운동" = 1
+		"정당" = 1
+		"연합" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "supremacist"
+		}
+	}
+	format = format = "format.pop_faction.supremacist"
+}
+
+## Imperialists
+pop_faction_name_parts_list = {
+	key = "imperialist_names"
+	parts = {
+		"퇴역 장교회" = 1
+		"승리를 위해 움직이는 베테랑들" = 1
+		"군산복합체" = 1
+		"정복을 통한 강화 연합" = 1
+		"우주의 기사들" = 1
+		"애국 전위대" = 1
+		"불타는 별의 기사단" = 1
+		"붉은 전사 집회" = 1
+		"선제타격 군단" = 1
+		"붉은 군단" = 1
+		"담금질 계획" = 1
+		"전투 함성 작전" = 1
+		"승리의 깃발" = 1
+		"전우들" = 1
+		"은빛 수호대" = 1
+		"영광의 계획" = 1
+		"승리의 길 위원회" = 1
+		"선택받은 전위대" = 1
+		"승리의 북소리" = 1
+		"전장의 가시나무 기사단" = 1
+		"전쟁 패권주의 동맹" = 1
+		"용기의 행군" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "imperialist"
+		}
+	}
+	format = "format.pop_faction.imperialist"
+}
+
+## Isolationists
+pop_faction_name_parts_list = {
+	key = "isolationist_names_1"
+	parts = {
+		"불간섭주의" = 1
+		"무관계주의" = 1
+		"방어 제일" = 1
+		"조국 번영" = 1
+		"방어 준비" = 1
+		"중립주의" = 1
+		"조국 강화" = 1
+		"쇄국 주의" = 1
+		"영원한 경계" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "isolationist_names_2"
+	parts = {
+		"연정" = 1
+		"자문회" = 1
+		"위원회" = 1
+		"전당" = 1
+		"재단" = 1
+		"계획" = 1
+		"집회" = 1
+		"감시단" = 1
+		"동맹" = 1
+		"운동" = 1
+		"그룹" = 1
+		"기관" = 1
+		"네트워크" = 1
+		"포럼" = 1
+		"협회" = 1
+		"연맹" = 1
+		"정당" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "isolationist"
+		}
+	}
+	format = "format.pop_faction.isolationist"
+}
+
+## Totalitarians
+pop_faction_name_parts_list = {
+	key = "totalitarian_names_1"
+	parts = {
+		"힘을 통한 통합의" = 1
+		"전제주의" = 1
+		"제국 통합" = 1
+		"하나의 옥좌" = 1
+		"계급주의" = 1
+		"하나되는 통합을 위한" = 1
+		"귀족주의" = 1
+		"군주제 지지" = 1
+		"정돈된 사회" = 1
+		"안녕과 질서의" = 1
+		"충성스러운 시민들의" = 1
+		"엘리트 시민" = 1
+		"시민 복종" = 1
+		"복종, 충성 그리고 의무의" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "totalitarian_names_2"
+	parts = {
+		"발의회" = 1
+		"연정" = 1
+		"운동" = 1
+		"그룹" = 1
+		"연합" = 1
+		"정당" = 1
+		"전위대" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "totalitarian"
+		}
+	}
+	format = "format.pop_faction.totalitarian"
+}
+
+## Progressives
+pop_faction_name_parts_list = {
+	key = "progressive_names_1"
+	parts = {
+		"민주" = 1
+		"자유" = 1
+		"자유 투표" = 1
+		"자유 운동" = 1
+		"민주 개혁" = 1
+		"시민 자기 결정주의" = 1
+		"완전 참정권" = 1
+		"진정한 민주국가" = 1
+		"개인의 선택을 원하는" = 1
+		"자유 사고" = 1
+		"자유 시민" = 1
+		"일반 투표" = 1
+		"민주 정의" = 1
+		"자유의 친구들" = 1
+		"은하 노예 해방" = 1
+		"자유 선거" = 1
+		"시민의 자유를 위하는" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "progressive_names_2"
+	parts = {
+		"연정" = 1
+		"자문회" = 1
+		"위원회" = 1
+		"전당" = 1
+		"재단" = 1
+		"발의회" = 1
+		"집회" = 1
+		"감시단" = 1
+		"동맹" = 1
+		"운동" = 1
+		"그룹" = 1
+		"기관" = 1
+		"네트워크" = 1
+		"포럼" = 1
+		"협회" = 1
+		"연맹" = 1
+		"정당" = 1
+		"대회" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "progressive"
+		}
+	}
+	format = "format.pop_faction.progressive"
+}
+
+
+## Prosperity Faction
+pop_faction_name_parts_list = {
+	key = "prosperity_names_1"
+	parts = {
+		"국내 개발" = 1
+		"국가 성장" = 1
+		"경제 개발" = 1
+		"국가 자산" = 1
+		"자산 홍보" = 1
+		"발전 활동" = 1
+		"평화적 전진의" = 1
+		"번영의" = 1
+		"국가 번영" = 1
+		"국내 성장" = 1
+		"국가 안정" = 1
+		"평화적 발전의" = 1
+		"평화와 번영의" = 1
+		"국가 개혁" = 1
+		"진전, 평화, 번영의" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "prosperity_names_2"
+	parts = {
+		"재단" = 1
+		"계획" = 1
+		"연대" = 1
+		"자문회" = 1
+		"위원회" = 1
+		"정당" = 1
+		"연정" = 1
+		"연맹" = 1
+		"계획" = 1
+		"그룹" = 1
+		"로비" = 1
+		"네트워크" = 1
+		"의회" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "prosperity"
+		}
+	}
+	format = "format.pop_faction.prosperity"
+}
+
+## Technologists
+pop_faction_name_parts_list = {
+	key = "technologist_names_1"
+	parts = {
+		"위원회" = 1
+		"대학" = 1
+		"자문회" = 1
+		"기관" = 1
+		"연대" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "technologist_names_2"
+	parts = {
+		"고등 교육" = 1
+		"과학" = 1
+		"기술 혁신" = 1
+		"공학" = 1
+		"과학 혁신" = 1
+		"과학 교육" = 1
+		"과학 체계화" = 1
+		"고등 기술" = 1
+		"과학 진보" = 1
+		"기술 개선" = 1
+		"연구 효률화" = 1
+		"기술 석학" = 1
+		"과학 개선" = 1
+		"로봇 과학" = 1
+	}
+}
+
+
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "technologist"
+		}
+	}
+	format = "format.pop_faction.technologist"
+}
+
+## Traditionalists
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_2"
+	parts = {
+		"연합" = 1
+		"동맹" = 1
+		"의회" = 1
+		"위원회" = 1
+		"교단" = 1
+		"회의" = 1	
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_1"
+	parts = {
+		"전통적 가치관의" = 1
+		"종교주의" = 1
+		"신의 상담사들의" = 1
+		"성스러운 전통의" = 1
+		"종교적 보수주의" = 1
+		"영적 구원" = 1
+		"영적인 해방" = 1
+		"진정한 복음의" = 1
+		"정신철학" = 1
+		"정통기반" = 1
+		"형이상적인 정화의" = 1
+		"고귀한 성직자들의" = 1
+		"고위 사제" = 1
+		"신성불가침한 진리의" = 1
+		"경건한 전통주의" = 1
+		"믿음과 가치의" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "traditionalist"
+		}
+	}
+	format = format = "format.pop_faction.traditionalist"
+}
+
+## Xenoists
+pop_faction_name_parts_list = {
+	key = "xenoist_names_1"
+	parts = {
+		"외계인" = 1
+		"이종족" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "xenoist_names_2"
+	parts = {
+		"인권" = 1
+		"허용" = 1
+		"교류" = 1
+		"평등" = 1
+		"권리" = 1
+		"공감" = 1
+		"보호" = 1
+		"해방" = 1
+		"자유" = 1
+		"지원" = 1
+		"인권 개선" = 1
+		"계몽" = 1
+		"참정권 부여" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "xenoist_names_3"
+	parts = {
+		"연정" = 1
+		"로비" = 1
+		"자문회" = 1
+		"위원회" = 1
+		"전당" = 1
+		"재단" = 1
+		"계획" = 1
+		"집회" = 1
+		"감시단" = 1
+		"동맹" = 1
+		"운동" = 1
+		"그룹" = 1
+		"단체" = 1
+		"네트워크" = 1
+		"포럼" = 1
+		"연대" = 1
+		"협회" = 1
+		"교육회" = 1
+		"연맹" = 1
+		"옵저버" = 1
+		"정당" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "xenoist"
+		}
+	}
+	format = "format.pop_faction.xenoist"
+}
+
+## Manifesti
+pop_faction_name_parts_list = {
+	key = "manifesti_names_1"
+	parts = {
+		"선언" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "manifesti_names_2"
+	parts = {
+		"파-타이" = 1
+		"달리언스" = 1
+		"팔레트" = 1
+		"컨볼루션" = 1
+		"프락시스" = 1
+		"위브" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "manifesti"
+		}
+		format = "format.pop_faction.manifesti"
+	}
+	format = "<manifesti_names_2> <manifesti_names_1>"
+}

@@ -1,0 +1,134 @@
+
+# Synthetic Evolution Species Names #번역: Holy_Mackerel
+named_lists = {
+	ascension_list = {
+		Species_1 = {
+			name = 렉서
+			plural = 렉서
+		}
+		species_2 = {
+			name = 사일렌스
+			plural = 사일렌스
+		}
+		species_3 = {
+			name = 바이오트론
+			plural = 바이오트론
+		}
+		species_4 = {
+			name = 바이오메타트론
+			plural = 바이오메타트론
+		}
+		species_5 = {
+			name = 젤레스
+			plural = 젤레스
+		}
+		species_6 = {
+			name = 어센드
+			plural = 어센트
+		}
+		species_7 = {
+			name = 바이오모프
+			plural = 바이오모프
+		}
+		species_8 = {
+			name = 알트론
+			plural = 알트론
+		}
+		species_9 = {
+			name = 비리안
+			plural = 비리안
+		}
+		species_10 = {
+			name = 부란
+			plural = 부란
+		}
+		species_11 = {
+			name = 복사르
+			plural = 복사르
+		}
+		species_12 = {
+			name = 벤트릴리온
+			plural = 벤트릴리온
+		}
+		species_13 = {
+			name = 메차노이드
+			plural = 메차노이드
+		}
+		species_14 = {
+			name = 디셉터
+			plural = 디셉터
+		}
+		species_15 = {
+			name = 바이오닉스
+			plural = 바이오닉스
+		}
+		species_16 = {
+			name = 도미니어
+			plural = 도미니어
+		}
+		species_17 = {
+			name = 벤드로이드
+			plural = 벤드로이드
+		}
+		species_18 = {
+			name = 메타드로이드
+			plural = 메타드로이드
+		}
+		species_19 = {
+			name = 메타바이오닉
+			plural = 메타바이오닉
+		}
+		species_20 = {
+			name = 메카노프
+			plural = 메카노프
+		}
+		species_21 = {
+			name = 슈프라벡스
+			plural = 슈프라벡스
+		}
+		species_22 = {
+			name = 네오-오가닉스
+			plural = 네오-오가닉스
+		}
+		species_23 = {
+			name = 아에노닉
+			plural = 아에노닉
+		}
+		species_24 = {
+			name = 서반
+			plural = 서반
+		}
+		species_25 = {
+			name = 트랜시트론
+			plural = 트랜시트론
+		}
+		species_26 = {
+			name = 벡토리안
+			plural = 벡토리안
+		}
+		species_27 = {
+			name = 에니마트로닉
+			plural = 에니마트로닉
+		}
+		species_28 = {
+			name = 네오마치나
+			plural = 네오마치나
+		}
+		species_29 = {
+			name = 트랜시터리안
+			plural = 트랜시터리안
+		}
+		species_30 = {
+			name = 미미크론
+			plural = 미미크론
+		}
+		species_31 = {
+			name = 버트론
+			plural = 버트론
+		}
+		species_32 = {
+			name = 사이버리온
+			plural = 사이버리온
+		}
+	}
+}

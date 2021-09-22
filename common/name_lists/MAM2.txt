@@ -1,0 +1,215 @@
+﻿### Mammalian 2
+### Created by Henrik Thyrwall
+### 번역: Holy_Mackerel
+MAM2 = {
+	category = "Mammalian"
+	ship_names = {
+
+		generic = {
+			유르기온 다타리온 루리온 나르기온 아스타리온 페라기온 셀레마리온 라이사르기온 류스마르기온 헴베라리온 에쉬네나리온 사타리온 슐루그라리온 안타르기온 페세마르기온 빌라기온 이스마르기온 이타리온 베레카리온 콤포르기온 켄네르기온 칼루스티온 헤테니온 다포르기온 니파르기온 시바니온 에바니온 유셀라니온 유셀라르기온 슈쿠라기온 데테라비온 다르기온 샤나리온 티린디온 카스말라리온 세브리니온 호드로뉴미온 하사리온 파카리온 가타리온 폰도라니온 뷰살기온 디라미온 피드라기온 할라미온 바트라듀리온 자나리온 피나타리온 쥬누스타리온 사크라다리온 문타다리온 볼마나리온 페드리나미온 올다라기온 카르기온 위니티온 라카리온 듀크루뮤리온 나스타리온 니소르기온 타가리온 코르듀리온 카드라뮤리온 콘다리온 시프리타리온 레브린티온 카트라다리온 심바리온 듀튜룰라리온 엔세라비온 레데벨리온 펜타리기온 반타리온 비지나리온 발다나리온 이티사리온 톨라리온 참바다리온 팔데바리온 님바다리온 자다리온 베셀듀르 가난듀르 비카서듀르 잠듀르 포란듀르 바칸듀르 이랄듀르 바란듀르 자르마크듀르 산듀르 키르만듀르 톤듀르 파스듀르 리반듀르 라인듀르 히람듀르 이남듀르 캄듀르 카반듀르 진듀르 다라스듀르 디빔듀르 아밤듀르 아티림듀르 아사림듀르 아이짐듀르 윔듀르 트란듀르 에밤듀르 에닐듀르 에칸듀르 팀듀르 파칸듀르 졸듀르 랑듀르 로미나듀르 피밤듀르 말듀르 마칸듀르 나콘듀르 비남듀르 칼듀르 콘듀르 우람듀르 웁릴듀르 레덴듀르 크람듀르 코나그듀르
+			에타라듀르
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+	
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"기동 함대 보스카" "기동 함대 우타리스" "기동 함대 가들라" "기동 함대 미라스마" "기동 함대 유도라" "기동 함대 캄파스"
+		}
+		sequential_name = "제 %CC% 기동 함대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어 상비군"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 공격 용기병"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 공격 용기병"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 공격 용기병"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 방어 상비군"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 공격 용기병"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 전투 노예"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 전사 클론"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 군대"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 전투 드로이드 군단"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 방위 드로이드 군단"
+		}
+	
+		psionic_army = { 
+			sequential_name = "제 %CC% 초능력 장교단"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 파괴자 무리"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 강화 선봉대"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 상비군"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 점령지 드로이드"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				간다라 얄디라 미리다 베콘다 필다라 델데타 아르가니아 에이티사 본도가 올다라 비르가 잘비다 테르다가 디림바 단타리가 우마라 페르다라 나그라마 니디라 몰가리마 바르바 라프라 리기라 텐트라모다 타브칼레바 파라기마 피린타로가 캄피라	
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				로드리그 갈드리그 모드리그 발드리그 조림 바림 비르핌 자르김 비르므 랄덤 펠디름 펜디름 술디름 바크링 쿠리그 사림 듀림 바드리그 수카드리그 푸드리그 바브리그 고리드리그
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"덴 휼로스" "덴 바디르" "덴 발스라그" "덴 아다스가" "덴 폴로스츠" "덴 피리암" "덴 타로브" "덴 이리다르" "덴 로토라그" "덴 수카르" "덴 아르모크" "덴 바코르" "덴 수비르" "덴 바토리스" "덴 텔니크" "덴 바고르스" "덴 아라미크" "덴 파티르" "덴 하라크" "덴 보크나르"
+			}
+			
+			regnal_first_names = {
+				로드리그 갈드리그 모드리그 발드리그 조림 바림 비르핌
+			}
+			
+			regnal_second_names = {
+				"덴 휼로스" "덴 바디르" "덴 발스라그" "덴 아다스가" "덴 폴로스츠" "덴 피리암" "덴 타로브" "덴 이리다르" "덴 로토라그"
+			}
+		}
+	}
+}

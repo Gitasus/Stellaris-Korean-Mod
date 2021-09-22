@@ -1,0 +1,246 @@
+﻿### Plantoid 2
+### Created by Maximilian Olbers and Miranda van den Brink
+### 번역: Holy_Mackerel
+PLANT2 = {
+	category = "Plantoid"	
+	ship_names = {
+	
+		generic = {
+		}
+	
+		corvette = { 
+			아우로라 "사나운 톱잎" 수지 구근 "녹색 위병" "붉은 위병" "금빛 위병" "녹색 보초" "붉은 보초" "금빛 보초" 하늘위병 "녹색 강습" 하늘군대 별잎 "하늘잎" "별의 타격자" "녹색 타격자" "고사리 타격자" "전나무 타격자" "잔가지 타격자" 먼하늘 하늘사수 "녹색 섬광" 활촉 "돌격자" "하늘 돌격자" "하늘 타격자" "별의 사수" "트리피드" "숲의 긍지" "집요한 톱잎" "무적의 톱잎" "아름다운 톱잎" "고귀한 톱잎" "고귀한 잎자루" "아름다운 잎자루" "집요한 잎자루" "사나운 잎자루" 
+		}
+		
+		destroyer = { 
+			"수풀의 긍지" "초원의 긍지" "슾지의 긍지" 추적자 "하늘 추적자" "녹색 추적자" "별 추적자" "녹색 번개" "녹색 긍지" "황야의 긍지" "쉼터의 긍지" "대양의 긍지" "계곡의 긍지" "약스 이믹스 체의 긍지" "칼파브릭샤의 긍지" "보의 긍지" "아크샤야바트의 긍지" "누코미스 기징의 긍지" "이르민술의 긍지" "솜브의 긍지" "튤의 긍지" "아쉬밧타의 긍지" "퓨상의 긍지" 
+		}
+		
+		cruiser = { 
+			"계곡의 수호자" "습지의 수호자" "숲의 수호자" "바다의 수호자" "강의 수호자" "수풀의 수호자"
+		}
+		
+		battleship = { 
+			"유실그라드의 방어자" "약스 이 체의 방어자" "칼파브릭샤 의 방어자" "보의 방어자" "아크샤야바트의 방어자" "이르민술의 방어자" "솜브의 방어자" "튤의 방어자" "아쉬밧타의 방어자" "퓨상의 방어자"
+		}
+		
+		titan = {
+			"계곡의 투사" "습지의 투사" "숲의 투사" "바다의 투사" "강의 투사" "수풀의 투사"
+		}
+		
+		colossus = {
+			"자연의 노여움" "자연의 분노" "자연의 격노" "자연의 악의"
+		}
+		
+		juggernaut = {
+			"영광스러운 잡림목" "단단한 잡림목" "완강한 잡림목" "용맹한 잡림목" "복수심에 불타는 잡림목" "극도로 노여운 잡림목"
+		}
+		
+		science = { 
+			레구미난트 페렌니아 피티 에버그리너
+		}
+		
+		colonizer = { 
+			잔가지 파고 소용돌이 잎자루 
+		}
+		
+		sponsored_colonizer = { 
+			잔가지 파고 소용돌이 잎자루 
+		}
+		
+		constructor = { 
+			"녹색 톱잎" "녹슨 톱잎" "금빛 톱잎"
+		}
+
+		transport = {
+			"녹색 수송선" "녹슨 수송선" "금빛 수송선"
+		}
+		
+		military_station_small = {
+			"툰드라의 긍지" "강줄기의 긍지"
+		}
+		
+		ion_cannon = {
+			"유실그라드의 긍지"
+		}
+
+		### For Fallen Empires
+		small_ship_fallen_empire = {
+			아우로라 "사나운 톱잎" 수지 구근 "녹색 위병" "붉은 위병" "금빛 위병" "녹색 보초" "붉은 보초" "금빛 보초" 하늘위병 "녹색 강습" 하늘군대 별잎 "하늘잎" "별의 타격자" "녹색 타격자" "고사리 타격자" "전나무 타격자" "잔가지 타격자" 먼하늘 하늘사수 "녹색 섬광" 활촉 "돌격자" "하늘 돌격자" "하늘 타격자" "별의 사수" "트리피드" "숲의 긍지" "집요한 톱잎" "무적의 톱잎" "아름다운 톱잎" "고귀한 톱잎" "고귀한 잎자루" "아름다운 잎자루" "집요한 잎자루" "사나운 잎자루" 
+		}
+		large_ship_fallen_empire = {
+			"수풀의 긍지" "초원의 긍지" "슾지의 긍지" 추적자 "하늘 추적자" "녹색 추적자" "별 추적자" "녹색 번개" "녹색 긍지" "황야의 긍지" "쉼터의 긍지" "대양의 긍지" "계곡의 긍지" "약스 이믹스 체의 긍지" "칼파브릭샤의 긍지" "보의 긍지" "아크샤야바트의 긍지" "누코미스 기징의 긍지" "이르민술의 긍지" "솜브의 긍지" "튤의 긍지" "아쉬밧타의 긍지" "퓨상의 긍지" 
+		}
+		massive_ship_fallen_empire = {
+			"계곡의 수호자" "습지의 수호자" "숲의 수호자" "바다의 수호자" "강의 수호자" "수풀의 수호자"
+		}
+	}
+	
+	fleet_names = {
+		random_names = {
+			"꽃피는 다발" "무성한 다발" "제패하는 다발" "선회하는 다발" "급성장하는 다발"
+		}
+		sequential_name = "제 %CC% 다발"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어 줄기"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 독성 줄기"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 독성 줄기"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 독성 줄기"
+		}
+
+		defense_army = {
+			sequential_name = "제 %CC% 방어 줄기"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 독성 줄기"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 묶인 줄기"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 줄기"
+		}
+
+		clone_army = { 
+			sequential_name = "수많은 줄기 %R%"
+		}
+		
+		robotic_army = {
+			sequential_name = "무쇠 줄기 %R%"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "무쇠 가지 %R%"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 열편 줄기"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 이상한 줄기"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 잡종 줄기"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령 줄기"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 무쇠 점령 가지"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				모스홈 아보레알리스 허바세온 허티큘터리드 글라스랜드 넛폴 스루베리 트렁크사이트 펜필드 클로버배드 페르누토피아 퓨투레 뷸브 퓨상 "마지막 고향" "별의 수풀" "새로운 뿌리" "별꽃" 베라노 "새로운 희망" 펑글라드 "듈의 영광" 	"약스 이믹스 체" 칼파브릭샤 보 아크샤야바트 "누코미스 기징" 이르민술 솜브 튤 아쉬밧타 모슬란드 파라디세 "금유리" "리피" "별과일" "빌시" "금빛 꽃"	"새로운 토양" "잎사귀의 천국"	
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				하얀 회색 검은 암적색 붉은 푸른 인디고 남색 누른 오랜지 상이색 흑단 쪽빛 갈색 청록색 녹색 하늘색 황갈색 자홍색 금빛 은빛
+				황동 감로색 라벤다 밤색 올리브
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				뿌리 구근 발아체 잎사귀 과실 바늘 과즙 수풀 싹 콩깍지 솔방울
+			}
+
+			use_full_regnal_name = yes
+
+			regnal_first_names = {
+				유실그라드의 "약스 이믹스 체의" 칼파브릭샤의 보의 아크샤야바트의 "누코미스 기징의" 이르민술의 솜브의 툴리의 아쉬밧타의 푸상의
+			}
+			
+			regnal_second_names = {
+				꽃
+			}
+		}
+	}
+}

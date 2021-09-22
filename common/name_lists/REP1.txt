@@ -1,0 +1,216 @@
+﻿### Reptilian 1
+### Created by Henrik Thyrwall
+### 번역: Holy_Mackerel
+REP1 = {
+	category = "Reptilian"
+	ship_names = {
+
+		generic = {
+			트룸'파크흐 트룸'돌론 트룸'사림 트룸'돌로스 트룸'로크흐 트룸'바크나 트룸'카리스 트룸'포폰 트룸'하리스 트룸'소요브 트룸'다칸 트룸'보임 트룸'듀크흐 트룸'바스크 트룸'에삼 트룸'카스타르 트룸'바르칸 트룸'람판 트룸'로크바 트룸'히스탄 트룸'올로만 트룸'오크란 트룸'포킨 트룸'파라스 트룸'이오마스 트룸'모톤 트룸'디알롬 트룸'보드노크 트룸'바트노르 트룸'조욤 트룸'아바나르 트룸'리켄 알람'비스나 알람'튜롬 알람'타라타 알람'티스카 알람'퓨림 알람'슈스 알람'파라트나크 알람'기오슘 알람'코롭 알람'힌탑 알람'큘롬 알람'아빈토크 알람'탄네크 알람'시오르 알람'로슐 알람'베빈나 알람'페톤 알람'폴루네르 알람'라스트람 알람'트레스크 알람'에너퓰 알람'부스카트 포브'티린 포브'카쉬 포브'오노르 포브'그리파드 포브'미니스크 포브'슘바트 포브'에리심 포브'크리다크 포브'듀튜르 포브'히알라쉬 포브'베르멥 포브'바드람 포브'뷰브다르 포브'타라트 포브'일리트 포브'비캄 포브'토로크 포브'룸베르 포브'이카트
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		titan = {
+		}
+		
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+		
+		military_station_small = {
+		}
+		
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"라브'티샤 전대" "알라크'샤랄 전대" "히리 '가스카 전대" "큐르'프리가 전대" "마크'티삼 전대"
+		}
+		sequential_name = "제 %CC% 전대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 지상 수비대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 갈고리 발톱"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 갈고리 발톱"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 갈고리 발톱"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 지상 수비대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 갈고리 발톱"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 복제품 군단"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 언데드 군단"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 강습 결합체"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 방위 결합체"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 사고 관찰자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 전쟁 무리"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 전사 교단"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 수비대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 점령지 결합체"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				나'티르기르 나'달 비드'조스크 비드'리심 아타'비리슈 아타'포도사 판'다사크 판'키챠 팔'타람 팔'카보스 밀'슈스카 밀'펠드라크 라'타르가스 라'보트노르 갈'슈포스크 갈'카라스카 쉬'타나스크 쉬'폴탄 로'도만 로'에시크 카'타나브 카'살로츠 이라'모노스크 이라'오바스 나'가루 나'시미르 나'발루스 비드'출콘 비드'타라키 갈'무코사 갈'바코 갈'브라르 갈'에문 쉬'수마 쉬'파토르 로'데넥 로'카부르
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names_male = {
+				하스크'발감 하스크'주몬 하스크'테라그 하스크'솔나스 하스크'파그람 하스크'존노트 하스크'겐타르 하스크'비림 하스크'엔데크 하스크'칼라스 하스크'추마크 하스크'비리크 하스크'티마크 하스크'구론 하스크'티박 하스크'주기르 하스크'에미크 하스크'포로크 하스크'자미크 하스크'부기르 하스크'에칼림 하스크'쿠루니르
+			}
+
+			full_names_female = {
+				토르바'이느라브 토르바'켈디 토르바'바라스 토르바'남타 토르바'간다르 토르바'다가츠 토르바'핀라크 토르바'하사브라 토르바'말라스 토르바'파타르 토르바'무로크 토르바'빌린 토르바'마곤 토르바'카리 토르바'지르그 토르바'이나크 토르바'바스쿠 토르바'툴루스 토르바'이나림 토르바'타그가 토르바'부크
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				하스크'발감 하스크'주몬 하스크'테라그 하스크'솔나스 하스크'파그람 하스크'존노트 하스크'겐타르 하스크'비림
+			}
+			
+			regnal_second_names = {
+				메자크
+			}
+		}
+	}
+}

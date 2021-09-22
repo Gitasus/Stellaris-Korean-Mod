@@ -1,0 +1,212 @@
+﻿### Molluscoid 1
+### Created by Henrik Thyrwall
+### 번역: Holy_Mackerel
+MOL1 = {
+	category = "Molluscoid"
+	ship_names = {
+
+		generic = {
+			슐러마 글로이브 슐라글러 골로포그 가그감 슐로프 파그곤 파다구르 사르루르스 이고르스 사밀구스 카가슈 슈그론 카가슐흐 오가스츠 오그라가스 기스츠 살로이프 페로이그 큐도이그 카사블라스 이기스 앙고가 아글루가 아가그 알포이그 유츨라스 유리스 유카츄마 이글라츠 오돌스 시스뮤아트 포골라 차슈콰 가뮤아츠 고르길 일리츠 아시가브 우마츠 하포니츠 자곤 쥬스츠 자큐츠 쥬르글라 라가츠 루르글루스 리고츠 알라챠 아굴디르 롤루츠 로가지스 파그츠 오브로그 테글로츠 튜글루츠 이갈라츠 와갈루츠 위르글러그 와사그 위들라츠 가와가 기지그 웨르그타 이라그 이사그 볼드로츠 비스글루르 보스가르 소사그 히그라 하바가츠 와골라츠 골가츠 츨루몬 파타가 오갈 파츠고 가챨가 카챨리스 자챠글루 조글로이브 유고이브 팔쵸이브 유르구츠 챨고르 하구츠 이오그 도르그챠츠 밀드로츠 마가츠 미르글로르그 츨로브조르 챠쉬카 고글리르 에글라나 자로기쉬 로가르 유가챠 이감
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"보그워스 편대" "레감 편대" "쇼고르 편대" "파기림 편대" "메기슈 편대" "루르감 편대" "이타가 편대" "쥬라기 편대"
+		}
+		sequential_name = "제 %CC% 패각 편대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 침공 무리"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 침공 무리"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 침공 무리"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 방어대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 침공 무리"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 부대"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 무리"
+		}
+		
+		clone_army = {
+			sequential_name = "클론 무리 %C%"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 두족체봇"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 두족체봇 무리"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 초능력 집단"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 격렬한 무리"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 승천자"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 점령지 두족체봇"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				시그와 슐러그 라가니 "루르기 푸쉬" 유그림 울드루그 마그라티 갈보 규라쉼 "마그 루토츄" 갈브로르 리블라가 튜감 슐라르고스 웨그리 바캉기 구투르 에스코르 아글로르 "마그 가가라쉬" 굴드로그 스쉴락기 스슈가스치 "타그바쉬 부그" 우기리스츠 가리보그 세라고그프 티르고스츠 가블로스치 치블로스츠 슐라르프 에르글리그 시트고쉬 "바가 파쉬" "포가 파쉬"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				스출러마 파그로 글로림 사글로르 에토그 바글로스츠 레글로르 가르마 바노그 타글라로 리블로그 글로슈 슐라르김 슈스크 알로리그 알보글로르 슈글렘 파블라슈 겜테마르 글라본슈 고그 가스출쉬 시글로르 가스치 피글로슈 아비그고르 베쉬바그 골르람 베골 라글라 라길리그 바스츠고 아브리고스츠 바그고그
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				스출러마 파그로 글로림 사글로르 에토그 바글로스츠 레글로르 가르마
+			}
+			
+			regnal_second_names = {
+				스출라스
+			}
+		}
+	}
+}

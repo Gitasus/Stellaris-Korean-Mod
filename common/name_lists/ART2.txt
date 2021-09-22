@@ -1,0 +1,211 @@
+﻿### Arthropoid 2
+### Created by Maximilian Olbers
+### 번역: Holy_Mackerel
+ART2 = {
+	category = "Arthropoid"	
+	ship_names = {
+		generic = {
+			릿-라르 릿-레슈크 릿-케프 릿-파르 릿-불 릿-레프르 릿-트루크 릿-펙스 릿-주드 릿-플락스르 릿-퓨우크 릿-콰이르 릿-우드 릿-유즈 릿-룩스 릿-우롤 릿-악스 릿-뮬 릿-파흐 릿-켁스 웨르-포르 웨르-하일 웨르-즐로 웨르-파르 웨르-볼 웨르-뷰르 웨르-필르 웨르-이구 조프-플렉루 조프-굴락크 조프-루아르 조프-에르듀 조프-아로브 조프-큘라 조프-코우 조프-졸륵스 조프-뮬 조프-파즈 조프-레크 조프-보즈르 조프-라이 조프-조브 조프-비그 조프-글릭스 조프-간 조프-인리 조프-일루그 조프-리트르 조프-파흐드 파스-에루 파스-겐트루 파스-자르도즈 파스-굴르 파스-파이리 파스-큐테크 파스-포그드 파스-키넨 파스-트로그드 파스-엘라그 파스-위루 파스-드레이 파스-우르 파스-유론
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+	
+	fleet_names = {
+		random_names = {
+			"조레트피-라 공격 군집" "큘트렌-뷰 공격 군집" "클로우메드트-로 공격 군집" "로라키근-일 공격 군집" "라이컨세드-기 공격 군집" "엔릴쥬-콰 공격 군집" "폴틀위드즈-파 공격 군집" "모르트신-로 공격 군집" "트레브드나-웨 공격 군집"
+		}
+		sequential_name = "제 %CC% 공격공격 군집"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 내부군"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 외부군"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 외부군"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 외부군"
+		}
+	
+		defense_army = {
+			sequential_name = "제 %CC% 내부군"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 외부군"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 군대"
+		}
+		
+		clone_army = {
+			sequential_name = "제 %CC% 복제군"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 공포 군대"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 기계군"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 기계 방위대"
+		}
+		
+		psionic_army = {
+			sequential_name = "정신 지배자 %R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 파괴군"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "강화종 %R%"
+		}
+
+		occupation_army = {
+			sequential_name = "%CC% 내부 주둔군"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%CC% 기계 주둔군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대%C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				뷸르-잘드르 뷸르-타크렌 뷸르-판트렌 뷸르-카드나크 뷸르-콸프 뷸르-타크르 뷸르-팔로드 뷸르-야디르 뷸르-락슬 뷸르-콰네드 뷸르-파코드 뷸르-라든즈 뷸르-가크트스 뷸르-자젯 뷸르-라캬 뷸르-캴리드 뷸르-마프트 뷸르-바이 뷸르-와트레 뷸르-팡기트 뷸르-자그 뷸르-타브드 뷸르-간드 뷸르-라드트 뷸르-야우 뷸르-파프 뷸르-라브
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				이그비-이노르 이그비-아쥬트 이그비-윌 이그비-레이나드 이그비-리엠 큘-탄 큘-리그 큘-아릉 큘-폭스 큘-쥬즈 큘-레르느 큘-이뉼 큘-레일 큘-이터드 큘-왁스큘-사르우 오브르-퓰그 오브르-타이 오브르-렌드 오브르-필스 오브르-윤 오브르-퓨 오브르-포우트 오브르-큘드 오브르-타즌오브르-쥬프 오브르-사즈 오브르-류이트 오브르-케그 오브르-코이드
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				이그비-이노르 이그비-아쥬트 이그비-윌 이그비-레이나드 이그비-리엠 큘-탄 큘-리그
+			}
+			
+			regnal_second_names = {
+				자콘
+			}
+		}
+	}
+}

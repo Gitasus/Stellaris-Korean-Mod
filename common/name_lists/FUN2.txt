@@ -1,0 +1,215 @@
+﻿### Fungoid 2
+### Created by Maximilian Olbers
+### 번역: Holy_Mackerel
+FUN2 = {
+	category = "Fungoid"
+	ship_names = {
+		generic = {
+			예흠-굴례그 예흠-프라한 예흠-퀴그루드 예흠-프리드긴 예흠-타그리드 예흠-니어롤그 예흠-튜라즈 예흠-퓨에틀 예흠-후트렌드 예흠-이글라그드 예흠-루브그루 예흠-티큅 예흠-다렘트 예흠-트라구드 예흠-우툰 예흠-라슬러그 예흠-렘 예흠-나르구드 예흠-필리유브 예흠-라스튜드 예흠-플로르 예흠-플리웁 예흠-푸트리그 예흠-샬루브 예흠-카르노브 예흠-트루켄드 예흠-그팔린 예흠-이두멘 예흠-물다린 예흠-트루푼 예흠-베이유드 예흠-티파프 예흠-슈프라드 예흠-필풀 예흠-뷰이둘
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"큐우 포자 함대" "콰마라 포자 함대" "샨다루 포자 함대" "후레프 포자 함대" "투우나 포자 함대" "하튜르 포자 함대" "루르도쉬 포자 함대" "그로가슈 포자 함대" "리슈리흐 포자 함대" "글레그로트 포자 함대" "하흐마르 포자 함대" "튜르글라 포자 함대" "마그랄하 포자 함대" "그루금 포자 함대" "그릴마쉬 포자 함대" "쿠프시 포자 함대"
+		}
+		sequential_name = "제 %CC% 포자 함대"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 집버섯"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 포자버섯"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 포자버섯"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 포자버섯"
+		}
+
+		defense_army = {
+			sequential_name = "제 %CC% 집버섯"
+		}
+
+		assault_army = {
+			sequential_name = "제 %CC% 포자버섯"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 숙주 부대"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 대체품 부대"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 부대"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 버섯봇 부대"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 로봇 집버섯"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 정신포자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 침입자"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 점액 곰팡이"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 주둔지 집버섯"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 로봇 주둔군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				주르그-펠루크 주르그-사판드 주르그-풀리그 주르그-소후드 주르그-길르갈 주르그-큐릴드 주르그-숀다르 주르그-하우퀠 주르그-온다린 주르그-굴힐리 주르그-사로미인 주르그-콜레스 주르그-훌라프 주르그-사바란드 주르그-크누테그 주르그-슈그렘 주르그-울라라이 주르그-우파드프 주르그-세룬드 주르그-팔리프 주르그-사훌 주르그-파드둔 주르그-피드훈 주르그-후달 주르그-우라그
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				우쾀 엘기크룬 콰루금 푸드글루 미스그릴 슌드루어 시드쿠프 후레그드 굴룬 흐말루드 올레파툰 투놀그 리퀴루드 줄라드 주틀리그 줌닐 그로드선 윌루구아르크 푸글리쉬 에굴루어드
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				우쾀 엘기크룬 콰루금 푸드글루 미스그릴 슌드루어 시드쿠프
+			}
+			
+			regnal_second_names = {
+				와쿠
+			}
+		}
+	}
+}

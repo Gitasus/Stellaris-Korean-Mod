@@ -1,0 +1,1602 @@
+﻿# Generated species derive their names from here
+### 번역: Holy_Mackerel
+### MAMMALIANS
+
+HUM = {
+	alari = {
+		name = 알라리
+		plural = 알라리
+		home_planet = 알리스
+		home_system = 알라르
+		name_list = "HUM1"
+	}	
+	
+	mireesh = {
+		name = 미리쉬
+		plural = 미리쉬
+		home_planet = 미라타
+		home_system = "미리쉬 마르"
+		name_list = "HUM2"
+	}
+	
+	triech = {
+		name = 트리에치스
+		plural = 트리에치스
+		home_planet = 트리에치
+		home_system = 레치오
+		name_list = "HUM3"
+	}
+	
+	vrinn = {
+		name = 브린
+		plural = 브린
+		home_planet = 브린
+		home_system = 브리누스
+		name_list = "HUM4"
+	}
+	
+	cevanti = {
+		name = 세반티
+		plural = 세반티
+		home_planet = 오로스
+		home_system = 세반트
+		name_list = "HUM1"
+	}
+	
+	mishar = {
+		name = 미샤르
+		plural = 미샤르
+		home_planet = 미샤리
+		home_system = 샤르
+		name_list = "HUM2"
+	}
+	
+	fareen = {
+		name = 파린
+		plural = 파린스
+		home_planet = 파라
+		home_system = 에나토
+		name_list = "HUM3"
+	}
+	
+	yldar = {
+		name = 일다르
+		plural = 일다르스
+		home_planet = 일다르
+		home_system = 일리안트
+		name_list = "HUM4"
+	}
+	
+	korinth = {
+		name = 코린트
+		plural = 코린트
+		home_planet = 코로스
+		home_system = 코린트
+		name_list = "HUM1"
+	}
+		
+	sildor = {
+		name = 실도르
+		plural = 실도르
+		home_planet = 실도리아
+		home_system = 실라
+		name_list = "HUM2"
+	}
+
+	nagyari = {
+		name = 나갸리
+		plural = 나갸리
+		home_planet = 나갸리아
+		home_system = 나갸르
+		name_list = "HUM3"
+	}
+
+	kobarian = {
+		name = 코바리안
+		plural = 코바리안
+		home_planet = 코바리아
+		home_system = 코브
+		name_list = "HUM4"
+	}
+
+	Hesukar = {
+		name = 헤수카르
+		plural = 헤수카르
+		home_planet = "헤수크 프라임"
+		home_system = 헤수크
+		name_list = "HUM1"
+	}
+
+	giroid = {
+		name = 기로이드
+		plural = 기로이드
+		home_planet = 기르-자나
+		home_system = 기르
+		name_list = "HUM2"
+	}
+
+	akkano = {
+		name = 아카노
+		plural = 아카노
+		home_planet = 아카나르
+		home_system = 아크
+		name_list = "HUM3"
+	}
+}
+
+### MAMMALIANS
+
+MAM = {
+	kroll = {
+		name = 크롤
+		plural = 크롤
+		home_planet = "크롤라 프라임"
+		home_system = 크롤라
+		name_list = "MAM1"
+	}
+
+	orassian = {
+		name = 오라시안
+		plural = 오라시안
+		home_planet = 오라시아
+		home_system = 오라스
+		name_list = "MAM2"
+	}
+
+	aramathi = {
+		name = 아라만티
+		plural = 아라만티
+		home_planet = 아라킴
+		home_system = 아라무스
+		name_list = "MAM3"
+	}
+		
+	immutharan = {
+		name = 임무타란
+		plural = 임무타란
+		home_planet = 임무스
+		home_system = 임무서
+		name_list = "MAM4"
+	}
+
+	hiffnar = {
+		name = 히프나르
+		plural = 히프나리
+		home_planet = 히프라무스
+		home_system = 히프
+		name_list = "MAM1"
+	}
+	
+	zaanami = {
+		name = 자나미
+		plural = 자라미
+		home_planet = 자라나마르
+		home_system = 잔
+		name_list = "MAM2"
+	}
+
+	estwani = {
+		name = 에스티와니
+		plural = 에스티와니
+		home_planet = 에스티와나
+		home_system = 와니
+		name_list = "MAM3"
+	}
+
+	vailon = {
+		name = 바이론
+		plural = 바이론
+		home_planet = 발가르
+		home_system = 비디리온
+		name_list = "MAM4"
+	}
+
+	raltek = {
+		name = 랄텍
+		plural = 랄텍
+		home_planet = "랄탄 비르"
+		home_system = 랄테스
+		name_list = "MAM1"
+	}
+
+	birnathi = {
+		name = 비르나시
+		plural = 비르나시
+		home_planet = 비루스
+		home_system = 데시루스
+		name_list = "MAM2"
+	}
+
+	othari = {
+		name = 오타리
+		plural = 오타리
+		home_planet = 오타리스
+		home_system = 오토르
+		name_list = "MAM3"
+	}
+
+	evandari = {
+		name = 에반다리
+		plural = 에반다리
+		home_planet = "데반다 준"
+		home_system = 에본
+		name_list = "MAM4"
+	}
+
+	bothrian = {
+		name = 브로리안
+		plural = 브로리안
+		home_planet = 브쓰리아
+		home_system = "브쓰마라스"
+		name_list = "MAM1"
+	}
+
+	dorbolan = {
+		name = 도르볼란
+		plural = 도르볼란
+		home_planet = 도르볼
+		home_system = 디마스-쿨
+		name_list = "MAM2"
+	}
+
+	fevarian = {
+		name = 페바리안
+		plural = 페바리안
+		home_planet = 페바리스
+		home_system = 페브노르
+		name_list = "MAM3"
+	}
+
+	kenjodan = {
+		name = 케조단
+		plural = 케조단
+		home_planet = "케조르 프라임"
+		home_system = 케조르
+		name_list = "MAM4"
+	}
+
+	glyrran = {
+		name = 글라이란
+		plural = 글라이란
+		home_planet = 글라이라
+		home_system = 글라이르
+		name_list = "MAM1"
+	}
+	
+	pallyrian = {
+		name = 팔리라이안
+		plural = 팔리라이안
+		home_planet = 팔리라이아
+		home_system = 데트누라
+		name_list = "MAM2"
+	}
+	
+	quvarian = {
+		name = 퀴바리안
+		plural = 퀴바리안
+		home_planet = 퀴톤스
+		home_system = "콰라 비남"
+		name_list = "MAM3"
+	}
+	
+	qellnuram = {
+		name = 켈'누다르
+		plural = 켈'누다르
+		home_planet = 켈
+		home_system = "히르'켈"
+		name_list = "MAM4"
+	}
+	
+	valdari = {
+		name = 발다리
+		plural = 발다리
+		home_planet = 바크-노샤
+		home_system = 바르'쇼
+		name_list = "MAM1"
+	}
+	
+	igarian = {
+		name = 이가리안
+		plural = 이가리안
+		home_planet = 이가리아
+		home_system = 이가
+		name_list = "MAM2"
+	}
+	
+	adnoran = {
+		name = 아드노란
+		plural = 아드노란
+		home_planet = 아드노르
+		home_system = 아다니르
+		name_list = "MAM3"
+	}
+	
+	T'Jell = {
+		name = 트'젤
+		plural = 트'젤
+		home_planet = "히리스'모"
+		home_system = 타간'자
+		name_list = "MAM4"
+	}
+	
+	tarassi = {
+		name = 타라시
+		plural = 타라시
+		home_planet = 타라스카
+		home_system = 롤더
+		name_list = "MAM1"
+	}
+
+	sinrath = {
+		name = 신라스
+		plural = 신라스
+		home_planet = 신자-뷰브
+		home_system = 신라크
+		name_list = "MAM2"
+	}
+
+	kaan_visam = {
+		name = 카안-비삼
+		plural = 카안-비삼
+		home_planet = 카안
+		home_system = 즈룬
+		name_list = "MAM3"
+	}
+
+	tebazoid = {
+		name = 테바조이드
+		plural = 테바조이드
+		home_planet = 테바제드
+		home_system = 테브자
+		name_list = "MAM4"
+	}
+
+	kazam = {
+		name = 카잠
+		plural = 카잠
+		home_planet = 카즈자카르
+		home_system = 카즈
+		name_list = "MAM1"
+	}
+
+	quvab = {
+		name = 퀴'밥
+		plural = 퀴'밥
+		home_planet = 콰'브
+		home_system = 브'퀴
+		name_list = "MAM2"
+	}
+}
+
+
+### FUNGOID
+
+FUN = {
+	bhennthell = {
+		name = 벤'텔
+		plural = 벤'텔
+		home_planet = 텔
+		home_system = 타르'비크
+		name_list = "FUN1"
+	}
+
+	tendrazuhn = {
+		name = 텐드라-주흔
+		plural = 텐드라-주흔
+		home_planet = 주흔
+		home_system = 자림-잘
+		name_list = "FUN2"
+	}
+	
+	hahnmur = {
+		name = 하느-무르
+		plural = 하느-무르
+		home_planet = 하느-무리아
+		home_system = 무라
+		name_list = "FUN3"
+	}
+	
+	menjeti = {
+		name = 멘제티
+		plural = 멘제티
+		home_planet = 멘주스
+		home_system = 멘주사나
+		name_list = "FUN4"
+	}
+
+	hissma = {
+		name = 히스마
+		plural = 히스마
+		home_planet = 히솜
+		home_system = 히시타르
+		name_list = "FUN1"
+	}
+
+	tycan = {
+		name = 타이칸
+		plural = 타이칸
+		home_planet = "타이칸 프라임"
+		home_system = 타이코르
+		name_list = "FUN2"
+	}
+	
+	canthari = {
+		name = 칸타리
+		plural = 칸타리
+		home_planet = "칸타르 슈크"
+		home_system = 칸토
+		name_list = "FUN3"
+	}
+	
+	otaga = {
+		name = 오타가
+		plural = 오타가
+		home_planet = 오티구르
+		home_system = 오티라
+		name_list = "FUN4"
+	}
+	
+	zracon = {
+		name = 즈라콘
+		plural = 즈라콘
+		home_planet = 즈라그
+		home_system = 즈라마스
+		name_list = "FUN1"
+	}
+	
+	thembolon = {
+		name = 템볼론
+		plural = 템볼론
+		home_planet = 템볼리아
+		home_system = 템보르
+		name_list = "FUN2"
+	}
+	
+	jhoolian = {
+		name = 주리안
+		plural = 주리안
+		home_planet = "줄 프라임"
+		home_system = 줄
+		name_list = "FUN3"
+	}
+	
+	djunn = {
+		name = 드준
+		plural = 드준
+		home_planet = 드주바르
+		home_system = 드주니르
+		name_list = "FUN4"
+	}
+	
+	hulfir = {
+		name = 훌피르
+		plural = 훌피르
+		home_planet = "훌파사"
+		home_system = "훌파스 코르"
+		name_list = "FUN1"
+	}
+	
+	ultur = {
+		name = 울-투르
+		plural = 울-투르
+		home_planet = 투'리압
+		home_system = 라-무르
+		name_list = "FUN2"
+	}
+	
+	tyrathian = {
+		name = 타이라티안
+		plural = 타이라티안
+		home_planet = 타이라스
+		home_system = 타이라투스
+		name_list = "FUN3"
+	}
+	
+	kithri = {
+		name = 키스리
+		plural = 키스리
+		home_planet = 키스루르
+		home_system = 키스'발라스
+		name_list = "FUN4"
+	}
+	
+	jibru = {
+		name = 지브루
+		plural = 지브루
+		home_planet = 지바사
+		home_system = 지브
+		name_list = "FUN1"
+	}
+	
+	hazar = {
+		name = 하자르
+		plural = 하자르
+		home_planet = 하자리아
+		home_system = 하지
+		name_list = "FUN2"
+	}
+
+	kar-du = {
+		name = 카르-두
+		plural = 카르-두
+		home_planet = 카르-누
+		home_system = 카르-주
+		name_list = "FUN3"
+	}
+	
+	uriy = {
+		name = 유라이
+		plural = 유라이
+		home_planet = 유라야
+		home_system = 유리'다스
+		name_list = "FUN4"
+	}
+	
+	gorf = {
+		name = 고프
+		plural = 고프
+		home_planet = "그레이트 고프"
+		home_system = 고르피스
+		name_list = "FUN1"
+	}
+	
+	zik-mok = {
+		name = 지크-모크
+		plural = 지크-모크
+		home_planet = 모크
+		home_system = 마크카르
+		name_list = "FUN2"
+	}
+	
+	neborite = {
+		name = 네보리트
+		plural = 네보리트
+		home_planet = 네보리아
+		home_system = 네보리아타르
+		name_list = "FUN3"
+	}
+	
+	syldaean = {
+		name = 실다엔
+		plural = 실다엔
+		home_planet = "실다 프라임"
+		home_system = 실두스
+		name_list = "FUN4"
+	}
+	
+	meshben = {
+		name = 메쉬'벤
+		plural = 메쉬'벤
+		home_planet = 메쉬'베누르
+		home_system = 메시카
+		name_list = "FUN1"
+	}
+
+	bothrazoid = {
+		name = 보트라조이드
+		plural = 보트라조이드
+		home_planet = 보트라제드
+		home_system = 보트라
+		name_list = "FUN2"
+	}
+
+	makaru = {
+		name = 마크루
+		plural = 마크루
+		home_planet = 마카리아
+		home_system = 니크-라알
+		name_list = "FUN3"
+	}
+
+	sojagg = {
+		name = 소자그
+		plural = 소자그
+		home_planet = "소그 프라임"
+		home_system = 소그
+		name_list = "FUN4"
+	}
+
+	vatnaka = {
+		name = 바트'나-카
+		plural = 바트'나-카
+		home_planet = "그레이트 바트니"
+		home_system = 크라막
+		name_list = "FUN1"
+	}
+
+	ishni = {
+		name = 이슈니
+		plural = 이슈니
+		home_planet = 이슈
+		home_system = "이슈'타리"
+		name_list = "FUN2"
+	}
+}
+
+### ARTHROPOID
+
+ART = {
+	themlar = {
+		name = 템라르
+		plural = 템라르
+		home_planet = 템
+		home_system = 템멜
+		name_list = "ART1"
+	}
+
+	tezhnid = {
+		name = 제즈니드
+		plural = 제즈니드
+		home_planet = 제즈나
+		home_system = 지즈닝
+		name_list = "ART2"
+	}
+	
+	pithok = {
+		name = 피소크
+		plural = 피소크
+		home_planet = 소키아
+		home_system = 피소라
+		name_list = "ART3"
+	}
+
+	cithin = {
+		name = 시티니
+		plural = 시티니
+		home_planet = 시티라르
+		home_system = "시쓰본 콰"
+		name_list = "ART4"
+	}
+
+	thimoid = {
+		name = 티모이드
+		plural = 티모이드
+		home_planet = 티모두루스
+		home_system = 티마가
+		name_list = "ART1"
+	}
+
+	rutharian = {
+		name = 루사리안
+		plural = 루사리안
+		home_planet = 루사리아
+		home_system = 루소르
+		name_list = "ART2"
+	}
+
+	jhabbanid = {
+		name = 자바니드
+		plural = 자바니드
+		home_planet = 자반
+		home_system = "자브 시모르"
+		name_list = "ART3"
+	}
+
+	saathid = {
+		name = 사티드
+		plural = 사티드
+		home_planet = 사투르나
+		home_system = 사타르
+		name_list = "ART4"
+	}
+
+	iknurval = {
+		name = 이크-누르-발
+		plural = 이크-누르-발
+		home_planet = 이크
+		home_system = 이크-볼-타
+		name_list = "ART1"
+	}
+	
+	haddam = {
+		name = 하담
+		plural = 하담
+		home_planet = "하디 사라스"
+		home_system = 하도림
+		name_list = "ART2"
+	}
+	
+	xeltek = {
+		name = 젝테크
+		plural = 젝테크
+		home_planet = "젤 미루스"
+		home_system = 젤토르
+		name_list = "ART3"
+	}
+
+	zithorian = {
+		name = 지쏘리안
+		plural = 지쏘리안
+		home_planet = 지쏘리아
+		home_system = 지쏘라스
+		name_list = "ART4"
+	}
+	
+	hantak = {
+		name = 한타크
+		plural = 한타크
+		home_planet = 한탁카
+		home_system = 타카로스
+		name_list = "ART1"
+	}
+	
+	rontor = {
+		name = 론토르
+		plural = 론토르
+		home_planet = "론투수 프라임"
+		home_system = 론투스
+		name_list = "ART2"
+	}
+	
+	talakkur = {
+		name = 탈'아쿠르
+		plural = 탈'아쿠르
+		home_planet = 탈'데심
+		home_system = 아쿠르
+		name_list = "ART3"
+	}
+	
+	myrran = {
+		name = 마이르란
+		plural = 마이르란
+		home_planet = 마이리아
+		home_system = 마이르락
+		name_list = "ART4"
+	}
+	
+	athallid = {
+		name = 아솔리드
+		plural = 아솔리드
+		home_planet = "아솔르 졸"
+		home_system = 아솔르
+		name_list = "ART1"
+	}
+	
+	entheri = {
+		name = 엔테리
+		plural = 엔테리
+		home_planet = 엔스
+		home_system = "나 에소르"
+		name_list = "ART2"
+	}
+	
+	chimm = {
+		name = 킴므
+		plural = 킴므
+		home_planet = 킴나르
+		home_system = 키릴
+		name_list = "ART3"
+	}
+	
+	shabtak = {
+		name = 샤브타크
+		plural = 샤브타크
+		home_planet = 샤브토르
+		home_system = 샤브토리스
+		name_list = "ART4"
+	}
+	
+	yibrak = {
+		name = 이브락
+		plural = 이브락
+		home_planet = "이브 프라임"
+		home_system = 이바르
+		name_list = "ART1"
+	}
+	
+	qiramulan = {
+		name = 퀴라무란
+		plural = 퀴라무란
+		home_planet = "그레이터 퀴루스"
+		home_system = 퀴루스
+		name_list = "ART2"
+	}
+	
+	ethir = {
+		name = 에티르
+		plural = 에티르
+		home_planet = 텔벤싸르
+		home_system = 엘티쓰'타스
+		name_list = "ART3"
+	}
+	
+	avtyrran = {
+		name = 아브타이르란
+		plural = 아브타이르란
+		home_planet = "아브타이리아 프라임"
+		home_system = 아브타이리아
+		name_list = "ART4"
+	}
+	
+	pirak = {
+		name = 피락
+		plural = 피락
+		home_planet = 피록코
+		home_system = 피라주르
+		name_list = "ART1"
+	}
+
+	izki = {
+		name = 이즈키
+		plural = 이즈키
+		home_planet = "이즈크 센터"
+		home_system = 이즈크
+		name_list = "ART2"
+	}
+
+	pakari = {
+		name = 파카리
+		plural = 파카리
+		home_planet = 파크
+		home_system = 갈린
+		name_list = "ART3"
+	}
+
+	wi-ziraki = {
+		name = 위-지라키
+		plural = 위-지라키
+		home_planet = 윈닝
+		home_system = 웨티르
+		name_list = "ART4"
+	}
+
+	maggar = {
+		name = 마가르
+		plural = 마가르
+		home_planet = 마가
+		home_system = 마구르
+		name_list = "ART1"
+	}
+
+	krithakkan = {
+		name = 크리타칸
+		plural = 크리타칸
+		home_planet = 크리트
+		home_system = 카르카
+		name_list = "ART2"
+	}
+}	
+
+### REPTILIAN
+
+REP = {
+	rethellian = {
+		name = 리셀리안
+		plural = 리셀리안
+		home_planet = 리셀리아
+		home_system = 리셀
+		name_list = "REP1"
+	}
+	
+	kammarian = {
+		name = 캄마리안
+		plural = 캄마리안
+		home_planet = 캄도르
+		home_system = 캄다코르
+		name_list = "REP2"
+	}
+	
+	anathurian = {
+		name = 아나수리안
+		plural = 아나수리안
+		home_planet = 아나수리아
+		home_system = 아나수르
+		name_list = "REP3"
+	}
+
+	zuifvan = {
+		name = 주이프반
+		plural = 주이프반
+		home_planet = 주이프
+		home_system = 주이프르
+		name_list = "REP4"
+	}
+	
+	reshethi = {
+		name = 레쉐티
+		plural = 레쉐티
+		home_planet = 레쉬
+		home_system = 레쉴룰
+		name_list = "REP1"
+	}
+
+	dethakkan = {
+		name = 데타칸
+		plural = 테타칸
+		home_planet = 테타크
+		home_system = 데트라르
+		name_list = "REP2"
+	}
+
+	ikarzuri = {
+		name = 이카주리
+		plural = 이카주리
+		home_planet = 아카라
+		home_system = 카르주
+		name_list = "REP3"
+	}
+
+	vhemm = {
+		name = 벰리안
+		plural = 벰리안
+		home_planet = 벰므
+		home_system = 벰보르
+		name_list = "REP4"
+	}
+	
+	tendrakkian = {
+		name = 텐드라키안
+		plural = 텐드라키안
+		home_planet = 텐드라키아
+		home_system = 텐도르
+		name_list = "REP1"
+	}
+	
+	baanthurian = {
+		name = 반수리안
+		plural = 반수리안
+		home_planet = 반수르
+		home_system = "반스 비르"
+		name_list = "REP2"
+	}
+	
+	cormathani = {
+		name = 코르마타니
+		plural = 코르마타니
+		home_planet = 코르마스
+		home_system = 코르마사
+		name_list = "REP3"
+	}
+	
+	kirillian = {
+		name = 키릴리안
+		plural = 키릴리안
+		home_planet = 키릴
+		home_system = "콜트라스 나드흐"
+		name_list = "REP4"
+	}
+	
+	beldross = {
+		name = 벨드로스
+		plural = 벨드로스
+		home_planet = 펜'할로드
+		home_system = 비노르
+		name_list = "REP1"
+	}
+	
+	jurinn = {
+		name = 주리느
+		plural = 주리느
+		home_planet = 즈란도르
+		home_system = "주리크 탄"
+		name_list = "REP2"
+	}
+	
+	ziiran = {
+		name = 지일란
+		plural = 지일란
+		home_planet = 네'지라
+		home_system = 지라
+		name_list = "REP3"
+	}
+	
+	athanebian = {
+		name = 아타네비안
+		plural = 아타네비안
+		home_planet = 아타네비아
+		home_system = 아타스
+		name_list = "REP4"
+	}
+	
+	diri = {
+		name = 디리
+		plural = 디리
+		home_planet = 디르-바누스
+		home_system = 디르
+		name_list = "REP1"
+	}
+	
+	hydari = {
+		name = 하이다리
+		plural = 하이다리
+		home_planet = 하이닥스
+		home_system = 하이도르
+		name_list = "REP2"
+	}
+	
+	cirrulan = {
+		name = 키르룰란
+		plural = 키르룰란
+		home_planet = 시르라
+		home_system = 시르'다루스
+		name_list = "REP3"
+	}
+	
+	yaanari = {
+		name = 야나리
+		plural = 야나리
+		home_planet = 얀
+		home_system = 야누스
+		name_list = "REP4"
+	}
+	
+	ubaric = {
+		name = 우바릭
+		plural = 우바릭
+		home_planet = 우바리아
+		home_system = 주자'바루
+		name_list = "REP1"
+	}
+	
+	kedeshi = {
+		name = 케데시
+		plural = 케데시
+		home_planet = 케쇼
+		home_system = "케스-수라스"
+		name_list = "REP2"
+	}
+	
+	tebadoran = {
+		name = 테바도란
+		plural = 테바도란
+		home_planet = 테바도르
+		home_system = 테바트
+		name_list = "REP3"
+	}
+	
+	bessadon = {
+		name = 베사돈
+		plural = 베사돈
+		home_planet = 베스콰
+		home_system = 베스'코로
+		name_list = "REP4"
+	}
+	
+	lyrite = {
+		name = 라이리트
+		plural = 라이리트
+		home_planet = 라이라스
+		home_system = 카루스
+		name_list = "REP1"
+	}
+
+	sathori = {
+		name = 사타소리
+		plural = 사타소리
+		home_planet = 사타소리아
+		home_system = 사트
+		name_list = "REP2"
+	}
+
+	suramo = {
+		name = 수라모
+		plural = 수라모
+		home_planet = "수라모 프라임"
+		home_system = 수라모
+		name_list = "REP3"
+	}
+
+	knatza = {
+		name = 카트자
+		plural = 카트자
+		home_planet = 크나트즈
+		home_system = 이브나트즈
+		name_list = "REP4"
+	}
+
+	bryll = {
+		name = 브라일
+		plural = 브라일
+		home_planet = 브라일타나
+		home_system = 브레틀루
+		name_list = "REP1"
+	}
+
+	raxar = {
+		name = 락사르
+		plural = 락사르
+		home_planet = 락스'카나
+		home_system = 락스
+		name_list = "REP2"
+	}
+}
+
+### AVIAN 
+
+AVI = {
+	shantari = {
+		name = 샨타리
+		plural = 샨타리
+		home_planet = "샨타르 프라임"
+		home_system = 샨타르
+		name_list = "AVI1"
+	}
+	
+	saiiban = {
+		name = 사이반
+		plural = 사이반
+		home_planet = 사바그
+		home_system = 사리루스
+		name_list = "AVI2"
+	}
+
+	ikaanan = {
+		name = 이라카난
+		plural = 이라카난
+		home_planet = 이라안
+		home_system = 이코르
+		name_list = "AVI3"
+	}
+
+	avarrian = {
+		name = 아바리안
+		plural = 아바리안
+		home_planet = "아바르 프라임"
+		home_system = 아바르
+		name_list = "AVI4"
+	}
+
+	khessam = {
+		name = 케삼
+		plural = 케삼
+		home_planet = "케사르 프라임"
+		home_system = 케사르
+		name_list = "AVI1"
+	}
+	
+	cynn = {
+		name = 사인
+		plural = 사인
+		home_planet = 사인도르
+		home_system = 사트라
+		name_list = "AVI2"
+	}
+	
+	yeon = {
+		name = 옌
+		plural = 옌
+		home_planet = "옌두스"
+		home_system = "얄 바스크"
+		name_list = "AVI3"
+	}
+	
+	tezekian = {
+		name = 테케키안
+		plural = 테케키안
+		home_planet = 테케크
+		home_system = "티르 바탄"
+		name_list = "AVI4"
+	}
+	
+	khemplar = {
+		name = 켐플러
+		plural = 켐플러
+		home_planet = 켐살라
+		home_system = "켐 준"
+		name_list = "AVI1"
+	}
+	
+	vissari = {
+		name = 비살리
+		plural = 비살리
+		home_planet = 비스
+		home_system = 비슬로크
+		name_list = "AVI2"
+	}
+
+	rackuddon = {
+		name = 카쿠돈
+		plural = 카쿠돈
+		home_planet = 라쿠우르
+		home_system = 락크타
+		name_list = "AVI3"
+	}
+	
+	tiyal = {
+		name = 타이얄
+		plural = 타이얄
+		home_planet = 예논
+		home_system = 이힘
+		name_list = "AVI4"
+	}
+	
+	keerim = {
+		name = 키어리미안
+		plural = 키어리미안
+		home_planet = 커쉬
+		home_system = 키림
+		name_list = "AVI1"
+	}
+	
+	fiiral = {
+		name = 피랄
+		plural = 피랄
+		home_planet = "피리스 프라임"
+		home_system = 피리스
+		name_list = "AVI2"
+	}
+	
+	cynur = {
+		name = 사이노르
+		plural = 사이노르
+		home_planet = "사이리스 프라임"
+		home_system = 사이리스
+		name_list = "AVI3"
+	}
+	
+	imari = {
+		name = 이마리
+		plural = 이마리
+		home_planet = 이마리아
+		home_system = 이무르
+		name_list = "AVI4"
+	}
+	
+	izirian = {
+		name = 이지리안
+		plural = 이지리안
+		home_planet = 이지르
+		home_system = 지르마
+		name_list = "AVI1"
+	}
+	
+	figyar = {
+		name = 피갸르
+		plural = 피갸르
+		home_planet = "야루스 프라임"
+		home_system = 야루스
+		name_list = "AVI2"
+	}
+	
+	sibulan = {
+		name = 시부란
+		plural = 시부란
+		home_planet = "올드 시부라"
+		home_system = 메트락
+		name_list = "AVI3"
+	}
+	
+	miidari = {
+		name = 미다리
+		plural = 미다리
+		home_planet = 미다크
+		home_system = 므'탄
+		name_list = "AVI4"
+	}
+	
+	spyran = {
+		name = 스파이란
+		plural = 스파이란
+		home_planet = 스파이리아
+		home_system = "스파이르 크'타"
+		name_list = "AVI1"
+	}
+	
+	bruggan = {
+		name = 브루간
+		plural = 브루간
+		home_planet = 브라나게아
+		home_system = 비르가스
+		name_list = "AVI2"
+	}
+	
+	inari = {
+		name = 이나리
+		plural = 이나리
+		home_planet = 이나루스
+		home_system = 이나크
+		name_list = "AVI3"
+	}
+	
+	penthulan = {
+		name = 펜툴란
+		plural = 펜툴란
+		home_planet = 펜툴
+		home_system = 펭카르
+		name_list = "AVI4"
+	}
+	
+	rixi = {
+		name = 릭시
+		plural = 릭시
+		home_planet = 릭스
+		home_system = 릭사루
+		name_list = "AVI1"
+	}
+
+	baviir = {
+		name = 바비일
+		plural = 바비일
+		home_planet = 바비이라
+		home_system = "바비 티리"
+		name_list = "AVI2"
+	}
+
+	ospranian = {
+		name = 오스프라니안
+		plural = 오스프라니안
+		home_planet = 오스프라니아
+		home_system = 오스프라
+		name_list = "AVI3"
+	}
+
+	erissu = {
+		name = 에리수
+		plural = 에리수
+		home_planet = 에마리스
+		home_system = 마라스
+		name_list = "AVI4"
+	}
+
+	skanuri = {
+		name = 스카누리
+		plural = 스카누리
+		home_planet = 스카나
+		home_system = 스케루
+		name_list = "AVI1"
+	}
+
+	hiran = {
+		name = 히란
+		plural = 히란
+		home_planet = 히르
+		home_system = "히르 알쿠'트"
+		name_list = "AVI2"
+	}
+}
+
+### MOLLUSCOID
+
+MOL = {
+	Aztani = {
+		name = 아즈타니
+		plural = 아즈타니
+		home_planet = "니라 아즈탄"
+		home_system = 아즈탄
+		name_list = "MOL1"
+	}
+	
+	karabnar = {
+		name = 카라브나르
+		plural = 카라브나르
+		home_planet = 카라브
+		home_system = 카라본
+		name_list = "MOL2"
+	}
+	
+	ymorz = {
+		name = 이머즈
+		plural = 이머즈
+		home_planet = 이머리아
+		home_system = "이머 자"
+		name_list = "MOL3"
+	}
+	
+	bilnoc = {
+		name = 빌녹
+		plural = 빌녹
+		home_planet = 비리스
+		home_system = 빌나가
+		name_list = "MOL4"
+	}
+	
+	larongo = {
+		name = 라롱고
+		plural = 라롱고
+		home_planet = 라롱기아
+		home_system = 랑고
+		name_list = "MOL1"
+	}
+	
+	uthonian = {
+		name = 우쓰니안
+		plural = 우쓰니안
+		home_planet = 우쓰라
+		home_system = 우쏜
+		name_list = "MOL2"
+	}
+	
+	elaaminid = {
+		name = 엘라미니드
+		plural = 엘라미니드
+		home_planet = 엘람
+		home_system = "엘라 간"
+		name_list = "MOL3"
+	}
+	
+	heejam = {
+		name = 히잠
+		plural = 히잠
+		home_planet = 히조르
+		home_system = 헤지리스
+		name_list = "MOL4"
+	}
+	
+	hannfelir = {
+		name = 한'펠리르
+		plural = 한'펠리르
+		home_planet = 후른
+		home_system = 다기르'폰
+		name_list = "MOL1"
+	}
+	
+	cyggan = {
+		name = 시그간
+		plural = 시그간
+		home_planet = 시기아
+		home_system = 시그다르
+		name_list = "MOL2"
+	}
+	
+	gorothi = {
+		name = 고로씨
+		plural = 고로씨
+		home_planet = 고로쓰
+		home_system = 고르
+		name_list = "MOL3"
+	}
+	
+	connisthian = {
+		name = 콘니스티안
+		plural = 콘니스티안
+		home_planet = "콘'아라미스"
+		home_system = 콘토르
+		name_list = "MOL4"
+	}
+	
+	nuurian = {
+		name = 누리안
+		plural = 누리안
+		home_planet = 누르
+		home_system = "누르 디아모크"
+		name_list = "MOL1"
+	}
+	
+	genoggian = {
+		name = 제노기안
+		plural = 제노기안
+		home_planet = 제노기아
+		home_system = 제녹스
+		name_list = "MOL2"
+	}
+	
+	dabulan = {
+		name = 다불란
+		plural = 다불란
+		home_planet = 다불
+		home_system = "데메스 퀴"
+		name_list = "MOL3"
+	}
+	
+	uthabulan = {
+		name = 우싸불란
+		plural = 우싸불란
+		home_planet = 우싸브
+		home_system = "이트니 제락"
+		name_list = "MOL4"
+	}
+	
+	gurite = {
+		name = 구리트
+		plural = 구니트
+		home_planet = 구르
+		home_system = 구르'팀
+		name_list = "MOL1"
+	}
+	
+	hythean = {
+		name = 하이테안
+		plural = 하이테안
+		home_planet = 하이테아
+		home_system = 하이투스
+		name_list = "MOL2"
+	}
+	
+	tebbran = {
+		name = 테브란
+		plural = 테브란
+		home_planet = 테보르
+		home_system = 테바리스
+		name_list = "MOL3"
+	}
+	
+	kundaric = {
+		name = 쿠단
+		plural = 쿠단
+		home_planet = 쿤디야
+		home_system = 쿤-티
+		name_list = "MOL4"
+	}
+	
+	sejethari = {
+		name = 세제타리
+		plural = 세제타리
+		home_planet = 세제트
+		home_system = 세제타니부스
+		name_list = "MOL1"
+	}
+	
+	bakurian = {
+		name = 바크투리안
+		plural = 바크투리안
+		home_planet = 바크투르
+		home_system = 바크'투림
+		name_list = "MOL2"
+	}
+	
+	sebannic = {
+		name = 세반
+		plural = 세반
+		home_planet = 세바니카
+		home_system = 셉토-카
+		name_list = "MOL3"
+	}
+	
+	jakly = {
+		name = 제클리
+		plural = 제클리
+		home_planet = 자카로
+		home_system = 지크
+		name_list = "MOL4"
+	}
+	
+	bavi = {
+		name = 바비
+		plural = 바비
+		home_planet = "바브 프라임"
+		home_system = 바브
+		name_list = "MOL1"
+	}
+
+	endurga = {
+		name = 엔두르가
+		plural = 엔두르가
+		home_planet = 두르가사
+		home_system = 두르그
+		name_list = "MOL2"
+	}
+
+	xabir = {
+		name = 자비르
+		plural = 자비르
+		home_planet = "자비르 프라임"
+		home_system = 자비르
+		name_list = "MOL3"
+	}
+
+	jubaran = {
+		name = 주바란
+		plural = 주바란
+		home_planet = 주브
+		home_system = 제'트라-바즈
+		name_list = "MOL4"
+	}
+
+	norani = {
+		name = 노라니
+		plural = 노라니
+		home_planet = 노라니아
+		home_system = 노스
+		name_list = "MOL1"
+	}
+
+	urzo = {
+		name = 우르조
+		plural = 우르조
+		home_planet = 우르조리아
+		home_system = "우르즈 고바"
+		name_list = "MOL2"
+	}
+}
+
+### AI
+
+AI = {
+	ai = {
+		name = AI
+		plural = AI
+		home_planet = "그리드 x0y0z0"
+		home_system = "U그리드 x0y0z0"
+		name_list = "AI"
+	}
+}

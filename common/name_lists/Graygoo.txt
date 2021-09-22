@@ -1,0 +1,18 @@
+﻿### Gray Goo
+graygoo = {
+	selectable = { always = no }
+	randomized = no
+	
+	### SHIPS
+
+	ship_names = {
+	
+		graygoo_mothership = {
+			"위대한 결합"
+		}
+
+		graygoo_interdictor = {
+			"재구성자"
+		}
+	}
+}

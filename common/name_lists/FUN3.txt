@@ -1,0 +1,212 @@
+﻿### Fungoid 3
+### Created by Alexander Oltner
+### 번역: Holy_Mackerel
+FUN3 = {
+	category = "Fungoid"
+	ship_names = {
+		generic = {
+			"네바브 아바브" "아피브 아바브" "사바 아바브" "포바브 아바브" "심핀 아바브" "슐라브 아바브" "일리바 아바브" "이사비바 아드핀" "오마드 아드핀" "핑가브 아드핀" "할라브 아드핀" "모고나바 아드 이브" "세파바 아드 이브" "비나 아드 이브" "그리바핀 아드 이브" "그리바핀 아바브" "비나 아바브" "세파바 아바브" "모고나바 아바브" "할라브 아바브" "핑가브 아바브" "오마드 아바브" "유리가브 아드핀" "일리바 아드핀" "슐라브 아드핀" "심핀 아드핀" "포바브 아드 이브" "아피브 아드 이브" "사바 아드 이브" "아피브 아드 이브" "콰바브 아바브" "콰리바 아바브" "퀼핀 아바브" "비핀 아바브" "제라브 아바브" "제바브 아바브" "비브 아바브" "비바브 아드핀" "발리아브 아드핀" "아시바바 아드핀" "마바브 아드핀" "오드 아드 이브" "아더 아드 이브" "돌라브 아드 이브" "핀레빈 아드 이브"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"아바브 균사 함대" "휴라브 균사 함대" "주아브핀 균사 함대" "몰레니바 균사 함대" "가바드 균사 함대" "폴로브 균사 함대" "뷸즈니브 균사 함대" "제빌브 균사 함대" "알랍 균사 함대" "페스브 균사 함대" "모레바바 균사 함대" "분스다브 균사 함대" "휴바 균사 함대" "빈피나바 균사 함대" "피나피바 균사 함대" "임다브 균사 함대" 
+		}
+		sequential_name = "제 %CC% 균사 함대"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 거점대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 감염체 지휘부"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 감염체 지휘부"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 감염체 지휘부"
+		}
+
+		defense_army = {
+			sequential_name = "제 %CC% 거점대"
+		}
+
+		assault_army = {
+			sequential_name = "제 %CC% 감염체 지휘부"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 포자숙주 무리"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 분열체 소대"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 소대"
+		}
+
+		robotic_army = {
+			sequential_name = "제 %CC% 로봇 버섯"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 로봇 수호자"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 환각버섯 부대"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 외계 버섯 부대"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 죽음의 버섯"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 순찰대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 로봇 순찰대"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"아브 사이바" "시빈 사이바" "다브핀 사이바" "필라반 사이바" "그롭살 사이바" "휴브 사이바" "자빌로프 사이바" "라스고바 사이바" "크보볼 사이바" "와나바핀 사이바" "에핀 비바-필라브" "리바 비바-필라브" "이베 비바-필라브" "우바 비바-필라브" "이클리브 비바-필라브" "오비브 비바-필라브" "폰사바 비바-필라브" "젭바 비바-필라브" "주르가브 비바-필라브" "신피네브 비바-필라브" "뷰르기브 바다" "보브벤 바다" "네바 바다" "마드피브 바다" "아르바브 바다" "세피아바 바다" "디비그 바다" "팔비브 바다" "그로스팔빈 바다" "휴기브 바다"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				압바바 시아바 아다브 파다바 아바핀 바파드 아드핀 아바바 시핀 시바브 휴아바 라라브 비나브 우라브 유아바핀 아다드 피나드 코발 와다브 에리바 리빌 듈라바 야반 유핀 이브 오반바 페자바 아스고바 사비바 다바핀 포크바 가바드 하다드 주브 롤핀 세바바브 바다바 부다드 나브다드 마이바바
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				유비-아베르핀 유비-손나브타브 유비-도글라브 유비-파바 유비-갈바브 유비-하브핀 유비-조아드 유비-리베 유비-아즈브바브 유비-콜브 유비-그렐핀 유비-비 유비-발비바 유비-나드피나바 유비-마바 유비-와디브 유비-에브핀 유비-라바드 유비-이드프릴브 유비-유흘리아반 유비-이파브 유비-오벨리아드 유비-피바바
+			}
+			
+			regnal_first_names = {
+				자바브 자바바바 자드 진카바 지바칸 지바바크 지핀
+			}
+			
+			regnal_second_names = {
+				콸브핀 쾀브스 퀴브 큐아바
+			}
+		}
+	}
+}

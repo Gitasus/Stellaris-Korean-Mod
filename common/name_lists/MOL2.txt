@@ -1,0 +1,212 @@
+﻿### Molluscoid 2
+### Created by Maximilian Olbers
+### 번역: Holy_Mackerel
+MOL2 = {
+	category = "Molluscoid"
+	ship_names = {
+
+		generic = {
+			유그챠트 아들로우그 울로엄가슈 카드그룸스 슈테스 기갈우스 웨글라르 글로포칩 플리드보그 파와글룬 코페버글룬 파프기엔 듀글렌슈 자루브츠 솔듀브크 유글라소브 자블로드 슌베츠 바큐에그 뮤아촐그 큐아레그 큐클로쉬 할구겐 아부슈에그 이그룸 물그라이츠 임브다그스 잘게브 쥬란술 틸건츠 바드헤이그 다시구르 임거브 와주그 군다그 이자그술 틸간술 바프굴드 포우가 이그리 이그바 유그수 윔바 윔그구 이그슐라 와그라 하글라 우글라보그 우글라리그 집바그 잡블라그 바프가 바그가수 비가 자블루그 구글로스카 포와그가룸 비가라스 쿠르가고그 글로프가 글로프기 아부스기 코페기 코프글라
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"깊은 바다" "해안" "뭇가" "닻" "파고" "조수" "해변" "부두" "항해" "심해" "핵심" "암포" "바람" "산들바람" "시내" "강" "호수" "바다"
+		}
+		sequential_name = "제 %CC% 원정 함대"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 해안 방어대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 파도 부대"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 파도 부대"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 파도 부대"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 해안 방어대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 파도 부대"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 연대"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 실험관 보병"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 보병"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 기계체 무리"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 기계체 주둔군"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 전쟁 정신"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 괴물가제"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 조작 보병"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 해안 점령대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 기계체 점령대"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				글루그바프 글루그러그 글루고브데르 블루겐잘 글루가슈 글루가벤 글루두르 글루그멤 글루고우 글루드헤이 글루술 글룰드 뷰그덴 벨그멤 빈쥴 바글슈 뷰드고드 바프슈 뷰그룰슈 비드갈브 말구 말기굴 말그소트 미기루스 마그두르 마구우 마그림 부그라 바가 비그
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				슌감 오드날 아드림가 칸다그 튤랑가 슐데스 웨구트림 다규트 슬루그라데드 말루그레브 뷰프펜 와다흐스 리듀부스 바큐게트 도슐그 말룽고르드 마흐피어 타루츠 위흘람 아슈그람 순가브 오드기브 슬루그리 리드가브 바구기 위디그 툴비그 닥고로 부프가 와두그 리두그 말리고 말구그
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				슌감 오드날 아드림가 칸다그 튤랑가 슐데스 웨구트림 다규트 슬루그라데드
+			}
+			
+			regnal_second_names = {
+				다그스챠
+			}
+		}
+	}
+}

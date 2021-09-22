@@ -1,0 +1,215 @@
+﻿### Humanoid 2
+### 번역: Holy_Mackerel
+HUM2 = {
+	category = "Humanoid"
+	ship_names = {
+
+		generic = {
+			"잘 켄셈마" "잘 보카눔" "잘 임카마" "잘 프로그마트" "잘 탈탈론" "잘 바크" "잘 이라듀나" "잘 코포크" "잘 히시마" "잘 라크" "잘 퍼슈마트" "잘 임마쿤" "잘 드로사스" "잘 티라크" "잘 포크" "잘 뮤크" "잘 마라솔" "잘 보르가스" "잘 이크눔" "잘 포르톤" "잘 리쿰" "잘 보이푼" "잘 튜크" "잘 로르푼" "잘 페르푼" "잘 엔니크" "잘 토르투스" "잘 튜르란" "잘 라단" "잘 로스크" "잘 우크" "잘 바크" "잘 레스토크" "잘 드라몬" "잘 핌미론" "잘 이르돈" "잘 와돈" "잘 뷰돈" "잘 루르몬" "잘 이크마" "잘 트라손" "잘 누르몬" "잘 니감" "잘 로크" "잘 보카자" "잘 제콘" "잘 토르바크" "잘 니스크" "잘 트리켄" "잘 보칼" "잘 시크라" "잘 투루스" "잘 지클란" "잘 시크" "잘 이르켄" "잘 텐키" "잘 오카" "잘 토콤" "잘 비크림" "잘 지다르" "잘 본톤" "잘 소토르크" "잘 테스크" "잘 핀타르" "잘 에베르크" "잘 에르크" "잘 바바크" "잘 이티크" "잘 콜포" "잘 비키스크" "잘 시바" "잘 누르길" "잘 올레스크" "잘 오바사" "잘 톨롤" "칼 수폰" "칼 비몬" "칼 튜몬" "칼 퍼론" "칼 우릴론" "칼 쿰푸크" "칼 발루크" "칼 이몬" "칼 유폰" "칼 포이눔" "칼 라크" "칼 타라몬" "칼 페이돈" "칼 모라돈" "이르스크 뮬" "이르스크 토르슈카" "이르스크 헤신트" "이르스크 몽" "이르스크 폴룸" "이르스크 론담" "이르스크 군가르" "이르스크 가람" "이르스크 파탈" "이르스크 보밤" "이르스크 튤" "이르스크 뷰르" "이르스크 불" "이르스크 포르스칸" "이르스크 토톨란" "이르스크 로르바스크" "이르스크 힌나트" "이르스크 튜말라" "트로크 룰" "트로크 노람" "트로크 피시코트" "트로크 하나타" "트로크 페트로이살" "트로크 이탈" "트로크 혼팔" "트로크 본토스크" "트로크 펠라토르" "트로크 롱" "트로크 콩" "트로크 소롱" "트로크 한타트" "트로크 비암" "트로크 오프줄"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"공통 원정 함대" "전략 준비 함대" "전술 재배치 함대" "신속 타격 함대" "전선 방위 함대"
+		}
+		sequential_name = "제 %CC% 타격 함대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 식민지 감시대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 강습단"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 강습단"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 강습단"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 식민지 감시대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 강습단"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 형벌 부대"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 복제병 상비군"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 부대"
+		}
+
+		robotic_army = {
+			sequential_name = "제 %CC% 전투 드론 대대"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 전투 드론 방공대"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 초능력-작전 지휘부"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 강습 무리"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 순혈병단"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 감시대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 점령지 드론"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+			 "비리크 모그" "카드마나 모그" "토리크 모그" "인다타 모그" "일라스트 모그" "피타즈 모그" "큘만 모그" "폰다크 모그" "발라즈 모그" "코스타 모그" "로크님 모그" "비 탈라스" "비 서마트" "비 토람" "비 카스칸" "비 심니" "비 슐루그" "비 포스탐" "비 틸리크" "비 펠로르" "비 발람" "비 마칼" "비 오람"  
+		}
+		}
+		
+		pc_desert = {
+			names = {
+				"발크 벨롬" "발크 크루스칸" "발크 마스티드" "발크 고람" "발크 실레그" "발크 클로스터" "발크 브터크" "발크 쿠노르" "발크 림테그" "발크 클라슈르" "발크 뷰레그" "발크 오르데칸" "발크 모그" "발크 토람" "발크 카스칸" "발크 탈라스" "발크 슈마트" "발크 슐루그" "발크 포스탐" "발크 틸리크" "발크 펠로르" "발크 펠로그" "발크 발람"
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				"말흐 크라드메" "말흐 미로크" "말흐 시르켄" "말흐 텔레스" "말흐 규포크" "말흐 펜다크" "말흐 림카르" "말흐 고탐" "말흐 렐리르" "말흐 글레스소르" "말흐 퍼칼흐" "말흐 말로드" "말흐 그리케스" "말흐 톨로쿰" "말흐 톨레더크" "말흐 보리세그" "말흐 시그레보트" "말흐 터렌그"
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				"그룬 페스티드" "그룬 타클란" "그룬 비스코드" "그룬 뷸러스" "그룬 트로가크" "그룬 밀라크" "그룬 말쿰" "그룬 탐물크" "그룬 에스기크" "그룬 아스테그" "그룬 돌라스크" "그룬 세림" "그룬 루길스" "그룬 코라브" "그룬 살카그" "그룬 가말흐" "그룬 그로네크" "그룬 트롬록" "그룬 트라베크" "그룬 시르카보그" "그룬 크루살흐"
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				머그 일마스 폰 자프라 비칼 모나크 퍼라크 랄드 조르그 사프라 주나크 비마스 투프라 콘 불드 가나크 파드라 가프라
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				토로스 비곤 타이살라 비스 바가스 이니크 바 토르 웨크 포크 푼 카프 닉 펜 타라스 바그라스 미콘
+			}
+			
+			regnal_first_names = {
+				머그 일마스 폰 자프라 비칼 모나크 퍼라크 랄드
+			}
+			
+			regnal_second_names = {
+				토로스 비곤 타이살라
+			}
+		}
+	}
+}

@@ -1,0 +1,233 @@
+﻿### Hive Mind
+### Created by Miranda van den Brink
+### 번역: Holy_Mackerel
+HIVE = {
+	category = "Hive Mind"
+	randomized = no
+	should_name_home_system_planets = no
+
+	ship_names = {
+		generic = {
+		}
+
+		corvette = {
+			"전투선"
+		}
+		
+		destroyer = {
+			"전투선"
+		}
+		
+		cruiser = {
+			"전투선"
+		}
+		
+		battleship = {
+			"전투선"
+		}
+
+		titan = {
+			"전투선"
+		}
+
+		colossus = {
+			"주력 전투선"
+		}
+		
+		juggernaut = {
+			"주력 전투 접속점"
+		}
+		
+		science = {
+			"추적선"
+		}
+		
+		colonizer = {
+			"군집 개척선"
+		}
+		
+		constructor = {
+			"건설선"
+		}
+	
+		transport = {
+			"운송선"
+		}
+	
+		military_station_small = {
+			"부동 방위점"
+		}
+
+		ion_cannon = {
+			"이온 방위점"
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+		"가 형" "나 형" "다 형" "라 형" "마 형" "바 형" "사 형" "아 형" "자 형" "차 형" "카 형" "타 형" "파 형" "하 형" "갑 형" "을 형" "병 형" "정 형" "무 형" "기 형" "경 형" "신 형" "임 형" "계 형"
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			"괴성의 무리" "탐식자 무리" "유린자 무리" "황폐의 무리" "폭식의 무리" "쇄도 무리" "추적 무리" "돌진 무리" "뇌성의 무리" "우글거리는 무리" "부단한 무리" "악의적인 무리" "역병 무리" "무자비한 무리" "냉혹한 무리" "원한의 무리"
+		}
+		sequential_name = "%CC%번 전투 무리"
+	}
+	
+	army_names = {
+	
+		machine_defense = {
+			sequential_name = "%CC%번 군집 방어대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "%CC%번 침략대"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "%CC%번 침략대"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "%CC%번 침략대"
+		}
+	
+		defense_army = {
+			sequential_name = "%CC%번 군집 방어대"
+		}
+			
+		assault_army = {
+			sequential_name = "%CC%번 침략대"
+		}
+		
+		slave_army = {
+			sequential_name = "%CC%번 노예 전사 무리"
+		}
+		
+		clone_army = { 
+			sequential_name = "%CC%번 복제 전사 무리"
+		}
+		
+		undead_army = {
+			sequential_name = "%CC%번 공포의 무리"
+		}
+		
+		robotic_army = {
+			sequential_name = "%CC%번 로봇 전사 무리"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "%CC%번 로봇 방어 무리"
+		}		
+
+		psionic_army = { 
+			sequential_name = "%CC%번 정신 전사 무리"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%CC%번 변이 전사 무리"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%CC%번 강화 전사 무리"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"조직체 가" "무리 군락지 가" "무리 조직체" "번식지" "무리 둥지" "외역 발치" "외부 무리 군집" "연장 지점" "표준 지점" "무리 지점" "확장 조직체" "생산 지역" "상급 정점" "확장 지점" "개발 지역" "진보 조직체" "생산 지점" "모임 조직체" "경비 나들목" "최고-정점" "전진 나들목" "모임 지점" "번식 식민지" "식민지 가" "식민지 나" "식민지 다" "식민지 라" "식민지 마" "식민지 바" "식민지 사" "식민지 아" "식민지 자" "식민지 차" "번식 조직" "무리 군집지" "무리 식민지" "일꾼 식민지" "모임 식민지"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+
+				"자율 개체 1" "자율 개체 2" "자율 개체 3" "자율 개체 4" "자율 개체 5" "자율 개체 6" "자율 개체 7" "자율 개체 8" "자율 개체 9" "자율 개체 10" "자율 개체 11" "자율 개체 12" "자율 개체 13" "자율 개체 14" "자율 개체 15" "자율 개체 16" "자율 개체 17" "자율 개체 18" "자율 개체 19" "자율 개체 20" "자율 개체 21" "자율 개체 22" "자율 개체 23" "자율 개체 24" "자율 개체 25" "자율 개체 26" "자율 개체 27" "자율 개체 28" "자율 개체 29" "자율 개체 30" "자율 개체 31" "자율 개체 32" "자율 개체 33" "자율 개체 34" "자율 개체 35" "자율 개체 36" "자율 개체 37" "자율 개체 38" "자율 개체 39" "자율 개체 40" "자율 개체 41" "자율 개체 42" "자율 개체 43" "자율 개체 44" "자율 개체 45" "자율 개체 46" "자율 개체 47" "자율 개체 48" "자율 개체 49" "자율 개체 50" "자율 개체 51" "자율 개체 52" "자율 개체 53" "자율 개체 54" "자율 개체 55" "자율 개체 56" "자율 개체 57" "자율 개체 58" "자율 개체 59" "자율 개체 60" "자율 개체 61" "자율 개체 62" "자율 개체 63" "자율 개체 64" "자율 개체 65" "자율 개체 66" "자율 개체 67" "자율 개체 68" "자율 개체 69" "자율 개체 70" "자율 개체 71" "자율 개체 72" "자율 개체 73" "자율 개체 74"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+			}
+			
+			regnal_second_names = {
+			}
+		}
+	}
+
+	ruler_names = {
+		default = {
+			full_names = {
+				"정신 결합체" "통합 의식"
+			}
+		}
+	}
+}

@@ -1,0 +1,219 @@
+﻿### Avian 2
+### Created by Maximilian Olbers
+### Based on a template by Henrik Thyrwall
+### 번역: Holy_Mackerel
+AVI2 = {
+	category = "Avian"
+	ship_names = {
+		generic = {
+			"날아오르는 날개깃" "싸우는 날개깃" "날렵한 날개깃" "반항적인 날개깃" "탄력있는 날개깃" "진노한 날개깃" "자신감 넘치는 날개깃" "영리한 날개깃" "교활한 날개깃" "재능이 넘치는 날개깃" "의기양양한 날개깃" "건방진 날개깃" "광적인 날개깃" "관찰하는 날개깃" "복수심이 넘치는 날개깃" "악의적인 날개깃" "복수심이 넘치는 날개깃" "지치지 않는 날개깃" "굶주린 날개깃" "무자비한 날개깃" "용감한 날개깃" "겁없는 날개깃" "명랑한 날개깃" "분개하는 날개깃" "교활한 날개깃" "어리석은 날개깃" "행복한 날개깃" "불안정한 날개깃" "신중한 날개깃" "고독한 날개깃" "통찰력 있는 날개깃" "변덕스러운 날개깃" "충동적인 날개깃" "사악한 날개깃" "엉큼한 날개깃" "우아한 날개깃" "고집센 날개깃" "인내하는 날개깃" "충실한 날개깃" "사나운 날개깃" "용서받지 못한 날개깃" "휘둘리지 않는 날개깃" "운이 좋은 날개깃" "용맹한 날개깃" "자신만만한 날개깃" "무례한 날개깃" "믿을 수 있는 날개깃" "활발한 날개깃" "거친 날개깃" "쾌활한 날개깃" "열렬한 날개깃" "격렬한 날개깃" "혈기 왕성한 날개깃" "적극적인 날개깃" "빠른 날개깃" "활기찬 날개깃" "집요한 날개깃" "완강한 날개깃" "고집스러운 날개깃" "확고한 날개깃" "난감한 날개깃" "고집하는 날개깃" "맹렬한 날개깃" "광분한 날개깃" "격정적인 날개깃" "격동의 날개깃" "무모한 날개깃" "야만적인 날개깃" "거리낌 없는 날개깃" "소란스러운 날개깃" "정신나간 날개깃" "떠들썩한 날개깃" "소동을 벌리는 날개깃" "요란한 날개깃" "끈질긴 날개깃" "열의에 찬 날개깃" "광신적인 날개깃" "열정적인 날개깃" "탐욕스러운 날개깃" "단호한 날개깃" "강건한 날개깃" "통통한 날개깃" "헝클어진 날개깃" "부시시한 날개깃" "미친 날개깃" "기묘한 날개깃" "짜증난 날개깃" "순종하지 않는 날개깃" "경솔한 날개깃" "성급한 날개깃" "부주의한 날개깃" "의식없는 날개깃" "난폭한 날개깃" "길들여지지 않은 날개깃" "야생 날개깃" "다루기 힘든 날개깃" "변덕이 심한 날개깃" "불안한 날개깃" "활달한 날개깃" "건강한 날개깃" "태평스러운 날개깃" "즐거운 날개깃" "기쁜 날개깃" "발달한 날개깃" "자신에 찬 날개깃" "튼튼한 날개깃" "유쾌한 날개깃" "재빠른 날개깃" "초롱초롱한 날개깃" "고집불통인 날개깃" "제멋대로인 날개깃" "불량한 날개깃" "괴짜 날개깃" "불규칙한 날개깃" "요상한 날개깃" "일탈적인 날개깃" "퉁명스러운 날개깃" "건너가는 날개깃" "욱하는 날개깃" "화내는 날개깃" "노여운 날개깃" "무뚝뚝한 날개깃" "걸걸한 날개깃" "황량한 날개깃" "버릇없는 날개깃" "괴팍한 날개깃" "시무룩한 날개깃" "까다로운 날개깃" "불길한 날개깃" "음울한 날개깃" "음침한 날개깃" "고압적인 날개깃" "오만한 날개깃" "자랑스러운 날개깃" "멸시하는 날개깃" "업신여기는 날개깃" "거만한 날개깃" "노래하는 날개깃" "귀를 기울이는 날개깃" "지켜보는 날개깃" "장난스러운 날개깃"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+			큐'드리그 큐'폴크 큐'도커 큐'베위크 큐'레코스 큐'자로크 큐'바키르 큐'수르키 큐'다콰 큐'바타누 큐'미티크 큐'사보르 큐'리미코 큐'스바크 큐'다르쿠 큐'파리크 큐'바쿠 큐'포토크 큐'지보
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			"달루르코트 별깃" "토르달리트 별깃" "콰아다티아 별깃" "사크로스타 별깃" "에카라티아 별깃" "킷토랄 별깃" "부테코스 별깃" "야토리 별깃" "쿠루안니아 별깃" "티퀴스크 별깃" "로콰라크 별깃" "판노크 별깃" "기루스 별깃"
+		}
+		sequential_name = "%CC% 번 별깃"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어 부대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 강습 부대"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 강습 부대"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 강습 부대"
+		}
+
+		defense_army = {
+			sequential_name = "제 %CC% 방어 부대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 강습 부대"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 전사"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 강습용 복제품"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 군대"
+		}
+
+		robotic_army = {
+			sequential_name = "제 %CC% 드로이드 군대"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 드로이드 방위대"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 초능력 부대"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 이형체 부대"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 승천자 부대"
+		}
+	
+		occupation_army = {
+			sequential_name = "제 %CC% 점령 부대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 드로이드 점령군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				큐판트 콜트렌 카라크트 리그드 프라디크 부크랄 큐린 클라트 라쿠트 진데트 포콰트스 크라즐 루크 이드루 에트라크 스튜크 바크로트 콰들루 손디크 에크리트 티케크 키트렐 부토크 큐다터 사크라트 야트루
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				부나크 타라다크 로케트랄 윤루레크 크로튜크 나크트라스 히크토르 다트나크 큐트로크 트라크 크리두르 트리카드 들루레트 클로트라스트 타브후크 코트리크 리탈크 뷰들라크라스 튜일레데크 달루르코트 바하쿰 트리이크 야바크 튜탈크 로코리크 바두라키 콰비이크 콰타르 티바크 히카르 카타아그 콰브루크 라키트라크
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				부나크 타라다크 로케트랄 윤루레크 크로튜크 나크트라스 히크토르 다트나크 큐트로크 트라크 
+			}
+			
+			regnal_second_names = {
+				키르부스
+			}
+		}
+	}
+}

@@ -1,0 +1,212 @@
+﻿### Arthropoid 3
+### Created by Alexander Oltner
+### 번역: Holy_Mackerel
+ART3 = {
+	category = "Arthropoid"
+	ship_names = {
+		generic = {
+			"헐크라브 묵시" "인클락 묵시" "오팔륵 묵시" "자티즈 묵시" "크낙 묵시" "헐크라브 스펙트락" "인클락 스펙트락" "오팔륵 스펙트락" "자티즈 스펙트락" "크낙 스펙트락" "헐크라브 닉스팍" "인클락 닉스팍" "오팔륵 닉스팍" "자티즈 닉스팍" "크낙 닉스팍" "헐크라브 트롭작스" "인클락 트롭작스" "오팔륵 트롭작스" "자티즈 트롭작스" "크낙 트롭작스" "헐크라브 마크트락" "인클락 마크트락" "오팔륵 마크트락" "자티즈 마크트락" "크낙 마크트락" "헐크라브 크랍블락스" "인클락 크랍블락스" "오팔륵 크랍블락스" "자티즈 크랍블락스" "크낙 크랍블락스" "헐크라브 유프식스" "인클락 유프식스" "오팔륵 유프식스" "자티즈 유프식스" "크낙 유프식스" "헐크라브 입박스" "인클락 입박스" "오팔륵 입박스" "자티즈 입박스" "크낙 입박스" "헐크라브 롭발" "인클락 롭발" "오팔륵 롭발" "자티즈 롭발" "크낙 롭발" "헐크라브 메조틱스" "인클락 메조틱스" "오팔륵 메조틱스" "자티즈 메조틱스" "크낙 메조틱스" "헐크라브 폴작" "인클락 폴작" "오팔륵 폴작" "자티즈 폴작" "크낙 폴작" "헐크라브 베트록스" "인클락 베트록스" "오팔륵 베트록스" "자티즈 베트록스" "크낙 베트록스" "헐크라브 비코폭" "인클락 비코폭" "오팔륵 비코폭" "자티즈 비코폭" "크낙 비코폭" "헐크라브 블라톡스" "인클락 블라톡스" "오팔륵 블라톡스" "자티즈 블라톡스" "크낙 블라톡스" "헐크라브 더니브" "인클락 더니브" "오팔륵 더니브" "자티즈 더니브" "크낙 더니브" "헐크라브 스트록탄" "인클락 스트록탄" "오팔륵 스트록탄" "자티즈 스트록탄" "크낙 스트록탄"
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+	
+	fleet_names = {
+		random_names = {
+			"바크탁스 수확 편대" "캅블록 수확 편대" "박틱스 수확 편대" "폴라리콜 수확 편대" "자크톡스 수확 편대" "메카단스 수확 편대" "루트크락 수확 편대" "플라트릭 수확 편대" "세카덱스 수확 편대"
+		}
+		sequential_name = "제 %CC% 수확 편대"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어 군집"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 공격 군집"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 공격 군집"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 공격 군집"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 방어 군집"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 공격 군집"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 무리"
+		}
+		
+		clone_army = {
+			sequential_name = "제 %CC% 클론 무리"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 무리"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 로보-틱스"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 로보-방위대"
+		}
+		
+		psionic_army = {
+			sequential_name = "제 %CC% 요술사 부대"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 외계종 군집"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC%번 야수"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점거 군집"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 점거 로보-틱스"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대%C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				"풀클락 오복" "스와크 오복" "잔트 오복" "주폭스 오복" "아블릭 자즈칵스" "유트폴 자즈칵스" "자크틱 자즈칵스" "콜렉스 자즈칵스" "웨이키프 이파십" "아클락 이파십" "퀘일크 이파십" "오막스 이파십" "포믹 크락" "아나신 크락" "자집브 크락" "모크크락" "알록스 학시자브" "식시브 학시자브" "한폭 학시자브" "왁소프 학시자브" "바키릭스 락스트릭" "노브학스 락스트릭" "스펙토칵스 락스트릭" "봅빅 락스트릭" "트라븍솔 타임크릭스" "에이윅살 타임크릭스" "포브닉 타임크릭스" "뷰크트락시 타임크릭스" "목스프록 옥소코돌프" "휼팍스 옥소코돌프" "락시브 옥소코돌프" "잘리박 옥소코돌프"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				룩 이텔라 필락스 자이버 이닉 줄키르 파틱 키빈 라켁스 팔리트 프라키르 실신 입박 지카트 룹부크 크나브 클로박스 악산 아피닉스 롭 이낙스 잘린 우니팍 볼칼 자옥스 크라이틱 자스펙 쥼로브 포카트 크룸크락 폴푸키르 레르트락크 에키르 이프라크 살크론 발크네크 유티니크 트로브하크 자이프
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				카바나카 바르티나카 아스피나카 이타나카 유피베르타 자바베르타 파르키베르타 이나베르타 폭시니르키스 이나지니르키스 로비니르키스 유티니르키스 로페트킨 휴케트킨 에크보킨 잔키킨 크룸티카 이브티카 로브티카 콰티카 움라티카
+			}
+			
+			regnal_first_names = {
+				판'돌프 잔'돌프 란'돌프 자이프'돌프 타이프'돌프 사익시'돌프 로프'돌프 콜'돌프
+			}
+			
+			regnal_second_names = {
+				릭시단카 자프리타나카 오마키자나카 클로바자나카
+			}
+		}
+	}
+}

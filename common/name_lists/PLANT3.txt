@@ -1,0 +1,221 @@
+﻿### Plantoid 3
+### Created by Rufus Tronde and Miranda van den Brink
+### 번역: Holy_Mackerel
+PLANT3 = {
+	category = "Plantoid"	
+	ship_names = {
+	
+		generic = {
+			메드리아투스 소에테무스 데케탈루스 보라마부스 차라도무스 오티오나쿠스 모라티니우스 테노키아리우스 멜라디오니우스 오니토힌츄스 파라독수스 랄리티우스 베디리카리우스 모레티우스 데칼루스 츠라무스 비탈루스 메레오테파누스 베렉카부스 고르다누스 자밀루스 에비스트라투스 보라멜루스 렌티팔루스 미르티니우스 테오모라바부스 트리발루스 프라쿠스 브리가브우스 드리마루스 트리투스 온돌루스 헤미발루스 데카다무스 세피리우스 주레우스 브루스투스 리부스 자부스 페투스 글라디올루스 플로비우스 미리우스 리볼루스 티탈루스 아비디우스 아로네우스 그롤루스 네무스 보랄로무스
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		titan = {
+		}
+		
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+		
+		ion_cannon = {
+		}
+	}
+	
+	fleet_names = {
+		random_names = {
+			"꽃피는 군체 함대" "무성한 군체 함대" "제패하는 군체 함대" "선회하는 군체 함대" "급성장하는 군체 함대"
+		}
+		sequential_name = "제 %CC% 군체 함대"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 목피 방패"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 잎바늘 창"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 잎바늘 창"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 잎바늘 창"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 목피 방패"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 잎바늘 창"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 수확 군단"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 고정된 망치"
+		}
+		
+		clone_army = { 
+			sequential_name = "복제식물 %R%"
+		}
+		
+		robotic_army = {
+			sequential_name = "국화 사슬 %R%"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "수선화 사슬 %R%"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 페르몬 부대"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 외계가지 부대"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 극한생물 부대"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 목피 주둔군"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 수선화 주둔군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				론비티움 코로니움 니메리움 미타니움 라모니움 헤누미움 자나시움 푸가티움 파노키리움 로노비리움 베리키니움 코부노리움 오모데리움 이비니디움 마다세니움 에스페리움 헤르바리움 보르베리움 기토리움 베보레움 리보리움 리모리움 드로필리움 덴트리티움 엘로리움 벤도리움 셉토리움 스티리움 브로바리움 니리움 레모리움 케토빌리움 케토리움 그로니움 레비움 헤니미움 나리움
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names_female = {
+				플로라 비올라 바이올렛 릴리 로즈 데이지 로윈 아이리스 자스민 베로니카 헤이즐 에리카 올리브
+			}
+
+			first_names_male = {
+				로윈 바실 하트 리드 에쉬 허클베리 부드
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				오크 블룸 가랜드 메이플 호손 라이트
+			}
+
+			regnal_first_names_male = {
+				바베리안 나르키소스 아마란스
+			}
+
+			regnal_first_names_female = {
+				버터컵 자스민 벨라도나
+			}
+			
+			regnal_second_names = {
+				린니에스
+			}
+		}
+	}
+}

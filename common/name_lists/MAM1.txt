@@ -1,0 +1,216 @@
+﻿### Mammalian 1
+### Created by Henrik Thyrwall
+### 번역: Holy_Mackerel
+MAM1 = {
+	category = "Mammalian"
+	ship_names = {
+
+		generic = {
+			트'탄카 트'듀다 트'티모노크 트'디미크 트'데리캄 드'다나 드'보르마트 드'키르미크 트'카나 트'타미크 드'티라크 트'코모트 드'발람 트'리감 드'튜나크 트'콜박 드'듀마 트'톨로크 이'타라크 이'골라 이'팔세크 이'코노 이'자르감 이'람바크 이'노로 이'로람 이'발딤 이'소람 드'디림 드'모로 드'파라크 트'티민 트'보르그 트'러마크 드'졸시크 이'밤타 이'바라 드'소타 트'랄사크 드'오롬 드'오 드'이림 트'일가르 트'토르가 트'유가나 이'레스마그 이'소롬 이'파르가 트'하리크 트'시롬 이'글라라 드'나카 트'미리 트'시르마 트'타코 드'타르가 드'모로 드'이르파 드'폴로그 드'비르보 트'나라 트'미고르 드'아나라 드'아람 트'탈로크 이'에이리로 이'마그로 드'바리크 드'오랑 드'릴라 트'타이리크 트'텔렐 트'타인니아 트'네로크 드'알라스 트'보자크 트'니르 드'담마 드'페네크 드'이리오 드'타리코 드'사바 드'에비코 트'블리라크 트'카노르 이'파나 이'비람 이'카나스 이'사리크 이'판지크 트'클리아 이'바르도스 이'카람 드'뷰리스 드'반나 드'큐루 드'마로브 드'사그리 트'봄카 트'사리스
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"코림 성간 함대" "리벤 성간 함대" "포타나 성간 함대" "폴리민 성간 함대" "코로도 성간 함대" "포르판 성간 함대" "카르다나 성간 함대" "호로토 성간 함대" "피시니 성간 함대" "파날라 성간 함대" "칸날라 성간 함대" "시미니 성간 함대" "마르타노 성간 함대" "판티 성간 함대" "그룽고니 성간 함대"
+		}
+		sequential_name = "제 %CC% 성간 함대"
+	}
+		
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어 전열"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 침공 전열"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 침공 전열"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 침공 전열"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 방어 전열"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 침공 전열"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 형벌 전열"
+		}
+	
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 전열"
+		}
+	
+		clone_army = { 
+			sequential_name = "양산 보병 %R%"
+		}
+		
+		robotic_army = {
+			sequential_name = "로롯 보병 %R%"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "로롯 방위병 %R%"
+		}
+				
+		psionic_army = { 
+			sequential_name = "초능력 보병 %R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "외계종 무리 %R%"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 변형 보병"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 전열"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 로봇 주둔군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"코르림" "칼단의 첫번째" "리벤의 땅꿀" "리티아" "포르타나" "폴리민" "피렌" "카리말" "메르나나" "핀톤" "로리엔의 과수원" "포탈리아" "비로리" "바니아" "카르딜리아" "코르믈리" "다르포의 교회" "디사디아" "울티아의 피난처" "마니의 굴" "피르틀의 거미줄" "포틀의 식량고" "모르틴의 벗" "토우리발" "드로이탄디르" "라벨코르" "콜로니아의 농지" "울티안의 성지" "포르피온" "카르날로아" "리들란의 도주지" "호르틀의 안식처" "빌코트의 이상" "울탄" "바오르도" "나그림" "퍼데스트" "노이란" "이르듀르" "타민스" "골단" "그롱가리" "발리타나" "팔리틴" "틸리에의 황옥" "엠리에의 녹옥" "길데른의 적옥" "로블의 홍옥" "숀다나의 청옥" "필론의 항구" "카리온의 수정" "디오나의 금강석" 
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names_male = {
+				티그 세르 바그 모르 간 퓨드 칼 비르 뷰르 탄 미크 고르 오로 딤 반 가르 소크 바크 토크 포크 티크 사르 부브 마크 보르 
+			}
+			first_names_female = {
+				티기 세리 바키 모리 가니 퓨디 칼리 비리 뷰리 타니 미키 고리 오로이 디미 바니 가리 소키 바키 토키 포키 티키 사리 부비 마키 보리 
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				즈'칸나 즈'키르 즈'달롯 즈'고르 즈'바심 브'도나그 브'탄 브'스코라크 브'에렌 브'토라크
+			}
+			
+			regnal_first_names = {
+				즈'칸나 즈'키르 즈'달롯 즈'고르 즈'바심 브'도나그
+			}
+			
+			regnal_second_names = {
+				사키르
+			}
+		}
+	}
+}

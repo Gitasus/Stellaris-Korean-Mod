@@ -1,0 +1,212 @@
+﻿### Reptilian 3
+### Created by Maximilian Olbers
+### 번역: Holy_Mackerel
+REP3 = {
+	category = "Reptilian"
+	ship_names = {
+	
+		generic = {
+			로로드-칼렌 로로드-클루벤 로로드-드렉솜 로로드-쿡셀 로로드-더갈 로로드-갈드론 로로드-켄드릴 로로드-퍼라드 로로드-페더 로로드-독세르갈 로로드-쿤덱스 로로드-클라뎃 로로드-클로놀 로로드-레카드 로로드-겍사드 로로드-팔더 로로드-가클렌 로로드-셀드렌 로로드-덱클로르 로로드-드록사그 로로드-너갈 로로드-피크렌 로로드-나들리그 로로드-에나스 로로드-굼갈 로로드-시바드 로로드-코르보크 로로드-술람 로로드-키락스 로로드-엠구스 에리드-가즈 에리드-부크 에리드-독스 에리드-박스 에리드-수르 에리드-콜 에리드-나드 에리드-겍스 에리드-부크 에리드-카르 에리드-릴 에리드-데르 에리드-콜 에리드-그라 에리드-구르 에리드-소르 에리드-쿠브 에리드-로크 에리드-페르 에리드-피크 에리드-루브 에리드-사크 에리드-굴 에리드-나스 에리드-베르 에리드-비르 에리드-쿡스 에리드-에피 에리드-다트 에리드-반 에리드-하스
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		titan = {
+		}
+		
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+		
+		military_station_small = {
+		}
+		
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"드로놀고그 공허 기습대" "가퍼레카 공허 기습대" "코탈라 공허 기습대" "골로러드 공허 기습대" "디릭셀로 공허 기습대" "쿤더레 공허 기습대" "트렐록크 공허 기습대" "코룩스 공허 기습대" "듈카라 공허 기습대" "클룩사로루 공허 기습대" "포레스칵스 공허 기습대" "크룬도알 공허 기습대" "루젝 공허 기습대" "쿠골 공허 기습대"
+		}
+		sequential_name = " 제 %CC% 공허 기습대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방위 군단"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 공격 군단"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 공격 군단"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 공격 군단"
+		}
+			
+		defense_army = {
+			sequential_name = "제 %CC% 방위 군단"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 공격 군단"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 무리"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 언데드 무리"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 도플갱어 무리"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 자동인형 군대"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 자동인형 방위대"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 정신 지배자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 혼돈의 변형체"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 강화 군단"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 군단"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 자동인형 주둔군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				갈란 나덱스 게파락 쿠텔 굴렉 파라덱스 랄레페크 겔란드 데로켐 덱살론 킨타듈 듀칼렉스 클룩사레드 돌로크 게콜레르 프렉소드 튜텍솜 다라쿰 트라그렉 크레국스 미타쿨 바겍 파릭스 수믈렉 포렉스 기칼 쿠렉 마간 다크킥 세라둘 두코렉스 세코넥스 가르벡스 토릭스 다블록스
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				프라굴렉크 클란드락스 쿨레가프 루드레멕스 막세르도크 트레다기크 루카기켁스 트로칵세그 톨로뎀 녹소달 로파데프 프렐락소드 악세메카트 프롤락센 다칼렌스 드로나페그 믹스로뎀 티다룰렉 락수케드 콕슈렘 규페랄 사묵스 테리넥스 콜드락스 모레가프 루드라모크 로포돔 파르글렉 둑사넥 도르박스 톨락시르 미락스 미키락스 톨독스 포룰렉스 톡소달 리마리크 칵수린 가스마룩스 트롤릭스 보도뎀 이믹시달 두르박사 키리옥스 바막스
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				파라굴렉 클란드락스 쿨레가프 루드레멕스 막세르도크 트레다기크 루카기켁스 트로칵세그
+			}
+			
+			regnal_second_names = {
+				락세그
+			}
+		}
+	}
+}

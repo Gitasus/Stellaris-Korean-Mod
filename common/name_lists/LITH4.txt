@@ -1,0 +1,216 @@
+﻿### Lithoid 4
+### Created by Gemma Thomson
+
+LITHOID4 = {
+	category = "Lithoid"
+	ship_names = {
+
+		generic = {
+			"험준함" "요지부동의 반점" "시련" "아우구스투스의 거암" "산사태" "쌓여진 목적성" "낙석 조짐" "정신없는 산마루" "무리 단조" "무너진 조각" "우주적 탄막" "험준한 부싯깃" "내리받이" "깊은 모서리" "날카로운 목적성" "각인된 최후" "승격된 단조장" "부싯깃 면도날" "부싯깃 파편" "포지슬라이드" "영광스러운 모서리" "영광스러운 고통" "그래인슬라이드" "거대한 침전물" "거대한 산마루" "위대한 단층" "곤두박질치는 파편" "육중한 하중도" "가득착 목적성" "불굴" "불굴의 거암" "코넷의 핵심" "납빛 볏" "숨어있는 명석함" "숨어있는 목적성" "우뚝선 외곽" "성대한 바위산" "장엄한 열석" "거대한 티끌" "기념적인 핵심" "고귀한 핵심" "오켄의 조각" "귀중한 모서리" "순수한 표면" "순수한 전망" "높은 높대" "리블린 거암" "강의 쉼터" "틀어진 표현" "분리된 목적성" "규산 홍수" "스크라프의 전망" "수수한 바위산" "스펜니트의 가시" "고정된 모서리" "별파쇄자" "별얼룩" "별통증" "위풍당당한 바위산" "정지된 흐름" "강철같은 전망" "급격한 목적" "금욕적인 먼지" "돌 급류" "지고한 열석" "마지막 폭우" "마지막 추락" "타이드의 보루" "회전하는 위험" "탄력없는 질량" "뒤집힌 파편" "걸러진 운명" "요켄의 모서리"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"바위투성이 단층" "박혀있는 단층" "쓰러진 단층" "반점있는 단층" "반짝이는 단층" "붙들린 단층" "뿌리 깊은 단층" "바람맞는 단층" "높은 단층" "변형 단층" "돛끝 단층" "구멍난 단층" "암초 단층" "열이 오르는 단층" "상흔이 있는 단층" "순수한 단층" "희미한 단층" "경사진 단층" "별이 단조한 단층" "풍화된 단층" "돌풍 단층"
+		}
+		sequential_name = "%C%번 단층"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "풍화하지 않는 자 %C%"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "관통하는 자 %C%"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "관통하는 자 %C%"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "관통하는 자 %C%"
+		}
+		
+		defense_army = {
+			sequential_name = "풍화하지 않는 자 %C%"
+		}
+			
+		assault_army = {
+			sequential_name = "관통하는 자 %C%"
+		}
+		
+		slave_army = {
+			sequential_name = "묶여 있는 자 %C%"
+		}
+		
+		clone_army = {
+			sequential_name = "거울 같은 자 %C%"
+		}
+
+		undead_army = {
+			sequential_name = "재담금질 된 자 %C%"
+		}
+		
+		robotic_army = {
+			sequential_name = "인조체 %C%"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "단단한 인조체 %C%"
+		}
+		
+		psionic_army = { 
+			sequential_name = "수정 점술사 %C%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "칼슘생물 %C%"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "풍화된 자 %C%"
+		}
+
+		occupation_army = {
+			sequential_name = "광맥 %C%"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "인조 광맥 %C%"
+		}
+
+		primitive_army = {
+			sequential_name = "덩어리 %C%"
+		}
+		industrial_army = {
+			sequential_name = "부싯돌 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "정수 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"안스태인" "안보스" "발켄보스" "보르드스태인" "칸보스" "카스터" "카탈스태인" "크람본" "독스태인" "두어스태인" "에스크리크" "팔키드" "포지폴" "포즈스태인" "그림보스" "임마르의 돌맹이" "켄노보스" "가마솥 가장자리" "킬느스태인" "크라일" "라르콘뱅크" "나르골" "라트보스" "라이함" "리보스" "작은 돌맹이" "리벤뱅크" "몬스태인" "모테뱅크" "신경지" "오스태인" "피텐" "피테노크" "라스크" "라틀렌" "라톨" "라인스태인" "라인보스" "림햄" "릭셋" "스카네스" "샤린" "스컨" "슬래이트" "스태이프" "스텔록 뱅크" "스트리날" "타크스태인" "울레쉐크" "운둘론" "웰스태인" "겨울의 돌맹이"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				"브리들레홀름" "플라모스" "포즈바크" "스카벤" "윈드홀름"
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				"갈로쉘" "글로손 스태인" "하링스태인" "마레콤브" "륑스태인"
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				"번훌" "에스켄 플랫" "피넬" "타스태인 플랫" "웨이스톤"
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				아르쿤 발둔 발시어 블롸크 본둔 본시어 두어트 둡'틀렌 플레크트 플렌트 겐트 글림 고르네 임마르트 인타크 자그 크라그 크라우크 옵스탄 옥크텐 옵신 펩블렌 페틀렌 펫트루스 레스토크 리브룩 린니드 루콘 샤르 스타리오크 스트린토크 운야른 운요프
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				아덴모스트 아덴셋 블렛티콘 독-프라스트 옥-나에스트 고렉노크 그링노크 임마르텐 인트란세크 콤플리나트 라피덴 넨스웨이 노크 녹-쉰 노쉐크 옵드조스 옵드두로스 온프로스 페트론 렐렌틴 레스톨 스타니프 스텔프로스트 스텔함 스텔욜드 수블레 운드루로스 운론
+			}
+			
+			regnal_first_names = {
+				돌로네 가울둔 그렙펜 하슬렌 인츠마르 인세트 클로네 메테느 몬프로켄 니오분 오스문 팔라드 포르네 렌토크 린노쉬 루텐트 살렌 스마타르 우로느 워토크
+			}
+			
+			regnal_second_names = {
+				"샤르 아크텐" "샤르 알켄" "샤르 알룸" "샤르 아스타텐" "샤르 베릴" "샤르 비스멘" "샤르 브롬" "샤르 카에스웨이" "샤르 크람베" "샤르 하픈" "샤르 하센" "샤르 란탄" "샤르 렌스" "샤르 망곤" "샤르 노크" "샤르 플라트" "샤르 폴웨이" "샤르 사마르" "샤르 스트라트" "샤르 바나딘"
+			}
+		}
+	}
+}

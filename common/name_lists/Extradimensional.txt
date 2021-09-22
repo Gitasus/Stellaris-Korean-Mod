@@ -1,0 +1,51 @@
+﻿### Extradimensional Invaders ### 번역: Holy_Mackerel
+Extradimensional = {
+	selectable = { always = no }
+	randomized = no
+	
+	### SHIPS
+
+	ship_names = {
+	
+		generic = {
+			"타차원 침공선"
+		}
+		
+		construction_ship_ed = {
+			"공허 건설선"
+		}
+		
+		starbase_exd = {
+			"차원 닻"
+		}
+
+		starbase_exd_0 = {
+			"공허의 둥지"
+		}
+		
+		mining_station = { }
+		research_station = { }
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		sequential_name = "타차원 함대 %CC%"
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+		
+			full_names = {
+				주간 지카즈 울탁스 피락스 자토르 자디쉬 조팍스 제라터 미토즈 제칸 라텍스 지이르 주볼 자타크
+				기락스 타이록스 바락스 이락스 자칸 리플락스 카가룩스 저파크 제콜 라쿡스 파익소크 주우르 카북스 자이어 자칸
+				주루바르 자악스 미부스 마틱스 가아르 족스 레솜 라룩스 루욱스 지작스 라루브 라직스 마팍스 고팍스 오자즈
+			}
+			
+		}
+	}
+}

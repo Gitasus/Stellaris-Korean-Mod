@@ -1,0 +1,210 @@
+﻿### Fungoid 4
+### Created by Miranda van den Brink
+### 번역: Holy_Mackerel
+FUN4 = {
+	category = "Fungoid"
+	ship_names = {
+
+		generic = {
+			우르글-두르글 움프 움플-둠플 우르글-다쉬 우르글-두르글-다쉬 우르글-블라르그 우르글-글루프터 우르글-우루다쉬 우르글-글로르 우르글-글레미쉬 우르글-글룹타 우르글-글라그 우르글-글루하 우르글-그루르그 우르글-툼프 우르글-둑 우르글-글렘 우르글-오글레 우르글-츨로프 글레그-블라쉬 글레그-플러츠 글레그-로르쉬 글레그-루그 글레그-러크 글레그-브로르크 글레그-츠모프 글레그-울라츠 글레그-루그머츠 글레그-루그소르 글레그-글로프 글레그-다쉬 글레그-두르글 글레그-글로르 글레그-우루다쉬 후르글-블로프 후르글-두르글 후르글-아토르 후르글-글로프 후르글-다쉬 후르글-오글레 후르글-블라브 골롭벨두크 골블랍 골벨덕 골벨더 골벨라터 우르글레아터 구르글레아터 글레기나터 글로벨라터 롤구라터 블라르파터 골블라터 죠르푸사터 루물라터 클레긴나터 츨레미나터 우글로가터 블루르프'아터 아그'라터 글루크'아터 글루크도리나터 블로르피나터 우글레다츠도츠 우글루가터 츨라바도츠 플로츠-글로치나터
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"플레름 성간함대" "블라르프 성간함대" "우글로르 성간함대" "게게포리아 성간함대" "무그다흘 성간함대" "글로벨리우스 성간함대" "글로린두스 성간함대" "호르티우스 성간함대" "다베리두크 성간함대" "루멜리우스 성간함대" "롤구르 성간함대" "툼푸스 성간함대" "조르푸스 성간함대" "츠모르티스 성간함대" "폼플루스 성간함대"
+		}
+		sequential_name = "제 %CC% 성간함대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어군"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 타격군"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 타격군"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 타격군"
+		}
+	
+		defense_army = {
+			sequential_name = "제 %CC% 방어군"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 타격군"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 종복 사단"
+		}
+		
+		clone_army = {
+			sequential_name = "제 %CC% 클론 사단"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 사단"
+		}
+
+		robotic_army = {
+			sequential_name = "제 %CC% 로봇 타격군"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 로봇 방어군"
+		}
+	
+		psionic_army = {
+			sequential_name = "%R% 초능력군"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 외계종군"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 강화종군"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령군"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 기계화 점령군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				플레름 블라르프 츨라브 우글로그 게게폴리아 "블리그 우글로그" 무그다흘 굴름플로그 글라프 플로르프 츠모리아 글레게보레 블레프 플로르프 글라글레보레 츨렘밍 그로훈디아 츨레그마스 츨루게리아 플레그미아 글레그무스 츠메그 글룸프 우기보리아 블루르프 플레그 게가모자 슬렘미그 가구츠 글라갈루프 오츨라 블레그 우글레보레 우구다츠 블로르쿠스 츠플로르프 블라가도츠 글로르그 우글룬디아 플렘스 클레그 글로스크 츨레머 레구르기아 플로그 블러그 클레게보레 스메글레 블로파 운고다흘 블레고플라프 클레그모르 운구스 글루글로츠 글루클도르 우글레다츠
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				클레그 글로르트 글룸푸스 묘르트 게기스 츨루게르 뷰르트 스메글레 클로르트 오브오조르트 보르트 고베르 글로베르 봄푸르 글라베르 움프 글루그 우그'루그 글로르프 글라베르-글로베르 슬렘메 그룰 츨로프 우프 글루프 가블로트 두크 발그 두크로르 로르트 츠모르트 다베르 우크 플로르트 디베르-다베르 슬렘프루프 도브고르 두크-츠누크 브로르프 룸페르 블룸프 일그 룸페르 글루긴 글룸도르 글로프 글루미 글루크 료름 가보레 로그 클라그 글라즘 글롬페르 룸프 스프를레그 울그 움프 그로르프 롱 플레름 블라르프 우글로그 무그다흘 글룸프 글라르프 블로르트
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				글로벨리우스 글롤린두스 호르티우스 다베리두크 루멜리우스 롤구르 툼푸스 그조르푸스 츠몰티스 폼플루스
+			}
+			
+			regnal_second_names = {
+			}
+		}
+	}
+}

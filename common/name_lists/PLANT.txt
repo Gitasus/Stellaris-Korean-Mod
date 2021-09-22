@@ -1,0 +1,268 @@
+﻿### Plantoid 1
+### Created by Rufus Tronde and Miranda van den Brink
+### 번역: Holy_Mackerel
+PLANT = {
+	category = "Plantoid"	
+	ship_names = {
+	
+		generic = {
+		}
+	
+		corvette = {  
+			"가시" "은색 가시" "무쇠 가시" "꿰뚫는 가시" "선녹색 가시" "금색 가시" "융모" "은색 융모" "무쇠 융모" "옥빛 융모" "선녹색 융모" "금색 융모" "침엽" "은색 침엽" "무쇠 침엽" "옥빛 침엽" "금색 침엽" "꿰뚫는 침엽" "선녹색 침엽" "덤불" 
+		}
+		
+		destroyer = { 
+			"꽃잎" "은색 꽃잎" "무쇠 꽃잎" "옥빛 꽃잎" "선녹색 꽃잎" "금색 꽃잎" "찌르개" "은색 찌르개" "금색 찌르개" "무쇠 찌르개" "선녹색 찌르개" "은색 쐐기" "쐐기" "강철 쐐기" "꿰뚫는 쐐기" "박살개" "짜르개"
+		}
+		
+		cruiser = { 
+			"잎날" "은색 잎날" "무쇠 잎날" "옥빛 잎날" "선녹색 잎날" "금색 잎날" "짜르는 잎날" "날카로운 잎날" "꿰뚫는 잎날"
+		}
+		
+		battleship = { 
+			덩쿨 "은색 덩쿨" "무쇠 덩쿨" "옥빛 덩쿨" "선녹색 덩쿨" "금색 덩쿨" "꿰뚫는 덩쿨" "분노" "선녹색 분노" "가시달린 분노" "분노의 덩쿨" "징벌자"
+		}
+		
+		titan = {
+			"은색 화초" "무쇠 화초" "옥빛 화초" "선녹색 화초" "금색 화초" "옥빛 화초"
+		}
+		
+		colossus = {
+			"심판의 관목" "파멸의 관목" "최후의 관목"
+		}
+
+		juggernaut = {
+			"지속되는 뿌리" "숙명의 덩굴" "운명의 뿌리"
+		}
+		
+		science = {
+			"표류하는 잎사귀" "떠다니는 잎사귀" "추구하는 잎사귀" "펄럭이는 잎사귀" "활공하는 잎사귀"
+		}
+		
+		colonizer = {
+			"씨앗통" "열매 운반선"
+		}
+		
+		sponsored_colonizer = {
+			"씨앗통" "열매 운반선"
+		}
+		
+		constructor = {
+			"배양선"
+		}
+		
+		transport = {
+			"무쇠 운반체" "꿰뚫는 운반체" "선녹색 운반체" "금색 운반체" "은색 운반체" "옥빛 운반체"
+		}
+		
+		military_station_small = {
+			"무쇠 엉겅퀴" "꿰뚫는 엉겅퀴" "선녹색 엉겅퀴" "금색 엉겅퀴" "은색 엉겅퀴" "옥빛 엉겅퀴"
+		}
+		
+		ion_cannon = {
+			"무쇠 독가시" "꿰뚫는 독가시" "선녹색 독가시" "금색 독가시" "은색 독가시" "옥빛 독가시"
+		}
+
+		### For Fallen Empires
+		small_ship_fallen_empire = {
+			"가시" "은색 가시" "무쇠 가시" "꿰뚫는 가시" "선녹색 가시" "금색 가시" "융모" "은색 융모" "무쇠 융모" "옥빛 융모" "선녹색 융모" "금색 융모" "침엽" "은색 침엽" "무쇠 침엽" "옥빛 침엽" "금색 침엽" "꿰뚫는 침엽" "선녹색 침엽" "덤불" 
+		}
+		large_ship_fallen_empire = {
+			"꽃잎" "은색 꽃잎" "무쇠 꽃잎" "옥빛 꽃잎" "선녹색 꽃잎" "금색 꽃잎" "찌르개" "은색 찌르개" "금색 찌르개" "무쇠 찌르개" "선녹색 찌르개" "은색 쐐기" "쐐기" "강철 쐐기" "꿰뚫는 쐐기" "박살개" "짜르개"
+		}
+		massive_ship_fallen_empire = {
+			"잎날" "은색 잎날" "무쇠 잎날" "옥빛 잎날" "선녹색 잎날" "금색 잎날" "짜르는 잎날" "날카로운 잎날" "꿰뚫는 잎날"
+		}
+	}
+	
+	fleet_names = {
+		random_names = {
+			"꽃이피는 화관" "번창하는 화관" "제패하는 화관" "선회하는 화관" "급성장하는 화관"
+		}
+		sequential_name = "제 %CC% 화관"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 수호자의 화환"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 장송 화환"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 장송 화환"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 장송 화환"
+		}
+
+		defense_army = {
+			sequential_name = "제 %CC% 수호자의 화환"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 장송 화환"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 묵여있는 화환"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 화환"
+		}
+		
+		clone_army = { 
+			sequential_name = "벌충 화환 %R%"
+		}
+		
+		robotic_army = {
+			sequential_name = "황동 화환 %R%"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "황동 방패 %R%"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 오크나무 화환"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 살덩이 화환"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 유전자변형 화환"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령 화환"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 황동 점령 화환"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				"아름다움" "즐거움" "새로운 시작" "과실이 맺는 곳" "둥그런 견과" "희망의 씨앗" "새싹의 꿈" "희망의 과즙" "희망의 덩굴" "풍년의 노력" "영원한 봄" "봄비" "새로운 빛" "대풍년" "자손" "발아" "번영하는 녹지" "개화지" "개화철" "별의 뿌리" "희망의 토양" "위대한 약속" 풍요 "새로운 뿌리" "온화한 바람" "탐욕스런 나뭇가지" "꽃가루 구름"
+			} 
+		}
+		
+		pc_desert = {
+			names = {
+				"선인장의 쉼터" "야자나무의 오아시스" "끝없는 갈증" "그으름" "모래언덕" "적색 대지" "붉은 모래언덕" "황색지" "마른땅" "희망" "영원한 태양" "모래" "먼지 폭풍" "불타는 평야" "사막 꽃" "탄내나는 잎사귀" "매마름" "시든 꿈" "끓는 잎" "불타는 초원"
+			}
+		}
+
+		pc_savannah = {
+			names = {
+				"태양 평야" "먼 유리온실" "넓은 평야" "평평한 땅" "유리대지" "광휘" "태양의 눈물" "울부짖는 평야" "황색 유리" "바름부는 평야" "금빛 들판" "긴풀 들판" "고독한 나무"
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				"구름 숲" "열대우림" 번영 "잎사귀 땅" 청록잎 "영원한 개화" "영구 녹지" "안개 숲" "기쁨" "나무 계곡" "고사리 땅" "구름 덮개" "거대한 습기" 낙원
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				"마른 잎사귀" "태양의 심문" "마른 강" "암석" "깊은 뿌리" "내성" "거대한 가뭄" "쉼 없는 곳" "잎의 어리석음" "고적감" "황량한 땅" 무목지 승리 잡목지 관목지  "나뭇잎의 공포" "위대한 덤불" 노력 
+			} 
+		}
+		
+		pc_continental = {
+			names = {tem
+				"빽빽한 나무" "빽빽한 목초지" 녹주석 "풍요로운 토지" "푸른 찬란함" 사계 "녹색 과수원" "금빛 왕관" "과수원" "선녹색 들판" "진실의 낟알" "좋은 전망" 번창
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+				"거대한 암초" "산호초의 고향" "끝없는 바다" 청색 대양 쪽빛 "푸른 희망" "쪽빛 꿈" 풍요 "푸른 진주" 물방울 물잡초 "떠다니는 화환" "청색 집" 
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+				"북풍의 끝자락" "이끼의 개척지" "신중" "서리" "생기" "암석" "추운 밤" "서리이끼" "잿빛 견과" "바위 견과" "이끼낀 가문비나무" "고운 토지" "돌 숲" "늦은 개화" 
+			}
+		}
+
+		pc_alpine = {
+			names = {
+				"꽃피는 산비탈" "서리 덮힌 곳" "꽃의 계곡" "계곡" "바람부는 산비탈" "거대한 산마루" "삐죽한 땅" "가시돋힌 땅" "흰색 암석" "봄의 계곡" "소나무 숲" "전나무 계곡" "하얀 산무루" "영광의 협곡"		
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+				"늘푸름" "인내의 숲" "인내" "눈의 땅" "하얀 폭풍" "겨울 땅" "겨울만 있는 곳"	"하얀 담요"	"하얀 구체" "서리 뿌리" "은색 들판" "백색 개활지" "얼음 꽃" "얼음 잎사귀" "서리 꽃" "저항"
+			}
+		}
+		
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				하얀 회색 검은 암적색 붉은 푸른 인디고 남색 누른 오랜지 상이색 흑단 쪽빛 갈색 청록색 녹색 하늘색 황갈색 자홍색 금빛 은빛
+				황동 감로색 라벤다 밤색 올리브		
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"꽃잎"
+				"잎사귀"
+				"줄기"
+				"가지"
+			}
+
+			use_full_regnal_name = yes
+
+			regnal_first_names = {
+				유실그라드의 "약스 이믹스 체의" 칼파브릭샤의 보의 아크샤야바트의 "누코미스 기징의" 이르민술의 솜브의 툴리의 아쉬밧타의 푸상의
+			}
+			
+			regnal_second_names = {
+				"몸통"
+			}
+		}
+	}
+}

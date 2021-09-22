@@ -1,0 +1,242 @@
+﻿### Necroid 3
+### Created by Douglas Furen
+
+NECROID3 = {
+	category = "Necroid"
+	ship_names = {
+
+		generic = {
+			아블루지마 아카크톡 아헤누테나 아퀘노툭 벨루주모 벰프록트르 벨록타 비허즐 카코틀라 카쿠에트즐 카후노틀 센탈루아 클라퀘틀 커네오 코틀레주마 쿨로츠티 데크토카틀 디미추에 두후익시 두이카크틀 에클로토틀 에쿠만틀 엘랩툴레 에우콰지 펙사노클 피퀴터노 픽루프르 플로제폭 제퀵셀 기목사틀 그모츨리 괄리톡 헨자모들 히이토포 히즈몬독 후엘록틀 후인젬늘 일룩시몬들 이만트퀘 이우엔트카 이멘틀 작소폭 즈칵토틀 제퀜퀴 주코톡틀 라카틀락 레퀘츨 로아틀룬티 록늘러드 루이첼리 마콰주마 메히보틀 미퀜치 몬독틀 무오노츠 나틀라팍 네클로투아 니케큐오트 녹탈로틀 느퀴노즈 오바넥타 오칼라츨 오퀘폭 오지무테나 핀크토주마 폭틸로스 프록추엘 프테큐마 콸락틀로 퀘마츨 콴톨로트 큐엘라토 렐루에츨 리켄조 로퀸치 루이제목 스밋지틀 스톡텔로 씨물리 쓔메치 탄츨란 테하누오 텐조믈라 티메퀘 찬쿄틀 유이젤로틀 우메사츨 윤퀠톡 유퀜틀 박톡토 배코텔루 빅틱트 비퀘츨 자자퀘트 제메오시 제민클 젝슈마 질레멕토 지뮤크트시 족토케틀리 좌텔리우 좌모틀 쥑시틀 자킅토클 약튜헨 이지비칸 요틀모틀 저라트가틀 쥐지타틀
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+			혹찰로폭틀리 텐자콴츨리 뮈젠쿠아틀로독 퀜틀로카페너
+		}
+
+		colossus = {
+			지젠콰틀코트 쥬엔퀼록실로틀 제슬로후인제멕 조틀로튀제카틀
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"안퀼의 행진" "클로틀의 행진" "크톨리의 행진" "에잇조의 행진" "호쥬의 행진" "훈콰의 행진" "로클의 행진" "뮤켄의 행진" "뉘즈의 행진" "포마의 행진" "텍트의 행진" "톡틀리의 행진" "젤틀의 행진" "주트의 행진" "제클의 행진" "카틀의 장례 행렬" "콜록의 장례 행렬" "퀜의 장례 행렬" "헥트의 장례 행렬" "휜즐의 장례 행렬" "목틀리의 장례 행렬" "녹주의 장례 행렬" "퓌콰의 장례 행렬" "틀록의 장례 행렬" "윤지의 장례 행렬" "자포의 장례 행렬" "쥴리의 장례 행렬" "자퀴의 장례 행렬" "젠스의 장례 행렬" "주이츠의 장례 행렬" 
+		}
+		sequential_name = "%CC%번째 장례 행렬"
+	}
+		
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "%CC% 수호자"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "%CC% 강탈자"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "%CC% 강탈자"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "%CC% 강탈자"
+		}
+		
+		defense_army = {
+			sequential_name = "%CC% 수호자"
+		}
+			
+		assault_army = {
+			sequential_name = "%CC% 강탈자"
+		}
+		
+		slave_army = {
+			sequential_name = "%CC% 노예"
+		}
+		
+		clone_army = { 
+			sequential_name = "%CC% 복귀자"
+		}
+		
+		undead_army = {
+			sequential_name = "%CC% 언데드"
+		}
+
+		robotic_army = {
+			sequential_name = "%CC% 오토마타"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%CC% 방패 오토마타"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%CC% 재능을 가진 자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%CC% 이방인"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%CC% 준비된 자"
+		}
+
+		occupation_army = {
+			sequential_name = "%CC% 점거자"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%CC% 수호자 오토마타"
+		}
+
+		primitive_army = {
+			sequential_name = "%CC% 작은 것들"
+		}
+		industrial_army = {
+			sequential_name = "%CC% 미약한 것들"
+		}
+		postatomic_army = {
+			sequential_name = "%CC% 싸움꾼들"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"아위자의 약속" "아위자의 희망" "클록틀리의 축복" 
+				"클록틀리의 시련" "에이우퀘크의 우물" "에이우퀘크의 은총" 
+				"쥐제노카의 신조" "쥐제노카의 은총" "뉘츠의 Sacrifice" 
+				"뉘츠의 서약" "텍트의 꿈" "텍트의 정원" 
+				"텍트의 유산" "아위자의 하사품" "클록틀리의 은총" 
+				"에이우퀘크의 착륙지" "쥐제노카의 쉼터" "뉘츠의 보물" 
+				"텍트의 각성" "메작틀리의 여명" "휘클의 가르침" 
+				"순수한 하늘" "축복받은 과수원" "참된 쉼터" 
+				"아위자의 목초기" "뉘츠가 연설한 곳" "광휘의 하늘 아래" 
+				"별들의 대화" "영원한 홀" "장엄한 수여지" 
+				"다섯번째 평온" "록틀의 문" "쥐제노카의 잠" 
+				"세번째 금" "고크투아의 마지막 깃털" "아위자의 숨결" 
+				"아위자의 도래" "아위자의 여식" "아위자의 웃음" 
+				"잇틀의 암울한 그림자" "쥐제노카의 의심" "쥐제노카의 수수께끼" 
+				"고독한 꽃" "텍트의 수업" "텍트의 마지막 기둥" 
+				"텍트의 두번째 기둥" "기둥 과수원" "하늘의 추락" 
+				"클록틀리의 힘겨운 시도" "에이우퀘크의 이슬" "에이우퀘크의 안개" 
+				"에이우퀘크의 공터" "일곱 시련" "텍트가 홀로 앉은 곳" 
+				"계속되는 골자기" "학수고대" "하늘의 문제" "두 손에 잡은 진리" 
+				"뉘츠의 산" "영원한 아위자" "클록틀리의 해결책" "에이우퀘크의 흐느낌" 
+				"막을 수 없는 쥐제노카" "뉘츠의 연설" "여기서 텍트가 생각하였다" 
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names_male = {
+				에옵트 에우엑 후악 우크틀 후에크 후에트 렉트 뮈즈 옥트티 옥틀 콰틀리 코틀 켄 퀘트 텍 텐츠 튀즈 멘즈 목틀 에위코 루크틀로
+			}
+			first_names_female = {
+				카옥 초트 코클 코틀 큐알 퀘크 자트 제우 지트 줴 주에크
+				주이즈 지젤리 자즈틀 젠늘 조츠 즈페콰 주에크 쥘 앱크트 아우에크
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"일루 에퀘톡" "유이츠 세퀠루" "욱시 코틀" "큐틀 에요마" "주이 헤크틀리" 
+				"일루 후에주누" "유이츠 레크슈에" "욱시 녹틀리" "큐틀 펙틀라" "주이 폭틀레" 
+				"일루 퀘틀리" "유이츠 티아" "욱시 우엔즐리" "큐틀 우치마" "주이 아우이주마" 
+				"일루 에콴틀리" "유이츠 로츨" "욱시 자욱트" "큐틀 제퀴" "주이 주트지" "주이 인쿄틀" 
+			}
+			
+			regnal_first_names = {
+				"젝 아이조틀로츨" "쿄트 아콴치" "로크트 아주미츰틀라" "젝 텍틀로클로" "쿄트 후에텍티아" "로크트 틀란틀레지마" "젝 헨틀리주에" "쿄트 투에츠젝톡" "로크트 헥노조츠틀리" 
+			}
+			
+			regnal_second_names = {
+				큐오틀
+			}
+		}
+	}
+}

@@ -1,0 +1,220 @@
+﻿### Humanoid 4
+### Created by Maximilian Olbers
+### 번역: Holy_Mackerel
+HUM4 = {
+	category = "Humanoid"
+	ship_names = {
+
+		generic = {
+			엔살루카 엔스페로 엔스발라 엔스고르 엔스고달 엔스팔름 엔스브루게 엔스폴다 엔스마기드 엔술롬 엔샬 엔숨 엔스왈 엔스클라두 엔신마 엔슬로구 엔스판다르 엔스크눔 엔시임 엔시유가 엔슐다르 엔사임 엔스둘루 엔사프스 엔스크하드 엔스켈 엔스콤 엔스키 엔스켈름 엔스쿨드 얀콜 야넬드 얀롬 얀풀구르 얀푸멜른 얀카탈 얀코무 얀뉴 야니멘 얀구골 얀루얄 얀스부르 얀레드 야나레메 야나골스 얀헤들렘 얀파루 야나루코크 얀크눔 얀투라드 얀다르릴 얀토메 얀골다 얀파룸 트룬델 트루나르 트루냐드 트룬팔크 트룬구 트룰라크 트루트라고 트루필라드 트루페르 트룰롤레드 트루니메 트룰라 트루켈 트루플라메 트루플라드 트루데르멘 트루도케르 트루돈 트루네 파포브 파플루가 파포레 파플로메 파플로르크 파펜드 파프다스 파팝네트 파프굴라 파프렌트 파풀린 파플리오레 파파세드 파파게드 파프레메 파프마기드 파풀룸 파프고르 파프스페로 파팔루가 파프크눔 파퓨 파프카탈 멜브루게 멜폴다 멜마기드 멜룰롬 멜랼 멜룸 멜왈 멜클라두 멜린마 멜로구 멜판다르 멜크눔 멜리임 멜류가 멜류다르 멜림 멜둘루 멜라프스 멜카드 멜켈 멜콤 멜키 멜켈름 멜쿨드 멜콜 멜렐데 멜론 멜풀구르 멜푸멜른
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+		}
+		sequential_name = "제 %CC% 함단"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 세계 파수자"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 포식자"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 포식자"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 포식자"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 세계 파수자"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 포식자"
+		}
+		
+		slave_army = {
+			sequential_name = "총알받이 %CCC%"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 합성전사"
+		}
+		
+		undead_army = {
+			sequential_name = "죽은 총알받이 %CCC%"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 기계공격자"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 금속 방어자"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 정신-약탈자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 혼란스런 공포"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 초인"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 파수자"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 금속 파수자"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				아베론트 팔데나르 베롱 풀라멘트 풀라스크 코론드 레다른 돌레룬 팔리쉐나 벤남 물라드록 스투가 아베퀴오드 카가렐 트로네마 우니톨름 소노레프 푸토렘 갈라쿤 라쿠프스 바틸리로 에롤라퀴오 올두트메아 바레로드 팔도레스 루포데크 헴마 팜멘 사돌루렌 알가레모 포갈루 카사코 페간스 쿨라르나 라모드 돌라네 에르달크 툼모 구탄 테라소크 발로푼 우닐렘 쿠테람 키넬루 부룰 바문 메바룬 켐프 플라루드 피몰드 구트레근 텔감 메그롤 말겐 크누메 가토드 페들로문 세트라데스 켐노드 루카폴 우사벨 보쿠셀 세루드마 사그넴 알레스트 이카게트 마톨 나툴크 아론게드 알로멘 롬메나드 수갈란 코롤루나 멜라두린 둘라켐 하티모드 게란트
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = { 
+			}
+			
+			# Always combined with a second name
+			first_names_male = {
+				토르 페르 팔 밀 콘 완 임 율크 욘 렐 트로드 돌른 노메 테페 레데 포텔 켈 가푸 메론 폴레스
+			}
+
+			first_names_female = {
+				얀 멜 판 알아 캄 헴 포르 콜 옐 후레 엘라드 키이 우푸 예파 이늘루 아네르 라투 헤마 골리 키르
+			}
+
+			# Always combined with a first name
+			second_names = {
+				"업 날" "업 폴" "업 압나" "업 로르" "업 뎀" "업 얄" "업 쿤" "덴 폰" "덴 림" "덴 품" "덴 울토" "덴 하로" "덴 메데" "탈 쿠우" "탈 파르" "탈 올른" "탈 셉" "탈 야그" "탈 군" "탈 오스"
+			}
+			
+			regnal_first_names_female = {
+				얀 멜 판 알아 캄 헴 포르 콜 옐 후레 엘라드 키이 우푸 예파 이늘루 아네르 라투 헤마 골리 키르
+			}
+
+			regnal_first_names_male = {
+				토르 페르 팔 밀 콘 완 임 율크 욘 렐 트로드 돌른 노메 테페 레데 포텔 켈 가푸 메론 폴레스
+			}
+			
+			regnal_second_names = {
+				"론 페라" "론 아벨"
+			}
+		}
+	}
+}

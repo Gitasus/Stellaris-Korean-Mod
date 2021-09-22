@@ -1,0 +1,219 @@
+﻿### Molluscoid 3
+### Created by Alexander Oltner
+### 번역: Holy_Mackerel
+MOL3 = {
+	category = "Molluscoid"
+	ship_names = {
+
+		generic = { 
+			간'푸스 간'드좀 간'리븜 간'도브 간'알린 간'오브 간'엘 간'유뮬 간'아흐브 간'블랄 간'알브 간'오르트 시'푸스 시'드좀 시'리븜 시'도브 시'알린 시'오브 시'엘 시'유뮬 시'아흐브 시'블랄 시'알브 시'오르트 두즈'푸스 두즈'드좀 두즈'리븜 두즈'도브 두즈'알린 두즈'오브 두즈'엘 두즈'유뮬 두즈'아흐브 두즈'블랄 두즈'알브 두즈'오르트 핀'푸스 핀'드좀 핀'리븜 핀'도브 핀'알린 핀'오브 핀'엘 핀'유뮬 핀'아흐브 핀'블랄 핀'알브 핀'오르트 나이스 나흄 나흘바 나할라 나호르토 나흐리브 나흘로그 나흐슬로브 나흐드베 나흠니 나흐왈 나흐뮬 님비스 님브흄 님브흘바 님브할라 님보르토 님브흐리브 님브흘로그 님브흐슬로브 님브흐드베 님브흠니 님브흐왈 님브흐뮬 고이스 고흄 고흘바 고할라 고호르토 고호르토 고흘로그 고흐슬로브 고흐드베 고흠니 고흐왈 고흐뮬 소트히스 소트흄 소트흘바 소트할라 소트호르토 소트흐리브 소트흘로그 소트흐슬로브 소트흐드베 소트흠니 소트흐왈 소트흐뮬
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"나리호브 공허 항해단" "고비'로그 공허 항해단" "율스 공허 항해단" "휴스 공허 항해단" "슬람트 공허 항해단" "임브흐스 공허 항해단" "오트'이줌 공허 항해단" "갈로그 공허 항해단" "골라스 공허 항해단" "골위흐 공허 항해단" "손'발리흐 공허 항해단" "오브'이아스 공허 항해단" "듀소프 공허 항해단" "핑'올 공허 항해단"
+		}
+		sequential_name = "제 %CC% 심해 항해단"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 요새 여단"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 타격 여단"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 타격 여단"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 타격 여단"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 요새 여단"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 타격 여단"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 무리"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 유령 여단"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 여단"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 강철 여단"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 강철 방위대"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 정신 타격자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 혐오체"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 생체강화 여단"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령 보루"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 강철 점령대"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				나프'디고 나프'가바스 나프'휴니스 나프'올림바 나프'이르타 나프'보르 나프'세와 나프'오돈 나프'퓨즈 나프'아흐나스 나프'유즈바 나프'아븜 나프'오블랄 나프'에바뮬 나프'이티 나프'가운 나프'플레비스 나프'잘린 나프'에른 나프'알바브
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				구트'디고 구트'가바스 구트'휴니스 구트'올림바 구트'이르타 구트'보르 구트'세와 구트'오돈 구트'퓨즈 구트'아흐나스 구트'유즈바 구트'아븜 구트'오블랄 구트'에바뮬 구트'이티 구트'가운 구트'플레비스 구트'잘린 구트'에른 구트'알바브
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				페쉬'디고 페쉬'가바스 페쉬'휴니스 페쉬'올림바 페쉬'이르타 페쉬'보르 페쉬'세와 페쉬'오돈 페쉬'퓨즈 페쉬'아흐나스 페쉬'유즈바 페쉬'아븜 페쉬'오블랄 페쉬'에바뮬 페쉬'이티 페쉬'가운 페쉬'플레비스 페쉬'잘린 페쉬'에른 페쉬'알바브
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				그라흐'디고 그라흐'가바스 그라흐'휴니스 그라흐'올림바 그라흐'이르타 그라흐'보르 그라흐'세와 그라흐'오돈 그라흐'퓨즈 그라흐'아흐나스 그라흐'유즈바 그라흐'아븜 그라흐'오블랄 그라흐'에바뮬 그라흐'이티 그라흐'가운 그라흐'플레비스 그라흐'잘린 그라흐'에른 그라흐'알바브
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				폴'디고 폴'가바스 폴'휴니스 폴'올림바 폴'이르타 폴'보르 폴'세와 폴'오돈 폴'퓨즈 폴'아흐나스 폴'유즈바 폴'아븜 폴'오블랄 폴'에바뮬 폴'이티 폴'가운 폴'플레비스 폴'잘린 폴'에른 폴'알바브
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+				다비'디고 다비'가바스 다비'휴니스 다비'올림바 다비'이르타 다비'보르 다비'세와 다비'오돈 다비'퓨즈 다비'아흐나스 다비'유즈바 다비'아븜 다비'오블랄 다비'에바뮬 다비'이티 다비'가운 다비'플레비스 다비'잘린 다비'에른 다비'알바브
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+				스타프'디고 스타프'가바스 스타프'휴니스 스타프'올림바 스타프'이르타 스타프'보르 스타프'세와 스타프'오돈 스타프'퓨즈 스타프'아흐나스 스타프'유즈바 스타프'아븜 스타프'오블랄 스타프'에바뮬 스타프'이티 스타프'가운 스타프'플레비스 스타프'잘린 스타프'에른 스타프'알바브
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+				솔'디고 솔'가바스 솔'휴니스 솔'올림바 솔'이르타 솔'보르 솔'세와 솔'오돈 솔'퓨즈 솔'아흐나스 솔'유즈바 솔'아븜 솔'오블랄 솔'에바뮬 솔'이티 솔'가운 솔'플레비스 솔'잘린 솔'에른 솔'알바브
+			}
+		}
+		
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				페른'휴스 골 가흐'유니 뉴바스 듀세왈 슬레르'퓨즈 시살린 포르티 페른'유니 고브 가흐'휴스 고바스 듀셀 슬레르'유니 페른'퓨즈 슬레르'휴스 포살린 시르티 도브'아세 포스'린 뉴볼 네헬 슬레르'부스 슬레르'가흐 도브'바흐 도브'길 도브'슈트 펀'보즈 펀'수즈 펀'카스 펀'두스 기브 가브 보르티 무세그
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				가블랄 파라브 네드베 달바 슬라뮬
+			}
+			
+			regnal_second_names = {
+				율릴리
+			}
+		}
+	}
+}

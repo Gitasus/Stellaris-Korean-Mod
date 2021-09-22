@@ -1,0 +1,215 @@
+﻿### Fungoid 1
+### Created by Henrik Thyrwall
+### 번역: Holy_Mackerel
+FUN1 = {
+	category = "Fungoid"
+	ship_names = {
+
+		generic = {
+			유스림-주 바킴-주 마딤-주 레심-주 볼팀-주 발림-주 부프핌-주 밤마딤-주 토슈힘-주 밥림-주 주림-주 미크림-콰 카슈마딤-콰 라스바딤-콰 콘딤-콰 인다김-콰 케림-콰 비가딤-콰 오트하핌-콰 코르바딤-콰 칸자림-콰 조크킴-콰 사림-콰 부크림-콰 솔트림-부 가르딤-부 이사림-부 나크림-부 페스림-부 바그림-부 타이라님-부 켈딤-부 살라쉼-부 발도림-부 레가님-부 로팀-부 라스가림-부 라이르라민-부 리바림-부 보로민-로 파타로민-로 오다림-로 오브가림-로 발자심-로 베로킴-로 만타림-로 미소림-로 무르가림-로 몰가림-로 마슈가딤-로 울도림-로 우가라팀-로 울사라빔-로 운다그림-로 우라스마딤-로 웁라김-타 헤스타림-타 호소림-타 히니스코림-타 하그리님-타 히라민-타 호르바김-타 사라스카민-타 신도르님-타 수카림-타 솔바림-타 사비로님-니 아르고림-니 알듀로님-니 알고르딤-니 아브리코님-니 아스트로님-니 이리고님-니 이보브라딤-니 인다라김-니 이비자림-니 엔도림-니 엘고림-니 이바킴-니 에리오팀-니 가르바딤-사 바트조님-사 보크로님-사 스라크노림-사 세타로빔-사 이블라르고빔-사 퓨르가빔-사 일고빔-사 우드나빔-사 레스코빔-사 이비르빔-사 베데르빔-사 울리아스빔-사 소토리빔-사 케르베빔-사 레블라빔-사 리슬라빔-사 에바브노빔-사 카디모빔-사 큐플라빔-사
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"샤글루그 성간 권역대" "이르듈라가 성간 권역대" "휴르두로크 성간 권역대" "포르굴라그 성간 권역대" "오르돌로호 성간 권역대" "크로그로그 성간 권역대" "프라그로그 성간 권역대" "우르듀아란 성간 권역대" "홀로고 성간 권역대" "쿠술 성간 권역대" "트로스조드 성간 권역대" "글라레르 성간 권역대" 
+		}
+		sequential_name = "제 %CC% 성간 권역대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방위 파견대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 전투 팔랑크스"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 전투 팔랑크스"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 전투 팔랑크스"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 방위 파견대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 전투 팔랑크스"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 농노 파견대"
+		}
+		
+		clone_army = {
+			sequential_name = "제 %CC% 클론 방위군"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 팔랑크스"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 기계화 팔랑크스"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 기계화 방어대"
+		}
+		
+		psionic_army = {
+			sequential_name = "선택받은 자 %R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 전투 무리"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 타격 보병"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 파견대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 기계화 감시대"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				퀘니-하브랄 퀘니-에피구크 퀘니-기르감 사라-플루기어 사라-마르핌 사라-켄자알 젬-카라나프 젬-펜구렘 젬-카퀴세드 트루스-상구르 트루스-클레자멘 트루스-이소룸
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				퀘니-하브랄 퀘니-에피구크 퀘니-기르감 퀘니-팔마린 퀘니-퀴렘 퀘니-피어다가 퀘니-헬게프 퀘니-리라빔 퀘니-세라푸스 퀘니-쿠오팔루스 퀘니-사라바드
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				사라-플루기어 사라-마르핌 사라-켄자알 사라-샤라크 사라-팔리그 사라-클라루멘 사라-크눔잘 사라-팔라구르 사라-크라루엠 사라-파브빌렌 사라-바투르프 사라-오나드라크 사라-퀴주크 사라-크룸비드 사라-울라사이라
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				젬-카라나프 젬-펜구렘 젬-카퀴세드 젬-룰루데프 젬-파이르헤네 젬-팔퀴그 젬-줄코두어 젬-잘미데프 젬-조르뭉 젬-간드릴 젬-폴투그 젬-포기신 젬-카로콰그 젬-칼피드
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				트루스-상구르 트루스-클레자멘 트루스-이소룸 트루스-라리푸르 트루스-오달칸 트루스-반키르 트루스-지바리드 트루스-오팔루드 트루스-쿠페란 트루스-칸도르 트루스-큐페렘 트루스-니히스큐르 트루스-파랄루하드
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				스파그룸 다가툼 샤블리굼 힝고프 바글로그 마쉬거그 이고림 엘고툼 호들로프 구가나 트루마그 샤반길 발고릴림 볼게타나 스커블링 휴미골 큐드타드 카고림 카스발루드 큐뷰블란 바글라그 츠푸그람 카고프 기글라브 누흘로이프 쉬글라르그 호가가 이기가 다가곰 카리그고 카리고 비르가그 글라그로 후글라가
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				스파그룸 다가툼 샤블리굼 힝고프 바글로그 마쉬거그 이고림 엘고툼
+			}
+			
+			regnal_second_names = {
+				유'르
+			}
+		}
+	}
+}

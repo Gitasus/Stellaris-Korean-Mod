@@ -1,0 +1,216 @@
+﻿### Necroid 2
+### Created by Douglas Furen
+
+NECROID2 = {
+	category = "Necroid"
+	ship_names = {
+
+		generic = {
+			아분-헤트 아케낙 아멕 아누케트 아포테크 아손텝 아터니스 아테트 바뎃 박-아훈 아미트 베-헬라트 벡트 바코프 베테트 보케프 덱트-헤트 도테크 도테베 두나문 에아바트 에켄텝 에테테트 페텝 포트-헤트 겝테크 가테크 고프-아훈 하코페크 합티쿤 하주르 헤크티텝 헵트 호타르 이모크 인토페크 이세크테리 이소눔 이솝 이테-헤트 자페크 젝트 카트-아훈 켈렙테크 켄테프 콥테프 코테크 크터낙 레카문 렉케트 마-헤트 마에크 마르낙 메니텝 메수피 멕테트 문크텝 낙바스 낙투르 넥텝 넥쿠베트 니케메트 니세트 눅-헬라트 오아스트 오엡툰 오텍 파테비스 퍼로크메트 페-아훈 푸노프 포텍 프테흐-헬라트 라크헤트 라묵 라테메크 레텝 레투트 루-헬라트 사부메크 사카트 사테크 세브-헤트 세크 셀로스 소-아훔 소비텝 스테타문 타르누크 타토페크 타툰 텍트 테피텝 테테크 우드-헬라트 우에테트 우몬 우손텝 와페네트 웨크메트 웹-헤트 웨트-헬라트 워케텝 와테크 이마크텝 이케트 입-헤트 제테 준-헤트 조페크
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"햇빛의 손길로서 " "왕의 권한으로서" "지당한 법률로서" "받아드려진 동료로서" "그림자의 고양 속에 " "어둠의 상실 속에" "빛의 꾸며짐 속에" "인고의 기다림 속에" "명예의 온전함과 함께" "목적의식과 함께" "경계심과 함께" "조심한 손길과 함께" "탄생의 영광의" "옮겨진 힘의" "잃어버린 기억의" "약속된 날의" "물결 위에서" "홀로 희망 위에서" "태양광선 항해 위에서" "잊혀진 길 위에서" "철의 자궁으로부터" "재의 상승으로부터" "열린 문으로부터" "시간의 앞으로부터" "창백한 별 아래" "별들 사이에서" "용기와 함께" "별의 영겁 아래" "불의 형상 속에" "공허의 기다림 속에"
+		}
+		sequential_name = "강력한 손 %CC%"
+	}
+		
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "%CC% 요지부동한 방패"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "%CC% 신성한 칼날"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "%CC% 신성한 칼날"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "%CC% 신성한 칼날"
+		}
+		
+		defense_army = {
+			sequential_name = "%CC% 요지부동한 방패"
+		}
+			
+		assault_army = {
+			sequential_name = "%CC% 신성한 칼날"
+		}
+		
+		slave_army = {
+			sequential_name = "%CC% 종복의 칼날"
+		}
+		
+		clone_army = { 
+			sequential_name = "%CC% 복제된 군인"
+		}
+		
+		undead_army = {
+			sequential_name = "%CC% 공포의 망치"
+		}
+
+		robotic_army = {
+			sequential_name = "%CC% 빛나는-투지의 창"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%CC% 빛나는-투지의 보호자"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%CC% 창공-접촉자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%CC% 외부의 검날"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%CC% 연마된 칼날"
+		}
+
+		occupation_army = {
+			sequential_name = "%CC% 수호자"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%CC% 자동화된 수호자"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				바스토'누콥 랍트'오베콥 아쿱'테코프 아훈'키톱 아누'이나콥 에맙'아무콥 베트'우바콥 토프'이노콥 므혼'오누테크 노케'이테테크 네트'아테테크 에페크'에니테크 아케트'이나테크 베크'우코테크 메크'우바테크 아모크'이노테크 아미트'오누문 메크흐'오베문 에레트'아테문 토트'에니문 테트'이나문 에테크'우코문 무트'우바문 에콥'이노문 네코'이테테트 로프'오베테트 아무트'아모헤트 포트'에니테트 테크'이나테트 하트'우코테트 헤크'우바테트 토트'이노테트 베헤'오누비스 아미트'오베비스 아쿱'에테비스 에레트'아니베스 하트'이나비스 테크'우코비스 무트'이테비스 네코'이노비스 엡크'오누메트 메크'아무메트 몬'아테메트 바스트'에니메트 아모크'이나메트 아케트'우코메트 랍트'우바메트 로프'이노메트 메크'오누누트 아훈'오베누트 테트'아테누트 네트'에니누트 토프'이나누트 에테크'이테누트 헤크'우바누트 네코'이노누트 에콥'오누시스 아누'오베시스 아무트'아테시스 에맙'아무시스 포트'이나시스 베트'우코시스 테트'우바시스 랍트'이노시스
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names_male = {
+				아케트 아코코트 아무트 아모피 아텝 아노트 아네크 아테트 오박트 오수피 오테크 오케피 우노트 우도크 우만 우루트 이수크 이포크 이투 이무트 이마트 에흐몬 에레트 에논 에테크 운트 오텝 에테베 이노트 이만
+			}
+			first_names_female = {
+				몬흐 메크트 모 메트 매크 테티 톤 테크 테트 토피 네키 네피 니프 넨트 나투 헤키 헤트 호크 헤케트 하티 세크 세트케크 수트라 산코프 수몬 케트라 케니 케투 캅티 코텝
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				운-아케트 운-에무트 운-이테크 운-라트 운-아네크 운-에테크 운-로크 운-타케크 인스-베흐트 인스-아문 인스-코페크 인스-토트 인스-세크헤트 인스-노트 옴-베크 옴-아쿠트 옴-텝흐 옴-콥프 옴-테트옴-이테크
+			}
+			
+			regnal_first_names = {
+				케트레프 노케테 아모테테트 소토테트 멘코텝 투케투 에모누헤트
+			}
+			
+			regnal_second_names = {
+				엔키-아몬타라 엔키-테코메트
+			}
+		}
+	}
+}

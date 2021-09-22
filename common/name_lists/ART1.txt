@@ -1,0 +1,213 @@
+﻿### Arthropoid 1
+### Created by Henrik Eklund
+### 번역: Holy_Mackerel
+ART1 = {
+	category = "Arthropoid"	
+	ship_names = {
+	
+		generic = {
+			뷸-트라 지크-미트 쇼-단 비드-타크 코드-모크 흄-라트 리크-헨 우트라-파스 폴-튜브 롬-모르 이르크-사스 비크-큘 자르-파크 코르-바드 탈-짐 휴르-잠 볼-튜르 이마-루그 울트-아모 아라-팔 필크-이마 폴-조르 렐-티크 바크-타스 렘-수크 울라-폰 페즈-본 라크-타르 미크-쥴 보드-바크 헨-타스 모크-일름 쥬크-토르 산-타르 이미-이스크 비드-휴르 함-코르 신-닉 알크-타르 지르-지르 유니-포크 라스-피크 티르-페즈 몬-토르 코스-라르 빔-테르 포트-아카 타크-율루 벤-본 아크-아크 리르-파크 누르-앙 단-오크 레크-티르 큘-캄 일름-알타 로즈-빔 다르-팜 알타-졸 팀-탐 오로-우리 무리떼-캇 디르-포크 디크-디크 이나-토르 칸-칸 위르-트라 니드-엘류 볼-슈 이니-리스 아쓰-륨 폰-파르 로그-위 이탄-폰 미크-졸 홈-타크 에테-다르 타르-킨 틴-틴 테스-아리 톨-툼 가르-간 모스-파크 캅-티르 인스-할 볼-코트 스피-카르 콘-도르 카르-마스 이리-라르 퓨르-토크 체-보브 라드-스타 티즈-발 언-다크 지아-돌 람-니드 카르-카르 람-로드 윅스-알드 볼-볼 론-모르 모르-도르 챠-챠 차-차 이규-아나 이가-튜-칸 비르-잉-로스 바브-올르-잉 홀-데르-탄 덴-란-롬 디드-비크-하스 페르-유쉬-나드 산-큐르-이니 신-란-토르 파스-날-빌 리르-골-깁 에리-균-누그 레르-이니-토크 와스-가르-노그 기르-판-포크 이타-마브-조르 살-딤-딤 손-옴므-아기 튜르-탄-톨 히크-톤-듈 퓨크-나르-진 리스-함-도크 호브-레스-람 이마-휸-이마 토르-토르-디아 위크-라르-이쉬 하즈-아쓰-움므 이타-이타-듐 슘-콘-담 트라-레스-에테 에라-아마-어브 비르-티크-졸 큘-자드-딘 모트-림-노그 튜르-판-티크 하드-함-히르 이니-이니-외르 도크-람-볼 비스-빌-비크 포프-호크-가크 펠-다르-이마 피르-빔-코트 잔-타크-에라 진-줌-잔 피즈-조르-코르 테르-라스-노그 힐-도르-비트 에티-델-안 오도-락스-아리 림-베르-토르 랄-에쓰-이안 오쓰-포르-다스
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	
+	}
+	
+	fleet_names = {
+		random_names = {
+			"타르킬-뷰 우주 무리" "파크칸-예 우주 무리" "노르기스-파 우주 무리" "울타카-사 우주 무리" "발가르-제 우주 무리" 	"이닐카-파 우주 무리"
+		}
+		sequential_name = "제 %CC% 우주 무리"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 강습 무리떼"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 강습 무리떼"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 강습 무리떼"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 강습 무리떼"
+		}
+	
+		defense_army = {
+			sequential_name = "제 %CC% 방어 무리떼"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 강습 무리떼"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예 무리떼"
+		}
+		
+		clone_army = {
+			sequential_name = "제 %CC% 클론 무리떼"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 무리떼"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 드로이드 무리떼"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 방위 드로이드 무리떼"
+		}
+		
+		psionic_army = {
+			sequential_name = "제 %CC% 사이킥 코만도 무리떼"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 외계종 무리떼"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 유전변형 코만도 무리떼"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 주둔 무리떼"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 주둔 드로이드 무리떼"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				보르드-카-토르브 미르그-뷰-카르프 조르그-세-크로프 렐드-테-히르크 파르그-키-토르프 테르크-바-폰트 비르므-리-간드 이람-제-오타크 라르브-티-다름 우탐-자-보르므 핀드-라-보스크 베르므-테-비르그 이틸-사-돔브 우라크-페-톤드 우르바-타-나크 오롤-쥬-바크 리르그-나-코름 틸크-티-다르브 슈에트-레-폴드 시스크-인-아타브 타쿠-라-몰크 리마-수-카리 포스크-자-토리 카름-네-투나
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				비-카 폴-토 레-마 슈-페 우크-마 일-시 임-도 쥬-타 바-라 울-타 이브-나 에크-이르 에르-바 보-키 리-규 로-압 유브-코 파-라 올-소 보-규 소-카 미-티 바-쿠 키-바 시-나 보-카 포-라 나-사 타-리 마-쿠 임-포 수-보 티-라 바-리 우크-니 에르-마 에브-리 울-바 페-티 자-주
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				비-카 폴-토 레-마 슈-페 우크-마 일-시 임-도 쥬-타 바-라 울-타
+			}
+			
+			regnal_second_names = {
+				모크
+			}
+		}
+	}
+}

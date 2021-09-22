@@ -1,0 +1,9 @@
+﻿### Imperial Armada
+IA = {
+    selectable = { always = no }
+	randomized = no
+
+    fleet_names = {
+        sequential_name = "%R% 임페리얼 아르마다"
+    }
+}

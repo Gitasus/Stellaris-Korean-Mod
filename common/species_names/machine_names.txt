@@ -1,0 +1,158 @@
+# Generated species derive their names from here
+### 번역: Holy_Mackerel
+### MACHINES
+
+MACHINE = {
+
+	shazarak = {
+		name = 샤자라크
+		plural = 샤자라크
+		home_planet = 샤주
+		home_system = 샤즈카
+		name_list = "MACHINE1"
+	}
+
+	mechazur = {
+		name = 메카주르
+		plural = 메카주르
+		home_planet = "메카즈 프라임"
+		home_system = 메카즈
+		name_list = "MACHINE2"
+	}
+
+	zero-zero-one = {
+		name = 제로-제로-원
+		plural = 제로-제로-원
+		home_planet = 제로-원
+		home_system = 제로
+		name_list = "MACHINE3"
+	}
+
+	prime = {
+		name = 프라임
+		plural = 프라임
+		home_planet = "프라이머스 원"
+		home_system = "기반 구역"
+		name_list = "MACHINE4"
+	}
+
+	zenak = {
+		name = 제나크
+		plural = 제나크
+		home_planet = 제낙-프루
+		home_system = 제나콘
+		name_list = "MACHINE1"
+	}
+
+	omni = {
+		name = 옴니
+		plural = 옴니
+		home_planet = "알파 어레이"
+		home_system = 옴낙
+		name_list = "MACHINE2"
+	}
+
+	daar = {
+		name = 다아르
+		plural = 다아르
+		home_planet = 다아르-1
+		home_system = 다아루즈
+		name_list = "MACHINE3"
+	}
+
+	tronzaru = {
+		name = 트론자루
+		plural = 트론자루
+		home_planet = 트론즈
+		home_system = "트론즈 카라스"
+		name_list = "MACHINE4"
+	}
+
+	techarus = {
+		name = 테카루스
+		plural = 테카루스
+		home_planet = 테쿠스
+		home_system = "테카르-우바스"
+		name_list = "MACHINE1"
+	}
+
+	jonus = {
+		name = 조누스
+		plural = 조누스
+		home_planet = 조라
+		home_system = 제니사
+		name_list = "MACHINE2"
+	}
+
+	iribot = {
+		name = 이리봇
+		plural = 이리봇
+		home_planet = 이르
+		home_system = 이리
+		name_list = "MACHINE3"
+	}
+
+	silicron = {
+		name = 실리크론
+		plural = 실리크론
+		home_planet = "최고 기관"
+		home_system = SI-1
+		name_list = "MACHINE4"
+	}
+
+	dekron = {
+		name = 데크론
+		plural = 데크론
+		home_planet = 데크로니아
+		home_system = 데크루스
+		name_list = "MACHINE1"
+	}
+
+	synthoid = {
+		name = 신소이드
+		plural = 신소이드
+		home_planet = 신손
+		home_system = 신소스
+		name_list = "MACHINE2"
+	}
+
+	cydran = {
+		name = 사이드란
+		plural = 사이드란
+		home_planet = 사이드루스
+		home_system = 티드랄
+		name_list = "MACHINE3"
+	}
+
+	kelbrid = {
+		name = 켈브리드
+		plural = 켈브리드
+		home_planet = "연결체 제로"
+		home_system = "에피라"
+		name_list = "MACHINE4"
+	}
+
+	model-16 = {
+		name = "16번 기종"
+		plural = "16번 기종"
+		home_planet = "주 생산공장"
+		home_system = EN-14421
+		name_list = "MACHINE1"
+	}
+
+	nex = {
+		name = 넥스
+		plural = 넥스
+		home_planet = "넥스 프라이무스"
+		home_system = "이포르"
+		name_list = "MACHINE2"
+	}
+
+	sictor = {
+		name = 미크터
+		plural = 미크터
+		home_planet = 미크트
+		home_system = "미크트 노보르"
+		name_list = "MACHINE3"
+	}
+}

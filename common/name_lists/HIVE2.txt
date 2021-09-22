@@ -1,0 +1,232 @@
+﻿### Hive Mind 2
+### Created by Douglas Furen
+
+HIVE2 = {
+	category = "Hive Mind"
+	randomized = no
+	should_name_home_system_planets = no
+
+	ship_names = {
+		generic = {
+		}
+
+		corvette = {
+			"소형 전투 개체"
+		}
+		
+		destroyer = {
+			"전투 개체"
+		}
+		
+		cruiser = {
+			"전투 개체"
+		}
+		
+		battleship = {
+			"대형 전투 개체"
+		}
+
+		titan = {
+			"특별 전투 개체"
+		}
+
+		colossus = {
+			"중요 전투 개체 "
+		}
+
+		juggernaut = {
+			"최고 전투 개체"
+		}
+		
+		science = {
+			"조사 개체"
+		}
+		
+		colonizer = {
+			"확장 개체"
+		}
+		
+		constructor = {
+			"건설 개체"
+		}
+	
+		transport = {
+			"수송 개체"
+		}
+	
+		military_station_small = {
+			"궤도 방어 개체"
+		}
+
+		ion_cannon = {
+			"이온 방어 개체"
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+			"독립체 알레프" "독립체 베트" "독립체 기멜" "독립체 바브" "독립체 자인" "독립체 달레트" "독립체 라메드" "독립체 사메크" "독립체 차데" "독립체 쉰" "독립체 타브" "독립체 체트" "독립체 테드" "독립체 요드" "독립체 카프" "독립체 멤" "독립체 아인" "독립체 코프" "독립체 레쉬"
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			"의사 무리" "의도 무리" "설계 무리" "기능 무리" "측정 무리" "통솔 무리" "원칙 무리" "대상 무리" "조준 무리" "목표 무리" "정정 무리" "결정 무리" "헌신 무리" "집념 무리" "해결 무리" "결심 무리" "목적 무리" "대상 무리" "해법 무리"
+		}
+		sequential_name = "전투 무리 %CC%"
+	}
+	
+	army_names = {
+	
+		machine_defense = {
+			sequential_name = "%CC%번 보호 말단"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "%CC%번 강습 말단"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "%CC%번 강습 말단"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "%CC%번 강습 말단"
+		}
+
+		defense_army = {
+			sequential_name = "%CC%번 보호 말단"
+		}
+			
+		assault_army = {
+			sequential_name = "%CC%번 강습 말단"
+		}
+		
+		slave_army = {
+			sequential_name = "%CC%번 몰수 말단"
+		}
+		
+		clone_army = { 
+			sequential_name = "%CC%번 복제체 말단"
+		}
+
+		undead_army = {
+			sequential_name = "%CC%번 공포의 말단"
+		}
+		
+		robotic_army = {
+			sequential_name = "%CC%번 기계 말단"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%CC%번 방어 기계 말단"
+		}
+	
+		psionic_army = { 
+			sequential_name = "%CC%번 사고 무기화 말단"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%CC%번 변종 말단"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%CC%번 강화 말단"
+		}
+
+		primitive_army = {
+			sequential_name = "%C% 원시적 말단"
+		}
+		industrial_army = {
+			sequential_name = "%C% 산업화 말단"
+		}
+		postatomic_army = {
+			sequential_name = "%C% 붕괴 말단"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"구역 마크" "통제지역 타크" "습득지역 김" "조달지역 보프" "입수지역 피르" "전용지역 이그" "수정지역 주드" "획득지역 오에프" "추가지역 테트" "성과지역 슈" "회수지역 아힌" "포함지역 차크" "증설지역 헤미" "합병지역 트레" "부수지역 에그르" "성장지역 판" "분할지역 벨" "진격지역 섹" "출진지역 킨" "알레프 구역" "베트 통제지" "기멜 습득지" "바브 조달지" "자인 입수지" "달레트 전용지" "사메크 획득지" "차데 성과지" "타브 포함지" "체트 증설지" "테드 합병지" "요드 확장지" "카프 부수지" "멤 성장지" "아인 분할지" "코프 진격지" "레쉬 출진지"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				"자율 장기 1" "자율 장기 2" "자율 장기 3" "자율 장기 4" "자율 장기 5" "자율 장기 6" "자율 장기 7" "자율 장기 8" "자율 장기 9" "자율 장기 10" "자율 장기 11" "자율 장기 12" "자율 장기 13" "자율 장기 14" "자율 장기 15" "자율 장기 16" "자율 장기 17" "자율 장기 18" "자율 장기 19" "자율 장기 20" "자율 장기 21" "자율 장기 22" "자율 장기 23" "자율 장기 24" "자율 장기 25" "자율 장기 26" "자율 장기 27" "자율 장기 28" "자율 장기 29" "자율 장기 30" "자율 장기 31" "자율 장기 32" "자율 장기 33" "자율 장기 34" "자율 장기 35" "자율 장기 36" "자율 장기 37" "자율 장기 38" "자율 장기 39" "자율 장기 40" "자율 장기 41" "자율 장기 42" "자율 장기 43" "자율 장기 44" "자율 장기 45" "자율 장기 46" "자율 장기 47" "자율 장기 48" "자율 장기 49" "자율 장기 50" "자율 장기 51" "자율 장기 52" "자율 장기 53" "자율 장기 54" "자율 장기 55" "자율 장기 56" "자율 장기 57" "자율 장기 58" "자율 장기 59" "자율 장기 60" "자율 장기 61" "자율 장기 62" "자율 장기 63" "자율 장기 64" "자율 장기 65" "자율 장기 66" "자율 장기 67" "자율 장기 68" "자율 장기 69" "자율 장기 70" "자율 장기 71" "자율 장기 72" "자율 장기 73" "자율 장기 74" "자율 장기 75" "자율 장기 76" "자율 장기 77" "자율 장기 78" "자율 장기 79" "자율 장기 80"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+			}
+			
+			regnal_second_names = {
+			}
+		}
+	}
+
+	ruler_names = {
+		default = {
+			full_names = {
+				"의식" "정신" "군체" "원체" "원천"
+			}
+		}
+	}
+}

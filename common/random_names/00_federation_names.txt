@@ -1,0 +1,335 @@
+# Galactic Union
+
+federation_name_parts_list = {
+	key = "default_federation_names_1_1"
+	parts = {
+		"범은하" = 1
+		"은하" = 1
+		"성간" = 1
+		"항성" = 1
+		"행성" = 1
+		"우주" = 1
+		"상호 원조" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "default_federation_names_1_2"
+	parts = {
+		"동맹" = 1
+		"연맹" = 1
+		"연방" = 1
+		"협정" = 1
+		"연합" = 1
+		"협약" = 1
+		"화합" = 1
+		"조약" = 1
+		"파트너쉽" = 1
+		"조약 기구" = 1
+		"합의" = 1
+		"집회" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "default_federation_names_2_1"
+	parts = {
+		"성간 국가" = 1
+		"상호 연결" = 1
+		"독립 성계" = 1
+		"자주 국가" = 1
+		"자치 세력" = 1
+		"은하 세력" = 1
+		"자주 성계" = 1
+		"문명 행성" = 1
+		"제휴 국가" = 1
+		"고귀한 국가" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "default_federation_names_2_2"
+	parts = {
+		"연합" = 1
+		"연맹" = 1
+		"동맹" = 1
+		"맹약" = 1
+		"동맹체" = 1
+		"통합" = 1
+		"연합체" = 1
+		"연방체" = 1
+		"연방체" = 1		
+	}
+}
+
+federation_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			has_federation_type = default_federation
+		}
+	}
+	format = "<default_federation_names_1_1> <default_federation_names_1_2>"
+}
+
+federation_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			has_federation_type = default_federation
+		}
+	}
+	format = "<default_federation_names_2_1> <default_federation_names_2_2>"
+}
+
+# Trade League
+
+federation_name_parts_list = {
+	key = "trade_federation_names_1_1"
+	parts = {
+		"범은하" = 1
+		"은하" = 1
+		"성간" = 1
+		"항성" = 1
+		"행성" = 1
+		"우주" = 1
+		"통합" = 1
+		"자유" = 1
+		"통합된" = 1
+		"화합된" = 1
+		"금빛" = 1
+		"우호적인" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "trade_federation_names_1_2"
+	parts = {
+		"번영" = 1
+		"무역" = 1
+		"교역" = 1
+		"상업" = 1
+		"통화" = 1
+		"상호 번영" = 1
+		"경제" = 1
+		"자유 무역" = 1
+		"거래" = 1
+		"상인" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "trade_federation_names_1_3"
+	parts = {
+		"세력" = 1
+		"연합" = 1
+		"동맹" = 1
+		"연방" = 1
+		"협정" = 1
+		"연합" = 1
+		"협약" = 1
+		"화합" = 1
+		"조약" = 1
+		"파트너쉽" = 1
+		"합의" = 1
+		"집회" = 1
+		"계약" = 1
+		"네트워크" = 1
+	}
+}
+
+federation_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			has_federation_type = trade_federation
+		}
+	}
+	format = "<trade_federation_names_1_1> <trade_federation_names_1_2> <trade_federation_names_1_3>"
+}
+
+
+# Research Cooperative
+
+federation_name_parts_list = {
+	key = "research_federation_names_1_1"
+	parts = {
+		"범은하" = 1
+		"은하" = 1
+		"성간" = 1
+		"항성" = 1
+		"행성" = 1
+		"우주" = 1
+		"통합" = 1
+		"자유" = 1
+		"화합된" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "research_federation_names_1_2"
+	parts = {
+		"과학" = 1
+		"연구" = 1
+		"정보" = 1
+		"정보" = 1
+		"기술" = 1
+		"학술" = 1
+		"진보" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "research_federation_names_1_3"
+	parts = {
+		"협력체" = 1
+		"세력" = 1
+		"연합" = 1
+		"동맹" = 1
+		"연방" = 1
+		"협정" = 1
+		"연합" = 1
+		"협약" = 1
+		"화합" = 1
+		"조약" = 1
+		"파트너쉽" = 1
+		"합의" = 1
+		"집회" = 1
+		"교환소" = 1
+		"네트워크" = 1
+		"협회" = 1
+	}
+}
+
+federation_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			has_federation_type = research_federation
+		}
+	}
+	format = "<research_federation_names_1_1> <research_federation_names_1_2> <research_federation_names_1_3>"
+}
+
+
+# Martial Alliance
+
+federation_name_parts_list = {
+	key = "military_federation_names_1_1"
+	parts = {
+		"범은하" = 1
+		"은하" = 1
+		"성간" = 1
+		"항성" = 1
+		"행성" = 1
+		"우주" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "military_federation_names_1_2"
+	parts = {
+		"조약 기구" = 1
+		"방어군" = 1
+		"협정" = 1
+		"방어 연합" = 1
+		"전략 동맹" = 1
+		"조약" = 1
+		"안보 파트너쉽" = 1
+		"방어 계획" = 1
+		"안보 조직" = 1
+		"결합군" = 1
+		"군사 연합" = 1
+		"방어 주축" = 1
+		"상호 원조 조약" = 1
+	}
+}
+
+federation_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			has_federation_type = military_federation
+		}
+	}
+	format = "<military_federation_names_1_1> <military_federation_names_1_2>"
+}
+
+# Hegemony
+
+federation_name_parts_list = {
+	key = "hegemony_federation_names_1_1"
+	parts = {
+		"성간 헤게모니" = 1
+		"성간 조직" = 1
+		"방위 조약" = 1
+		"성간 자치령" = 1
+		"제휴 연합" = 1
+		"은하 영역" = 1
+		"은하 체제" = 1
+		"영향권" = 1
+		"동업 동맹" = 1
+		"친선 영역" = 1
+		"통제권" = 1
+		"보호권" = 1
+		"의존 연합" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "hegemony_federation_names_2_1"
+	parts = {
+		"새로운" = 1
+		"위대한" = 1
+		"강력한" = 1
+		"장엄한" = 1
+		"칭송받는" = 1
+		"영광스러운" = 1
+		"최고의" = 1
+		"통합된" = 1
+	}
+}
+
+federation_name_parts_list = {
+	key = "hegemony_federation_names_2_2"
+	parts = {
+		"질서" = 1
+		"헤게모니" = 1
+		"체제" = 1
+		"영역" = 1
+		"자치령" = 1
+		"영역" = 1
+		"권역" = 1
+		"협정" = 1
+		"연합" = 1
+		"연방" = 1
+		"연맹" = 1
+	}
+}
+
+federation_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			has_federation_type = hegemony_federation
+		}
+	}
+	format = "[This.Leader.GetSpeciesName] <hegemony_federation_names_1_1>"
+}
+
+federation_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			has_federation_type = hegemony_federation
+		}
+	}
+	format = "<hegemony_federation_names_2_1> [This.Leader.GetSpeciesName] <hegemony_federation_names_2_2>"
+}

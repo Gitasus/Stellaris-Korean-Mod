@@ -1,0 +1,211 @@
+﻿### Reptilian 2
+### 번역: Holy_Mackerel
+REP2 = {
+	category = "Reptilian"
+	ship_names = {
+
+		generic = {
+			자드-냐크 제데렉스 자드하덱스 존텍스 자다마치 제들리타 진 자다카트 지망 자락세스 지낙사드 자다라 지츠미 종각스 자락심 지딕스 자닥손 직심 시믹신 세레막스 카사락스 코드복스 지아드 좀바 카르다세스 카르딕스 좁본 지디닉스 자라크 지드리막스 자임타락스 시드작스 심파 자륵사 소고르 자나르 질갈 델톡스 지니바르 젠드작스 조릭손 데라직스 돌조르 다르각소르 다르빅스 다락사 디노르조 제바-작스 조르-칼로스 주르-탈락스 좀-뷰루크 졸-레모크 자르-코록스 젤-도토르 조드-가락스 디가작크 제바락스 사인타르조 코노박스 카록스 데즈-힐람 닥스-엔디브 자블린녹스 자포조르 자키토르 자다마크 지크락스 줄도록스 작시모크 자트릭스 졸다고로스 주린자가 조르보자가 칼도릭스 카트록스 덱시라마 데주자릭스 디릭시즈 데스코락스 디피릭사몬 카닉스 자카락스 지트릭스 카블라렉스 자카즈 제플라즈 베라렉스 다모닉스 데코르자 다자림 자카딤 조다르시즈 지미자르 줄자리 지브-코록스 주브-자님 졸-이릭스 잠-제본 제드-케블락스
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		titan = {
+		}
+		
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+		
+		military_station_small = {
+		}
+		
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"피닉스 성간 사냥대" "굶주린 성간 사냥대" "매끄러운 성간 사냥대" "기다리는 성간 사냥대" "도약하는 성간 사냥대" "거침없는 성간 사냥대" "카르토이치의 성간 사냥대" "그로르'카시 성간 사냥대" "재빠른 성간 사냥대" "개걸스러운 성간 사냥대" "조'아르티쉬 성간 사냥대" "치클라쉬 성간 사냥대" "약탈하는 성간 사냥대" "악의적인 성간 사냥대" "파괴의 성간 사냥대"
+		}
+		sequential_name = "제 %CC% 성간 사냥대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 행성 순찰대"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 행성 침략대"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 행성 침략대"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 행성 침략대"
+		}
+			
+		defense_army = {
+			sequential_name = "제 %CC% 행성 순찰대"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 행성 침략대"
+		}
+		
+		slave_army = {
+			sequential_name = "족쇠 무리 %R%"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 거울 군단"
+		}
+
+		undead_army = {
+			sequential_name = "제 %CC% 언데드 침략대"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 전투 건조물"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 방위 건조물"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 우주 건설자"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 박멸 기구"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 변이 정예"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령지 순찰대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 건조물 주둔군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				파낙트 탁사즈 지닉스 픽사쉬 곡세쉬 틱사쉬 티샥 로이치 자르티 조르테쉬 피르시쉬 닥슈쉬 프리샥 카르톡스 키르티쉬 초이르티즈 니차쉬 피라쉬 바피쉬 레일라쉬 위칙스 프리차즈 즈리치 조이르츠 지차쉬 그라우 그로로 고즈 촤 라즈틀 라프즈트 그라프트쉬 그고츠트 히슈 츨라츠트 쉭스 슈르트 잔쉬 지르쉬 히쉭스 피카쉬 릭시쉬 지쉬트 자직스 직스 에륵시스 엑사스 픽시스
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				지글리스 카티옥스 지르 자락스 레칵시르 칵스 지들락시 카브록시 자이들로르 제라심 모즈 조즈 자즈 작스 자카들리스 코탁시르 조블라기스 레지칵스 모레작 미들록젝스 박스 주막스 라시르 지락소르 복스 주릭스 지락스 카베록스 시막스 모락스 제티오즈 베리작 메디작 카리작 모작 비타락스 코바녹스 자복 박소마 제틱스 카락스 카블록스 지닉스 카둑스 미록스 락소르
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				지글리스 카티옥스 지르 자락스 레칵시르 칵스 지들락시 카브록시 자이들로르 제라심 모즈 조즈
+			}
+			
+			regnal_second_names = {
+				지자
+			}
+		}
+	}
+}

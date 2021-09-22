@@ -1,0 +1,246 @@
+﻿### Avian 2
+### Created by Johan Andersson 2015-07-31
+### 번역: Holy_Mackerel
+AVI3 = {
+	category = "Avian"
+	ship_names = {
+		
+		corvette = {
+			"칼날" "빠름" "광분" "핏자국" "흉터" "핏덩이" "불구" "상흔" "상처" "부상" "절단" "찰과상" "짜름" "훼손" "피해" "훼손" "가름" "비탄" "절삭" "천공" "비명" "상흔" "경보" "울부짖음" "울음" "급등" "상향" "기립" "확대" "비행" "활강" "부유" "활공" "강하" "강습" "엄습" "급하강"
+		}
+
+		destroyer = {
+			"날카로운 발톱" "빠른 발톱" "광분한 발톱" "피로 물든 발톱" "흉터의 발톱" "유혈의 발톱" "소름끼치는 발톱" "치명적인 발톱" "난폭한 발톱" "상처입히는 발톱" "맹렬한 발톱" "긁어내는 발톱" "짜르는 발톱" "훼손하는 발톱" "상해를 가하는 발톱" "불구로 만드는 발톱" "망가트리는 발톱" "비통하는 발톱" "엉망으로 만드는 발톱" "꿰뚫는 발톱"	
+		}
+
+		cruiser = {
+			"날카로운 부리" "빠른 부리" "광분한 부리" "피로 물든 부리" "흉터의 부리" "유혈의 부리" "소름끼치는 부리" "치명적인 부리" "난폭한 부리" "상처입히는 부리" "맹렬한 부리" "긁어내는 부리" "짜르는 부리" "훼손하는 부리" "상해를 가하는 부리" "불구로 만드는 부리" "망가트리는 부리" "비통하는 부리" "엉망으로 만드는 부리" "꿰뚫는 부리"
+		}
+		
+		battleship = {
+			"영광스런 학살자" "영광스런 숙청자" "영광스런 무자비" "영광스런 도살자" "영광스런 유혈자" "화려한 학살자" "화려한 숙청자" "화려한 무자비" "화려한 도살자" "화려한 유혈자" "자랑스런학살자" "자랑스런숙청자" "자랑스런무자비" "자랑스런도살자" "자랑스런유혈자" "통쾌한 학살자" "통쾌한 숙청자" "통쾌한 무자비" "통쾌한 도살자" "통쾌한 유혈자"
+		}
+
+		titan = {
+			"장엄한 파괴자" "장엄한 학살자" "장엄한 도살자" "장엄한 유혈자" "장엄한 대혼란"
+ 		}
+
+		colossus = {
+			"죽음의 알" "파괴의 알" "망각의 알" "파멸의 알"
+		}
+		
+		juggernaut = {
+			"칭송받는 파쇄자" "칭송받는 열상" "칭송받는 갈라짐" "칭송받는 찟어짐" "칭송받는 분열" "칭송받는 폐허"
+		}
+		
+		constructor = {
+			"둥지 제작자" "둥지 건설자" "둥지 생성자" "둥지 생산자" "둥지 제조자" "쉼터 제작자" "쉼터 건설자" "쉼터 생성자" "쉼터 생산자" "쉼터 제조자"
+		}
+		
+		colonizer = {
+			"알 운반선 I" "알 운반선 II" "알 운반선 III" "알 운반선 IV" "알 운반선 V" "알 운반선 VI" "알 운반선 VII" "알 운반선 VIII" "알 운반선 IX" "알 운반선 X" "알 운반선 XI" "알 운반선 XII" "알 운반선 XIII" "알 운반선 XIV" "알 운반선 XV" "알 운반선 XVI" "알 운반선 XVII" "알 운반선 XVIII" "알 운반선 XIX" "알 운반선 XX"
+		}
+
+		sponsored_colonizer = { # needed when there are no generic names
+			"알 운반선 I" "알 운반선 II" "알 운반선 III" "알 운반선 IV" "알 운반선 V" "알 운반선 VI" "알 운반선 VII" "알 운반선 VIII" "알 운반선 IX" "알 운반선 X" "알 운반선 XI" "알 운반선 XII" "알 운반선 XIII" "알 운반선 XIV" "알 운반선 XV" "알 운반선 XVI" "알 운반선 XVII" "알 운반선 XVIII" "알 운반선 XIX" "알 운반선 XX"
+		}
+		
+		science = {
+			"내면의 눈 I" "내면의 눈 II" "내면의 눈 III" "내면의 눈 IV" "내면의 눈 V" "내면의 눈 VI" "내면의 눈 VII" "내면의 눈 VIII" "내면의 눈 IX" "내면의 눈 X" "내면의 눈 XI" "내면의 눈 XII" "내면의 눈 XIII" "내면의 눈 XIV" "내면의 눈 XV" "내면의 눈 XVI" "내면의 눈 XVII" "내면의 눈 XVIII" "내면의 눈 XIX" "내면의 눈 XX"
+		}
+		
+		transport = {
+			"죽음 전달자" "파괴 전달자" "망각 전달자" "파멸 전달자"
+		} 
+
+		military_station_small = {
+			"날카로운 집게발 "빠른 집게발 "광분한 집게발 "피로 물든 집게발 "흉터의 집게발 "유혈의 집게발 "소름끼치는 집게발 "치명적인 집게발 "난폭한 집게발 "상처입히는 집게발 "맹렬한 집게발 "긁어내는 집게발 "짜르는 집게발 "훼손하는 집게발 "상해를 가하는 집게발 "불구로 만드는 집게발 "망가트리는 집게발 "비통하는 집게발 "엉망으로 만드는 집게발 "꿰뚫는 집게발
+		}
+
+		ion_cannon = { 
+			"파멸의 횟대" "심판의 횟대" "몰락의 횟대" "죽음의 횟대" "재앙의 횟대"
+		}
+
+		### For Fallen Empires
+		small_ship_fallen_empire = {
+			"칼날" "빠름" "광분" "핏자국" "흉터" "핏덩이" "불구" "상흔" "상처" "부상" "절단" "찰과상" "짜름" "훼손" "피해" "훼손" "가름" "비탄" "절삭" "천공" "비명" "상흔" "경보" "울부짖음" "울음" "급등" "상향" "기립" "확대" "비행" "활강" "부유" "활공" "강하" "강습" "엄습" "급하강"
+		}
+		large_ship_fallen_empire = {
+			"영광스런 학살자" "영광스런 숙청자" "영광스런 무자비" "영광스런 도살자" "영광스런 유혈자" "화려한 학살자" "화려한 숙청자" "화려한 무자비" "화려한 도살자" "화려한 유혈자" "자랑스런학살자" "자랑스런숙청자" "자랑스런무자비" "자랑스런도살자" "자랑스런유혈자" "통쾌한 학살자" "통쾌한 숙청자" "통쾌한 무자비" "통쾌한 도살자" "통쾌한 유혈자"
+		}
+		massive_ship_fallen_empire = {
+			"장엄한 파괴자" "장엄한 학살자" "장엄한 도살자" "장엄한 유혈자" "장엄한 대혼란"
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"피드깃 전대" "트라스트 전대" "크루 전대" "카르칸 전대" "트리파토 전대" "푸쉬 전대" "유리아 전대" "라리이 전대" "카위카 전대" "포루 전대" "트라이'타라 전대" "리키트 전대" "바라우 전대" "카'타와 전대"
+		}
+		sequential_name = "제 %CC% 전대"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어단"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 강습단"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 강습단"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 강습단"
+		}
+
+		defense_army = {
+			sequential_name = "제 %CC% 방어단"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 강습단"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 농노 부대"
+		}
+		
+		clone_army = { 
+			sequential_name = "복제 군대 %R%"
+		}
+		
+		undead_army = {
+			sequential_name = "공포의 군대 %R%"
+		}
+		
+		robotic_army = {
+			sequential_name = "드로이드 군대 %R%"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "드로이드 방위대 %R%"
+		}
+
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 스트롱 마인드"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 외계종 부대"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 돌연변이 부대"
+		}
+		
+		occupation_army = {
+			sequential_name = "제 %CC% 점령 부대"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "드로이드 점령 부대 %R%"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				"트라스트" "피드깃" "미카우" "크라우'트" "카우'타안" "크라차우의 둥지" "프라카우의 은신처" "리키치의 쉼터" "리르치의 둥지" "크루의 고치" "카르카나" "프리피트" "후'타르" "파샤와" "치이'타" "피르트" "드라쿠" "포슈의 둥지" "유라이" "트라뷰" "클루" "클라이베" "비리빗" "루키" "트리피티트" "트로비" "트리티타" "푸쉬'로" "유리트리"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				하얀 잿빛 검은 진홍빛 붉은 푸른 쪽빛 청록빛 누른 주황빛 상아색 까만 자주빛 갈색 청록색 녹색 남옥색 카키색 자홍색 금빛 은빛
+				황동 감로색 쑥색 고동색 황록색
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"발톱"
+				"부리"
+				"날개"
+				"깃털"
+				"벼슬"
+				"눈동자"
+			}
+			
+			regnal_first_names = {
+				"푸른 날개" "하얀 날개" "붉은 날개" "별의 날개" "하늘 날개" "구름 날개" 
+			}
+			
+			regnal_second_names = {
+				엑타크
+			}
+		}
+	}
+}

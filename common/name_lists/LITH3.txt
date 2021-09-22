@@ -1,0 +1,219 @@
+﻿### Lithoid 3
+### Created by Gemma Thomson
+
+LITHOID3 = {
+	category = "Lithoid"
+	ship_names = {
+
+		generic = {
+			 "브'논 베느 아르트" "브'논 글라쉬" "브'논 라트 프라아" "브'논 페느" "브'논 스토베느" "브'논 브레치" "브레아치 논" "브레아치 운'타안" "브레아치 언" "브레아치 야'숀" "브렌 포'카안" "브렌 프로스투운" "돈'레벤 스토브" "게알렌 누운" "글라시 첸" "글라시 즐로스크" "글라시 프'숀" "글라시 야아프" "그루이첸 프로스툰" "글루이첸 타안" "글루이첸 야스크" "헤스겐 오스크" "헤스겐 타안" "헤스겐 소첸" "즈'단 루 셍스크" "켄론 헤'라안" "켄토프'렌 톤" "카앗'로시 반" "켄넨'오크 난" "크라안 즐라 푸운" "라앗 룬 프'샤안" "라앗 톤늘론" "라앗 툰'야크" "렌'가스텐 오크" "렌'프로스텐 포" "레텐 소첸" "메운 가오인" "메운 크렐렌" "메운 렌텐" "메운 옵타안" "메운 스툰" "물렌 스쿠렌" "물렌 스토'켄" "물렌 타르므" "물론 크렐렌" "물론 브란 텐" "문 라앗 포츠" "문 텐'로시" "문 텐'프론" "난 호크'벤" "네스크'타안 아'벤 " "네스크'타안 아'벤" "네스크'타안 브렌" "니벤 크라크" "니벤 논츠" "온텐 프란 텐" "펜'로스크 타므" "포렌 카툰" "프렌 브레아치" "프렌 룬 메운" "프렌 텐'로스" "프렌 톤느론" "프로'네프렌 논" "푼 란'츠'테크" "란 논 논" "룬 야아프스크" "스추렌 렌" "스추렌 톤" "스크렌 프'숀" "스페넨 루스크" "스토브 촌" "스토브 촌 렌" "스토브 네센" "스토브 프론'켄" "타안 크란" "브란 라앗 숀" "브란 옵타안" "브란 텐 쇼운" "야안 톤 펜" "프레치'운 로시" "브레츠'운 트'눈" "크'판 나아" "렌루운" "나르폰" "프'탄 하울론" "프라쿤" "라툰 오스'리크" "레슬라안" "슬란 렛'눈" "우스'펜" "우스'토츠"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+			크로스 나'폰 나아'헤크 헤크훈 노츠 노운 트'루운 켄스그 프로시'그흐 스쿠론 후운 자아 주운'텐 논텐 레스'그흐 멘그스크 오크'툰 오크'레스 툴론 야아펜 메그'운 메그'네크 브'나안 브'아아 브'타암 브'프룬 돈넨 돈'군 가오엔 가아룬 폰'루 폰'에프 폰넨 스토브케츠 스토브준 스토브'크레크 아투운 아스크렌 아스카안 아스'즈'프론
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"스켈프 아브돈" "스켈프 아온'푼" "스켈프 즈'다안" "스켈프 크렌돈" "스켈프 라안" "스켈프 라앗 마아" "스켈프 린'툴" "스켈프 노아브" "스켈프 마안" "스켈프 몬'타안" "스켈프 오크'투룬" "스켈프 포므" "스켈프 포스'렌" "스켈프 포스크" "스켈프 레스'코브" "스켈프 레샤브" "스켈프 레벤" "스켈프 스토브" "스켈프 트'로크" "스켈프 타암" "스켈프 타안" "스켈프 운'로크"
+		}
+		sequential_name = "스켈'펜 %C%"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "카안 즈'다안 %C%"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "카안 트'로크 %C%"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "카안 트'로크 %C%"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "카안 트'로크 %C%"
+		}
+		
+		defense_army = {
+			sequential_name = "카안 즈'다안 %C%"
+		}
+			
+		assault_army = {
+			sequential_name = "카안 트'로크 %C%"
+		}
+		
+		slave_army = {
+			sequential_name = "카안 벤크 %C%"
+		}
+		
+		clone_army = {
+			sequential_name = "카안 호스'안 %C%"
+		}
+
+		undead_army = {
+			sequential_name = "카안 아'트와안%C%"
+		}
+		
+		robotic_army = {
+			sequential_name = "카안 메운 %C%"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "카안 메운'오크 %C%"
+		}
+		
+		psionic_army = { 
+			sequential_name = "카안 아'노크 %C%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "카안 타안 %C%"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "카안 오'둔 %C%"
+		}
+
+		occupation_army = {
+			sequential_name = "카안 겐 %C%"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "카안 겐'메운 %C%"
+		}
+
+		primitive_army = {
+			sequential_name = "카안 론스크 %C%"
+		}
+		industrial_army = {
+			sequential_name = "카안 즐로스 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "카안 넨'크 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"아블라안" "아분'론" "알룸 구운" "알룸 나르툰" "알룸 옵툰" "아온'푼" "아오논 프'쉰" "아오논 우스토느" "베느'슈느" "벤나보느" "단토츠" "돈크레치" "돈페느" "도늘홀브" "가안흐 오드페느" "게크 나'프로느" "게크 오드페느" "그룸" "흐'론 조페느" "흐'로느테프" "호순" "훈 게프라안" "즐레쉔 하아" "카'룬 스케리" "케느'트" "크눈네츠" "크후느" "라흐'페느" "레트 마아르" "레트 오츠'네시" "롬므" "논토츠" "멕'툰" "오'도느페시" "오'로크네느" "오'포스" "오'프레느" "오'스테베느" "오'베느그스크" "오드'핀 우스토느" "프'플룬" "프'순" "플론 크'툰" "포스'레느" "포스'노츠" "포스흐크" "프레느그스크" "플라안 렛'나안" "레베느" "루느" "타아므" "투느'크티츠" "티누운" "우운'프레느"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				아'순 알루움 부운'루느 구운 그라앗 카알로느 라안-쇼느 라느-테프 로크 루웃 메크'라아 나알루느 나아투느 오드푸운 오드타안 오드테프 오츠무느 오느테프 오예츠 프'쇼느 플라안 프린-툰 스차안 스테브-테느 스토브 타안-폰 트라안 툰 토느-리크 웃'타안 야크
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				아'트'툼 아노츠 안'루느 안'누운 브'투느 다아툰 가안 흐'라안 즈'나압 크'토크-룬 크'토크-수운 라아-포느 라아투운 라타안 렌타안 로쉬 므'노스크 므'누운 몬'로느 오크'나안 오크'프로느 오쿠느 파안 파아테프 프'타안 포'가아느 리크툴 쉐누운 스타아누운 투느-라아스
+			}
+			
+			regnal_first_names = {
+				그레'에느트 라흐트 로크트 마아트 눌트 오'넨'트 프'슈우트 플로스트 프렌네크트 프레느트 스크레트 스케느트 스테베트 타라아트 토느'프레트 우'즈레느트 우'케느트 우'프룬트 우'쉐느트 우'타아르트 우트'테느트 야아트
+			}
+			
+			regnal_second_names = {
+				바아르
+			}
+		}
+	}
+}

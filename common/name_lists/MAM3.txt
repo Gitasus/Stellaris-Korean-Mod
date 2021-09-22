@@ -1,0 +1,214 @@
+﻿### Humanoid 1
+### Created by Maximilian Olbers
+### 번역: Holy_Mackerel
+MAM3 = {
+	category = "Mammalian"
+	ship_names = {
+
+		generic = {
+			세페르'엘레기온 세페르'세트나셀 세페르'헌드라멜 세페르'그레날리온 세페르'펀드롤레스 세페르'사그레디오스 세페르'크렌로드 세페르'튜렐센드랄 세페르'휴벤드로그 세페르'빌리게드 세페르'타루도그 세페르'칼렌돌 세페르'에슈나드 세페르'휴가데롤 세페르'알디노르 세페르'케륜톤 세페르'마사그레스 세페르'튜안도크 세페르'노슌뎀 세페르'듀아세드론 세페르'카로브 세페르'아로고 세페르'바일로르 세페르'티르브 세페르'에스카그 세페르'보로그 세페르'마솔 부키'타르그 부키'보론 부키'살포사 부키'파토라 부키'아르가스 부키'홀라고르 부키'스파코 부키'라만 부키'소트라 부키'바도 부키'우람 부키'엘라가르 부키'엔나크 부키'타르바 부키'이리소스 부키'사트라크 부키'엔두르 부키'울라토르 부키'스파드로크 부키'키트나크 부키'포크라 부키'히그란 부키'파랍 부키'스토르그
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"강습 전대" "제일 전대" "타격 전대" "성간 전대" "외부 전대" "공허 전대" "에테르 전대" "지평선 전대" "전투 전대" "은하 전대" "성역 전대"
+		}
+		sequential_name = "제 %CC% 파괴자 전대"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "제 %CC% 방어군"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "제 %CC% 강습군"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "제 %CC% 강습군"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "제 %CC% 강습군"
+		}
+		
+		defense_army = {
+			sequential_name = "제 %CC% 방어군"
+		}
+			
+		assault_army = {
+			sequential_name = "제 %CC% 강습군"
+		}
+		
+		slave_army = {
+			sequential_name = "제 %CC% 노예군"
+		}
+		
+		clone_army = { 
+			sequential_name = "제 %CC% 클론 사단"
+		}
+		
+		undead_army = {
+			sequential_name = "제 %CC% 공포의 사단"
+		}
+		
+		robotic_army = {
+			sequential_name = "제 %CC% 로봇 사단"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "제 %CC% 로봇 주둔군"
+		}
+		
+		psionic_army = { 
+			sequential_name = "제 %CC% 초능력자 군단"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "제 %CC% 외계종 사단"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "제 %CC% 유전자병 사단"
+		}
+
+		occupation_army = {
+			sequential_name = "제 %CC% 점령군"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "제 %CC% 점령지 로봇군"
+		}
+
+		primitive_army = {
+			sequential_name = "원시시대 군대 %C%"
+		}
+		industrial_army = {
+			sequential_name = "산업시대 군대 %C%"
+		}
+		postatomic_army = {
+			sequential_name = "원자력 시대 군대 %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				사팔론 란코드 드로게나 요르겐 펜달로 타인트레갈 캄부렌 켐란스 슈보라몬 큐멜로드 곤데우스 제니스 벨로레스 아그스투르 프리달렌 아누엔드 살돌릭 탈리에녹 앙글레루스 크라노데스 콜바스 스터고스 바갈로드 이르카 바스투론 펜소카 이빌라스 이시카 코레알라 기시루 가보리나 아반나 아바수르 프리드가 에펜수르
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				리프레스 게스티스 레골리드 사코테룸 무르가드 세이페스 커리페 고드랄레스 슈클리엔 가나르스 토라울 메로울드 갈레두르 사소뎀 클루사르 굴도른 요데구드 사소문 콜라우트 데론
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"쿠르'파다른" "쿠르'반돔" "쿠르'휴셀" "쿠르'유할" "쿠르'팔게스" "쿠르'얄림" "돌'풀름" "돌'루치" "돌'가스" "돌'하네" "돌'길루" "돌'스라드" "하드'톤드" "하드'살드" "하드'마른" "하드'유그리트" "하드'퓰레스" "하드'롤룬트" "오브'드렌" "오브'규트"
+			}
+			
+			regnal_first_names = {
+				리프레스 게스티스 레골리드 사코테룸 무르가드 세이페스 커리페 고드랄레스
+			}
+			
+			regnal_second_names = {
+				쿠르'파다른
+			}
+		}
+	}
+}

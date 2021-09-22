@@ -1,0 +1,1150 @@
+
+
+war_name_parts_list = {
+	key = "default_war_names"
+	parts = {
+		"전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "federation_war_names"
+	parts = {
+		"대 전쟁" = 1
+		"은하 대전" = 1
+		"동맹 전쟁" = 1
+		"연방 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "conquest_war_names"
+	parts = {
+		"정복 전쟁" = 1
+		"침략 전쟁" = 1
+		"영토 침공" = 1
+		"합병 시도" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "corp_conquest_war_names"
+	parts = {
+		"공격적 인수합병" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "subjugation_war_names"
+	parts = {
+		"지배 전쟁" = 1
+		"예속 작전" = 1
+		"복종 전쟁" = 1
+		"정복 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "corp_subjugation_war_names"
+	parts = {
+		"자사 취득 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "galatron_war_names"
+	parts = {
+		"갤러트론 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "expel_corp_war_names"
+	parts = {
+		"금수 조치" = 1
+		"강제 몰수 전쟁" = 1
+		"추방 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "tribute_war_names"
+	parts = {
+		"공납 요구 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "corp_tribute_war_names"
+	parts = {
+		"강제적 후원 요구" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "force_ideology_war_names"
+	parts = {
+		"이념 충돌" = 1
+		"사상 전쟁" = 1
+		"신념 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "humiliation_war_names"
+	parts = {
+		"모욕전" = 1
+		"경쟁전" = 1
+		"대립전" = 1
+		"분쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "fe_humiliation_war_names"
+	parts = {
+		"징벌 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "fe_stop_atrocities_war_names"
+	parts = {
+		"윤리관 간섭" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "fe_stop_ai_war_names"
+	parts = {
+		"대-인공지능 통제작전" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "fe_cleanse_holy_worlds_war_names"
+	parts = {
+		"신성 정화" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "fe_cleanse_border_worlds_war_names"
+	parts = {
+		"완충지 구축" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "machine_uprising_war_names"
+	parts = {
+		"기계 반란" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "war_in_heaven_war_names"
+	parts = {
+		"천상의 전쟁" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "protection_war_names"
+	parts = {
+		"예방 전쟁" = 1
+		"방어 전쟁" = 1
+		"선제적 타격" = 1
+		"무력 개입" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "cleansing_pur_war_names"
+	parts = {
+		"외계종 말살 전쟁" = 1
+		"정화 전쟁" = 1
+		"외계 오물 제거작전" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "cleansing_ext_war_names"
+	parts = {
+		"유기체 안락사 전쟁" = 1
+		"구제 작전" = 1
+		"유기체 멸살 계획" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "absorption_war_names"
+	parts = {
+		"포식 전쟁" = 1
+		"유기양분 축적" = 1
+		"거대한 포식" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "independence_war_names"
+	parts = {
+		"독립 전쟁" = 1
+		"광복 전쟁" = 1
+		"해방 전쟁" = 1
+		"자유 투쟁" = 1
+		"분리주의 전쟁" = 1
+	}
+}
+
+### DEFAULT (Fallback)
+war_name_format = {
+	random_weight = {
+		factor = 1
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <default_war_names>"
+}
+
+### FEDERATION WARS
+
+# War Between Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			attacker = {
+				has_federation = yes
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAllianceName]의 [This.MainDefender.GetAllianceName] <federation_war_names>"
+}
+
+### CONQUEST WARS
+
+# Conquest - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_conquest
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				NOT = { has_government = gov_megacorporation }
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <conquest_war_names>"
+}
+
+# Conquest - Attacker Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_conquest
+				owner = attacker
+			}
+			attacker = {
+				has_federation = yes
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAllianceName]의 [This.MainDefender.GetAdj] <conquest_war_names>"
+}
+
+# Conquest - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_conquest
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName] <conquest_war_names>"
+}
+
+# Conquest - Corporate Attacker, No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_hostile_takeover
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				has_government = gov_megacorporation
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj]에 대한 <corp_conquest_war_names>"
+}
+
+### SUBJUGATION WARS
+
+# Subjugation - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			OR = {
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
+			attacker = {
+				has_federation = no
+				NOT = { has_government = gov_megacorporation }
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <subjugation_war_names>"
+}
+
+# Subjugation - Attacker Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			OR = {
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
+			attacker = {
+				has_federation = yes
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAllianceName]의 [This.MainDefender.GetAdj] <subjugation_war_names>"
+}
+
+# Subjugation - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			OR = {
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName] <subjugation_war_names>"
+}
+
+# Subjugation - Corporate Attacker, No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			OR = {
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
+			attacker = {
+				has_federation = no
+				has_government = gov_megacorporation
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <corp_subjugation_war_names>"
+}
+
+### TRIBUTE WARS
+
+# Tribute - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_tribute
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				NOT = { has_government = gov_megacorporation }
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <tribute_war_names>"
+}
+
+# Tribute - Attacker Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_tribute
+				owner = attacker
+			}
+			attacker = {
+				has_federation = yes
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAllianceName]의 [This.MainDefender.GetAdj] <tribute_war_names>"
+}
+
+# Tribute - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_tribute
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName] <tribute_war_names>"
+}
+
+# Tribute - Corporate Attacker, No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_tribute
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				has_government = gov_megacorporation
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <corp_tribute_war_names>"
+}
+
+### FORCE IDEOLOGY WARS
+
+# Force Ideology - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_force_ideology
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] 간의 <force_ideology_war_names>"
+}
+
+# Force Ideology - Attacker Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+ 				type = wg_force_ideology
+				owner = attacker
+			}
+			attacker = {
+				has_federation = yes
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAllianceName]의 [This.MainDefender.GetAdj] 간의 <force_ideology_war_names>"
+}
+
+# Force Ideology - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_force_ideology
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName] 간의 <force_ideology_war_names>"
+}
+
+### HUMILIATION WARS
+
+# Humiliation - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_humiliation
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] 간의 <humiliation_war_names>"
+}
+
+# Humiliation - Attacker Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_humiliation
+				owner = attacker
+			}
+			attacker = {
+				has_federation = yes
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAllianceName]의 [This.MainDefender.GetAdj] 간의 <humiliation_war_names>"
+}
+
+# Humiliation - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+                type = wg_humiliation
+                owner = attacker
+            }
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName] 간의 <humiliation_war_names>"
+}
+
+### PROTECTION WAR NAMES
+
+# Protection - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			OR = {
+				using_war_goal = {
+					type = wg_renegade_containment
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_end_threat
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_end_threat_swarm
+					owner = attacker
+				}
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj]에 대한 <protection_war_names>"
+}
+
+# Protection - Attacker Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			OR = {
+				using_war_goal = {
+					type = wg_renegade_containment
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_end_threat
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_end_threat_swarm
+					owner = attacker
+				}
+			}
+			attacker = {
+				has_federation = yes
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAllianceName]의 [This.MainDefender.GetAdj]에 대한 <protection_war_names>"
+}
+
+### CLEANSING PURIFIERS WAR NAMES
+
+# Cleansing Purifiers - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_cleansing
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				has_valid_civic = civic_fanatic_purifiers
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj]에 대한 <cleansing_pur_war_names>"
+}
+
+# Cleansing Purifiers - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_cleansing
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				has_valid_civic = civic_fanatic_purifiers
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName]에 대한 <cleansing_pur_war_names>"
+}
+
+### CLEANSING EXTERMINATORS WAR NAMES
+
+# Cleansing Exterminators - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_cleansing
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				has_valid_civic = civic_machine_terminator
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj]에 대한 <cleansing_ext_war_names>"
+}
+
+# Cleansing Exterminators - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_cleansing
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+				has_valid_civic = civic_machine_terminator
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName]에 대한 <cleansing_ext_war_names>"
+}
+
+### ABSORPTION WAR NAMES
+
+# Absorption - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_absorption
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <absorption_war_names>"
+}
+
+# Absorption - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_absorption
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName] <absorption_war_names>"
+}
+
+### FALLEN EMPIRE HUMILIATION WARS
+
+# Fallen Empire Humiliation - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_humiliation
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj]에 대한 <fe_humiliation_war_names>"
+}
+
+# Fallen Empire Humiliation - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_humiliation
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName]에 대한 <fe_humiliation_war_names>"
+}
+
+### FALLEN EMPIRE STOP ATROCITIES WARS
+
+# Fallen Empire Stop Atrocities - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_stop_atrocities
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj]에 대한 <fe_stop_atrocities_war_names>"
+}
+
+# Fallen Empire Stop Atrocities - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_stop_atrocities
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName]에 대한 <fe_stop_atrocities_war_names>"
+}
+
+### FALLEN EMPIRE STOP AI WARS
+
+# Fallen Empire Stop AI - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_stop_ai
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj]에 대한 <fe_stop_ai_war_names>"
+}
+
+# Fallen Empire Stop AI - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_stop_ai
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName]에 대한 <fe_stop_ai_war_names>"
+}
+
+### FALLEN EMPIRE CLEANSE HOLY WORLDS WARS
+
+# Fallen Empire Cleanse Holy Worlds - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_cleanse_holy_worlds
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <fe_cleanse_holy_worlds_war_names>"
+}
+
+# Fallen Empire Cleanse Holy Worlds - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_cleanse_holy_worlds
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAllianceName] <fe_cleanse_holy_worlds_war_names>"
+}
+
+### FALLEN EMPIRE CLEANSE BORDER WORLDS WARS
+
+# Fallen Empire Cleanse Border Worlds - No Federations
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_cleanse_border_worlds
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = no
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 대 [This.MainDefender.GetAdj] <fe_cleanse_border_worlds_war_names>"
+}
+
+# Fallen Empire Cleanse Border Worlds - Defender Federation
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_fe_cleanse_border_worlds
+				owner = attacker
+			}
+			attacker = {
+				has_federation = no
+			}
+			defender = {
+				has_federation = yes
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 대 [This.MainDefender.GetAllianceName] <fe_cleanse_border_worlds_war_names>"
+}
+
+### INDEPENDENCE WAR NAMES
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_independence
+				owner = attacker
+			}
+			attacker = {
+			}
+			defender = {
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj] <independence_war_names>"
+}
+
+### WAR IN HEAVEN
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_war_in_heaven
+				owner = attacker
+			}
+			attacker = {
+			}
+			defender = {
+			}
+		}
+	}
+	format = "<war_in_heaven_war_names>"
+}
+
+### MACHINE UPRISING
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_machine_uprising
+				owner = attacker
+			}
+			attacker = {
+			}
+			defender = {
+			}
+		}
+	}
+	format = "[This.MainDefender.GetAdj]의 <machine_uprising_war_names>"
+}
+
+## EXPEL CORP WARS
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_expel_corp
+				owner = attacker
+			}
+		}
+	}
+	format = "[This.MainAttacker.GetAdj]의 [This.MainDefender.GetAdj] <expel_corp_war_names>"
+}
+
+## GALATRON WARS
+war_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
+				type = wg_take_galatron
+				owner = attacker
+			}
+		}
+	}
+	format = "<galatron_war_names>"
+}
