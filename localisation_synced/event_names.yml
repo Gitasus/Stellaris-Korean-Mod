@@ -1,4 +1,4 @@
-﻿l_default: 
+﻿l_default:
  NAME_001011010001010: "001011010001010"
  NAME_00110001: "00110001"
  NAME_00110010: "00110010"
@@ -54,7 +54,7 @@
  NAME_Caravaneer_Fleet1_species: "벵랄"
  NAME_Caravaneer_Fleet2:1 "누마의 기사단"
  NAME_Caravaneer_Fleet2_fleet: "행운의 바람"
- NAME_Caravaneer_Fleet2_ship: "행운의 바람" 
+ NAME_Caravaneer_Fleet2_ship: "행운의 바람"
  NAME_Caravaneer_Fleet2_species:1 "누마의 상인"
  NAME_Caravaneer_Fleet2_species_plural:1 "누마의 상인"
  NAME_Caravaneer_Fleet3: "라켓 공업사"
@@ -69,7 +69,7 @@
  NAME_Chors_Compass: "초르의 나침반"
  NAME_Chosen_of_the_Great_Khan: "위대한 칸에게 선택받은 자"
  NAME_Cleanser: "정화자"
- NAME_Cloaker: "매복자
+ NAME_Cloaker: "매복자"
  NAME_Cockroach: "바퀴벌레"
  NAME_Comet_Sighted: "혜성 발견"
  NAME_Constructor: "건설선"
@@ -150,7 +150,7 @@
  NAME_Exiled_One: "봉인된 존재"
  NAME_Exiled_Pirates: "추방당한 해적들"
  NAME_Feral_Prethoryn: "야생 프레소린"
- NAME_Fifth_Wheel: "4륜 마차" #미발견
+ NAME_Fifth_Wheel: "4륜 마차" #미발견"
  NAME_Final_Judgment: "최후의 심판"
  NAME_First_Pillager: "첫번째 약탈자"
  NAME_First_Ravager: "첫번째 유린자"
@@ -166,12 +166,12 @@
  NAME_GRN-664: "GRN-664"
  NAME_Galactic_Horde: "은하 칸국"
  NAME_New_Galactic_Horde: "신 은하 칸국"
- NAME_Galactic_Nomads: "은하 유목민" 
+ NAME_Galactic_Nomads: "은하 유목민"
  NAME_Gallant_Dawn: "용감한 여명"
  NAME_Gamma: "감마"
  NAME_Garrison_Base: "칸국 수비대 정거장"
  NAME_Garrison_Fleet: "칸국 수비대 함대"
- NAME_Gatebuilder_Starbase: "카프로크" 
+ NAME_Gatebuilder_Starbase: "카프로크"
  NAME_General_Mojito: "모지토 장군"
  NAME_Ghost: "유령"
  NAME_Gish: "기쉬"
@@ -186,7 +186,7 @@
  NAME_Heathens_Doom: "불신자의 파멸"
  NAME_Heavenly_Judgment: "천상의 법정"
  NAME_Heavenly_Portent: "천상의 징조"
- NAME_Her_Chosen_Champions: "그녀에게 선택받은 챔피언" 
+ NAME_Her_Chosen_Champions: "그녀에게 선택받은 챔피언"
  NAME_Hijacked_Fleet: "강탈당한 함대"
  NAME_Hissy_Fit: "심술통"
  NAME_Hiver_Nest: "무리 군락"
@@ -216,8 +216,8 @@
  NAME_Kix_the_Brilliant: "뛰어난 자 킥스"
  NAME_Kriminals: "범제자들"
  NAME_League_of_Non-Aligned_Powers: "중립 세력 연맹"
- NAME_Librarian: "사서관" 
- NAME_Life_Tree_Protector:1 "생명의 나무 수호자" 
+ NAME_Librarian: "사서관"
+ NAME_Life_Tree_Protector:1 "생명의 나무 수호자"
  NAME_Life_Tree_Protectors: "생명의 나무 수호자들"
  NAME_Looped_Syzygy: "순환하는 대칭체"
  NAME_Loot-Equipped_Army: "노획 장비 군대"
@@ -227,7 +227,7 @@
  NAME_Majula_the_Bearer: "운반자 마줄라"
  NAME_Marauding_Creatures: "굶주린 괴물"
  NAME_Marauding_Swarms: "굶주린 무리"
- NAME_Meat-Bag-Processor: "고기 주머니 가공기" #미발견
+ NAME_Meat-Bag-Processor: "고기 주머니 가공기" #미발견"
  NAME_Mercenary_Flotilla: "용병 함대"
  NAME_Migil-Yar: "미길-야르"
  NAME_Migrating_Trees: "움직이는 나무들"
@@ -241,7 +241,7 @@
  NAME_Nanite_Dragon: "모조 용"
  NAME_Nellie: "넬리"
  NAME_Neo-Chimp: "네오 침프"
- NAME_Neo-Chimps: "네오 침프" 
+ NAME_Neo-Chimps: "네오 침프"
  NAME_Nesting_Crystals: "둥지튼 크리스탈"
  NAME_New_Baldarak: "뉴 발다락"
  NAME_New_Khanate: "신 [This.GetSpeciesName] 칸국"
@@ -282,7 +282,7 @@
  NAME_Post-Atomic_Army: "원자력 시대 군대"
  NAME_Prethoryn: "프레소린"
  NAME_Prethoryn_Armies: "프레소린 군대"
- NAME_Prethoryn_Constructor: "프레소린 건설자
+ NAME_Prethoryn_Constructor: "프레소린 건설자"
  NAME_Prethoryn_Infestor: "프레소린 감염체"
  NAME_Prethoryn_Invaders: "프레소린 침공자"
  NAME_Prethoryn_Scourge: "프레소린 스컬지"
@@ -380,12 +380,12 @@
  NAME_Syzygy: "대칭체"
  NAME_TAHA: "타하"
  NAME_TANT: "탄트"
- NAME_TEST_PROJECT: "테스트_프로젝트" #미발견
- NAME_TIME_IS_SIGHT_GRAVITY_IS_DESIRE: "시간은 보고있고 중력은 갈구한다" #미발견
+ NAME_TEST_PROJECT: "테스트_프로젝트" #미발견"
+ NAME_TIME_IS_SIGHT_GRAVITY_IS_DESIRE: "시간은 보고있고 중력은 갈구한다" #미발견"
  NAME_Tau: "타우"
  NAME_Tempest_Fleet: "폭풍의 무리"
  NAME_Temple_of_Light: "빛의 사원"
- NAME_Test: "테스트" #미발견
+ NAME_Test: "테스트" #미발견"
  NAME_The_Chosen_One: "선택받은 자"
  NAME_The_End: "종말"
  NAME_The_Exile: "추방자"
@@ -430,16 +430,16 @@
  NAME_YAQU: "야퀴"
  NAME_Yojimbo: "요짐보 무장 호위함"
  NAME_Young_Dragon: "미숙한 표본"
- NAME_aggro_40: "분쟁 40" #미발견
- NAME_aggro_60: "분쟁 60" #미발견
- NAME_aggro_80: "분쟁 80" #미발견
- NAME_aggro_def_20: "분쟁 def(20)" #미발견
+ NAME_aggro_40: "분쟁 40" #미발견"
+ NAME_aggro_60: "분쟁 60" #미발견"
+ NAME_aggro_80: "분쟁 80" #미발견"
+ NAME_aggro_def_20: "분쟁 def(20)" #미발견"
  NAME_enigmatic_cache: "수수깨끼의 은닉처"
  NAME_fleet2_hired_leader:1 "누마의 전도사"
  NAME_mardak_vol_haters: "볼"
  NAME_mardak_vol_haters_fleet: "마르닥 정화자"
  NAME_merchant_leader: "프라크티 마고운"
- NAME_putte: "퍼트리는 자" #미발견
+ NAME_putte: "퍼트리는 자" #미발견"
  NAME_test_fleet: "시험 함대"
  Territorial_Invasion: "영토 침공"
  Eye_of_Bal: "발의 눈"
@@ -499,15 +499,15 @@
  NAME_wenkwort_4: "마츠렌"
  NAME_Gardeners: "아돈 관리인"
  NAME_wenkwort_asteroid: "트루인"
- NAME_Wenkwort_Keeper: "아우돈 관리인" #Species
+ NAME_Wenkwort_Keeper: "아우돈 관리인" #Species"
  NAME_Wenkwort_Keepers: "아우돈 관리인"
- NAME_Gardener_Drones: "관리자 사단 14-WW" #Fleet
- NAME_Gardener_Drone: "아우돈 관리 유닛" #Ship Design
+ NAME_Gardener_Drones: "관리자 사단 14-WW" #Fleet"
+ NAME_Gardener_Drone: "아우돈 관리 유닛" #Ship Design"
  NAME_Gardener1: "CT 퍼톤"
  NAME_Gardener2: "CT 스파톤-본"
  NAME_Gardener3: "CT 위세톤"
- NAME_Wenkwort_Enforcers: "집행 사단 61-VL" #Fleet
- NAME_Wenkwort_Enforcer: "아우돈 순양함" #Ship Design
+ NAME_Wenkwort_Enforcers: "집행 사단 61-VL" #Fleet"
+ NAME_Wenkwort_Enforcer: "아우돈 순양함" #Ship Design"
  NAME_Tiyanki_Hatchling: "티얀키 유체"
  NAME_Hatchling: "유체"
  NAME_Tiyana_Vek: "티야나 베크"
@@ -562,9 +562,9 @@
  NAME_Declared_Crisis_War: "[This.MainDefender.GetAdj] 위기 전쟁"
  NAME_Crisis_Star_Eater: "스타-이터"
  NAME_GDF: "은하 방어군"
- 
- 
- 
- 
- 
- 
+ NAME_Imperial_Crusade_War: "은하 제국 십자군"
+ NAME_Eldritch_Horror: "끔찍한 공포"
+ NAME_The_Outer_Gate: "외부 관문"
+ NAME_Snow_Crystal: "눈 결정"
+ NAME_Central_Crystal_Country: "수정체 제국"
+ NAME_Central_Crystal_Species: "제르-아야키"
