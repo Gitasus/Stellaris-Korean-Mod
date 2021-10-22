@@ -1,11 +1,11 @@
-﻿species_modification_prefix = { 
-	네오- 
-	포스트- 
-	슈퍼- 
-	울트라- 
-	메타- 
-	트렌스- 
-	"고등 "
+﻿species_modification_prefix = {
+	네오-
+	포스트-
+	슈퍼-
+	울트라-
+	메타-
+	트렌스-
+	고등 
 }
 
 species_modification_postfix = { 

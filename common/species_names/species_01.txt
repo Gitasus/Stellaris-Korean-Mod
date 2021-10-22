@@ -1,5 +1,5 @@
 ﻿# Generated species derive their names from here
-### 번역: Holy_Mackerel
+### 번역: Holy_Mackerel & 기타 번역자들
 ### MAMMALIANS
 
 MAM = {
