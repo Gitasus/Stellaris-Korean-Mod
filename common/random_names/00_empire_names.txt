@@ -2230,7 +2230,7 @@ empire_name_format = {
 			OR = {
 				has_government = "gov_enlightened_monarchy"
 				has_government = "gov_elective_monarchy"
-			}
+			}		
 			is_pirate = no
 			is_primitive = no
 			NOT = { is_country_type = fallen_empire }

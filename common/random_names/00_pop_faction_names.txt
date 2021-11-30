@@ -33,7 +33,7 @@ pop_faction_name_format = {
 			is_pop_faction_type = "supremacist"
 		}
 	}
-	format = "format.pop_faction.supremacist"
+	format = format = "format.pop_faction.supremacist"
 }
 
 ## Imperialists
@@ -315,6 +315,8 @@ pop_faction_name_parts_list = {
 	}
 }
 
+
+
 pop_faction_name_format = {
 	random_weight = {
 		factor = 0
@@ -328,7 +330,7 @@ pop_faction_name_format = {
 
 ## Traditionalists
 pop_faction_name_parts_list = {
-	key = "traditionalist_names_1"
+	key = "traditionalist_names_2"
 	parts = {
 		"연합" = 1
 		"동맹" = 1
@@ -340,7 +342,7 @@ pop_faction_name_parts_list = {
 }
 
 pop_faction_name_parts_list = {
-	key = "traditionalist_names_2"
+	key = "traditionalist_names_1"
 	parts = {
 		"전통적 가치관의" = 1
 		"종교주의" = 1
@@ -369,7 +371,7 @@ pop_faction_name_format = {
 			is_pop_faction_type = "traditionalist"
 		}
 	}
-	format = "format.pop_faction.traditionalist"
+	format = format = "format.pop_faction.traditionalist"
 }
 
 ## Xenoists
@@ -465,6 +467,7 @@ pop_faction_name_format = {
 			add = 100
 			is_pop_faction_type = "manifesti"
 		}
+		format = "format.pop_faction.manifesti"
 	}
-	format = "format.pop_faction.manifesti"
+	format = "<manifesti_names_2> <manifesti_names_1>"
 }
